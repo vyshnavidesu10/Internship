@@ -1,0 +1,13 @@
+pandas
+numpy
+spacy
+sentence-transformers
+faiss-cpu
+networkx
+matplotlib
+langchain
+langchain-text-splitters
+pypdf
+reportlab
+python-dotenv
+openai

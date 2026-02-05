@@ -1,0 +1,2800 @@
+[
+    {
+        "doc_id": "SEMI_1",
+        "timestamp": "2026-01-27T22:31:09.308542",
+        "file_name": "email_data.json",
+        "source_type": "SEMI",
+        "data": [
+            {
+                "email_id": "M001",
+                "sender": "neha@company.com",
+                "receiver": [
+                    "ravi@company.com"
+                ],
+                "subject": "Policy Compliance",
+                "body": "We should link HR policies with employee data for better insights.",
+                "timestamp": "2024-02-12 11:30"
+            },
+            {
+                "email_id": "M002",
+                "sender": "ravi@company.com",
+                "receiver": [
+                    "hr@company.com"
+                ],
+                "subject": "Employee Performance Review",
+                "body": "Kindly confirm the current status at the earliest.",
+                "timestamp": "2024-02-12 12:30"
+            },
+            {
+                "email_id": "M003",
+                "sender": "suman@company.com",
+                "receiver": [
+                    "manager@company.com"
+                ],
+                "subject": "Leave Policy Update",
+                "body": "This is a reminder regarding the pending action.",
+                "timestamp": "2024-02-12 13:30"
+            },
+            {
+                "email_id": "M004",
+                "sender": "arjun@company.com",
+                "receiver": [
+                    "admin@company.com"
+                ],
+                "subject": "System Access Request",
+                "body": "Let us schedule a meeting to discuss further.",
+                "timestamp": "2024-02-12 14:30"
+            },
+            {
+                "email_id": "M005",
+                "sender": "amit@company.com",
+                "receiver": [
+                    "neha@company.com"
+                ],
+                "subject": "Project Deadline Reminder",
+                "body": "Please ensure compliance with the updated policy.",
+                "timestamp": "2024-02-12 15:30"
+            },
+            {
+                "email_id": "M006",
+                "sender": "neha@company.com",
+                "receiver": [
+                    "ravi@company.com"
+                ],
+                "subject": "HR Policy Discussion",
+                "body": "Please review the attached document and share your feedback.",
+                "timestamp": "2024-02-12 16:30"
+            },
+            {
+                "email_id": "M007",
+                "sender": "ravi@company.com",
+                "receiver": [
+                    "hr@company.com"
+                ],
+                "subject": "AI Knowledge Graph Project",
+                "body": "We should link HR policies with employee data for better insights.",
+                "timestamp": "2024-02-12 17:30"
+            },
+            {
+                "email_id": "M008",
+                "sender": "suman@company.com",
+                "receiver": [
+                    "manager@company.com"
+                ],
+                "subject": "Policy Compliance",
+                "body": "Kindly confirm the current status at the earliest.",
+                "timestamp": "2024-02-12 18:30"
+            },
+            {
+                "email_id": "M009",
+                "sender": "arjun@company.com",
+                "receiver": [
+                    "admin@company.com"
+                ],
+                "subject": "Employee Performance Review",
+                "body": "This is a reminder regarding the pending action.",
+                "timestamp": "2024-02-12 19:30"
+            },
+            {
+                "email_id": "M010",
+                "sender": "amit@company.com",
+                "receiver": [
+                    "neha@company.com"
+                ],
+                "subject": "Leave Policy Update",
+                "body": "Let us schedule a meeting to discuss further.",
+                "timestamp": "2024-02-12 20:30"
+            },
+            {
+                "email_id": "M011",
+                "sender": "neha@company.com",
+                "receiver": [
+                    "ravi@company.com"
+                ],
+                "subject": "System Access Request",
+                "body": "Please ensure compliance with the updated policy.",
+                "timestamp": "2024-02-12 21:30"
+            },
+            {
+                "email_id": "M012",
+                "sender": "ravi@company.com",
+                "receiver": [
+                    "hr@company.com"
+                ],
+                "subject": "Project Deadline Reminder",
+                "body": "Please review the attached document and share your feedback.",
+                "timestamp": "2024-02-12 22:30"
+            },
+            {
+                "email_id": "M013",
+                "sender": "suman@company.com",
+                "receiver": [
+                    "manager@company.com"
+                ],
+                "subject": "HR Policy Discussion",
+                "body": "We should link HR policies with employee data for better insights.",
+                "timestamp": "2024-02-12 23:30"
+            },
+            {
+                "email_id": "M014",
+                "sender": "arjun@company.com",
+                "receiver": [
+                    "admin@company.com"
+                ],
+                "subject": "AI Knowledge Graph Project",
+                "body": "Kindly confirm the current status at the earliest.",
+                "timestamp": "2024-02-13 00:30"
+            },
+            {
+                "email_id": "M015",
+                "sender": "amit@company.com",
+                "receiver": [
+                    "neha@company.com"
+                ],
+                "subject": "Policy Compliance",
+                "body": "This is a reminder regarding the pending action.",
+                "timestamp": "2024-02-13 01:30"
+            },
+            {
+                "email_id": "M016",
+                "sender": "neha@company.com",
+                "receiver": [
+                    "ravi@company.com"
+                ],
+                "subject": "Employee Performance Review",
+                "body": "Let us schedule a meeting to discuss further.",
+                "timestamp": "2024-02-13 02:30"
+            },
+            {
+                "email_id": "M017",
+                "sender": "ravi@company.com",
+                "receiver": [
+                    "hr@company.com"
+                ],
+                "subject": "Leave Policy Update",
+                "body": "Please ensure compliance with the updated policy.",
+                "timestamp": "2024-02-13 03:30"
+            },
+            {
+                "email_id": "M018",
+                "sender": "suman@company.com",
+                "receiver": [
+                    "manager@company.com"
+                ],
+                "subject": "System Access Request",
+                "body": "Please review the attached document and share your feedback.",
+                "timestamp": "2024-02-13 04:30"
+            },
+            {
+                "email_id": "M019",
+                "sender": "arjun@company.com",
+                "receiver": [
+                    "admin@company.com"
+                ],
+                "subject": "Project Deadline Reminder",
+                "body": "We should link HR policies with employee data for better insights.",
+                "timestamp": "2024-02-13 05:30"
+            },
+            {
+                "email_id": "M020",
+                "sender": "amit@company.com",
+                "receiver": [
+                    "neha@company.com"
+                ],
+                "subject": "HR Policy Discussion",
+                "body": "Kindly confirm the current status at the earliest.",
+                "timestamp": "2024-02-13 06:30"
+            },
+            {
+                "email_id": "M021",
+                "sender": "neha@company.com",
+                "receiver": [
+                    "ravi@company.com"
+                ],
+                "subject": "AI Knowledge Graph Project",
+                "body": "This is a reminder regarding the pending action.",
+                "timestamp": "2024-02-13 07:30"
+            },
+            {
+                "email_id": "M022",
+                "sender": "ravi@company.com",
+                "receiver": [
+                    "hr@company.com"
+                ],
+                "subject": "Policy Compliance",
+                "body": "Let us schedule a meeting to discuss further.",
+                "timestamp": "2024-02-13 08:30"
+            },
+            {
+                "email_id": "M023",
+                "sender": "suman@company.com",
+                "receiver": [
+                    "manager@company.com"
+                ],
+                "subject": "Employee Performance Review",
+                "body": "Please ensure compliance with the updated policy.",
+                "timestamp": "2024-02-13 09:30"
+            },
+            {
+                "email_id": "M024",
+                "sender": "arjun@company.com",
+                "receiver": [
+                    "admin@company.com"
+                ],
+                "subject": "Leave Policy Update",
+                "body": "Please review the attached document and share your feedback.",
+                "timestamp": "2024-02-13 10:30"
+            },
+            {
+                "email_id": "M025",
+                "sender": "amit@company.com",
+                "receiver": [
+                    "neha@company.com"
+                ],
+                "subject": "System Access Request",
+                "body": "We should link HR policies with employee data for better insights.",
+                "timestamp": "2024-02-13 11:30"
+            },
+            {
+                "email_id": "M026",
+                "sender": "neha@company.com",
+                "receiver": [
+                    "ravi@company.com"
+                ],
+                "subject": "Project Deadline Reminder",
+                "body": "Kindly confirm the current status at the earliest.",
+                "timestamp": "2024-02-13 12:30"
+            },
+            {
+                "email_id": "M027",
+                "sender": "ravi@company.com",
+                "receiver": [
+                    "hr@company.com"
+                ],
+                "subject": "HR Policy Discussion",
+                "body": "This is a reminder regarding the pending action.",
+                "timestamp": "2024-02-13 13:30"
+            },
+            {
+                "email_id": "M028",
+                "sender": "suman@company.com",
+                "receiver": [
+                    "manager@company.com"
+                ],
+                "subject": "AI Knowledge Graph Project",
+                "body": "Let us schedule a meeting to discuss further.",
+                "timestamp": "2024-02-13 14:30"
+            },
+            {
+                "email_id": "M029",
+                "sender": "arjun@company.com",
+                "receiver": [
+                    "admin@company.com"
+                ],
+                "subject": "Policy Compliance",
+                "body": "Please ensure compliance with the updated policy.",
+                "timestamp": "2024-02-13 15:30"
+            },
+            {
+                "email_id": "M030",
+                "sender": "amit@company.com",
+                "receiver": [
+                    "neha@company.com"
+                ],
+                "subject": "Employee Performance Review",
+                "body": "Please review the attached document and share your feedback.",
+                "timestamp": "2024-02-13 16:30"
+            },
+            {
+                "email_id": "M031",
+                "sender": "neha@company.com",
+                "receiver": [
+                    "ravi@company.com"
+                ],
+                "subject": "Leave Policy Update",
+                "body": "We should link HR policies with employee data for better insights.",
+                "timestamp": "2024-02-13 17:30"
+            },
+            {
+                "email_id": "M032",
+                "sender": "ravi@company.com",
+                "receiver": [
+                    "hr@company.com"
+                ],
+                "subject": "System Access Request",
+                "body": "Kindly confirm the current status at the earliest.",
+                "timestamp": "2024-02-13 18:30"
+            },
+            {
+                "email_id": "M033",
+                "sender": "suman@company.com",
+                "receiver": [
+                    "manager@company.com"
+                ],
+                "subject": "Project Deadline Reminder",
+                "body": "This is a reminder regarding the pending action.",
+                "timestamp": "2024-02-13 19:30"
+            },
+            {
+                "email_id": "M034",
+                "sender": "arjun@company.com",
+                "receiver": [
+                    "admin@company.com"
+                ],
+                "subject": "HR Policy Discussion",
+                "body": "Let us schedule a meeting to discuss further.",
+                "timestamp": "2024-02-13 20:30"
+            },
+            {
+                "email_id": "M035",
+                "sender": "amit@company.com",
+                "receiver": [
+                    "neha@company.com"
+                ],
+                "subject": "AI Knowledge Graph Project",
+                "body": "Please ensure compliance with the updated policy.",
+                "timestamp": "2024-02-13 21:30"
+            },
+            {
+                "email_id": "M036",
+                "sender": "neha@company.com",
+                "receiver": [
+                    "ravi@company.com"
+                ],
+                "subject": "Policy Compliance",
+                "body": "Please review the attached document and share your feedback.",
+                "timestamp": "2024-02-13 22:30"
+            },
+            {
+                "email_id": "M037",
+                "sender": "ravi@company.com",
+                "receiver": [
+                    "hr@company.com"
+                ],
+                "subject": "Employee Performance Review",
+                "body": "We should link HR policies with employee data for better insights.",
+                "timestamp": "2024-02-13 23:30"
+            },
+            {
+                "email_id": "M038",
+                "sender": "suman@company.com",
+                "receiver": [
+                    "manager@company.com"
+                ],
+                "subject": "Leave Policy Update",
+                "body": "Kindly confirm the current status at the earliest.",
+                "timestamp": "2024-02-14 00:30"
+            },
+            {
+                "email_id": "M039",
+                "sender": "arjun@company.com",
+                "receiver": [
+                    "admin@company.com"
+                ],
+                "subject": "System Access Request",
+                "body": "This is a reminder regarding the pending action.",
+                "timestamp": "2024-02-14 01:30"
+            },
+            {
+                "email_id": "M040",
+                "sender": "amit@company.com",
+                "receiver": [
+                    "neha@company.com"
+                ],
+                "subject": "Project Deadline Reminder",
+                "body": "Let us schedule a meeting to discuss further.",
+                "timestamp": "2024-02-14 02:30"
+            },
+            {
+                "email_id": "M041",
+                "sender": "neha@company.com",
+                "receiver": [
+                    "ravi@company.com"
+                ],
+                "subject": "HR Policy Discussion",
+                "body": "Please ensure compliance with the updated policy.",
+                "timestamp": "2024-02-14 03:30"
+            },
+            {
+                "email_id": "M042",
+                "sender": "ravi@company.com",
+                "receiver": [
+                    "hr@company.com"
+                ],
+                "subject": "AI Knowledge Graph Project",
+                "body": "Please review the attached document and share your feedback.",
+                "timestamp": "2024-02-14 04:30"
+            },
+            {
+                "email_id": "M043",
+                "sender": "suman@company.com",
+                "receiver": [
+                    "manager@company.com"
+                ],
+                "subject": "Policy Compliance",
+                "body": "We should link HR policies with employee data for better insights.",
+                "timestamp": "2024-02-14 05:30"
+            },
+            {
+                "email_id": "M044",
+                "sender": "arjun@company.com",
+                "receiver": [
+                    "admin@company.com"
+                ],
+                "subject": "Employee Performance Review",
+                "body": "Kindly confirm the current status at the earliest.",
+                "timestamp": "2024-02-14 06:30"
+            },
+            {
+                "email_id": "M045",
+                "sender": "amit@company.com",
+                "receiver": [
+                    "neha@company.com"
+                ],
+                "subject": "Leave Policy Update",
+                "body": "This is a reminder regarding the pending action.",
+                "timestamp": "2024-02-14 07:30"
+            },
+            {
+                "email_id": "M046",
+                "sender": "neha@company.com",
+                "receiver": [
+                    "ravi@company.com"
+                ],
+                "subject": "System Access Request",
+                "body": "Let us schedule a meeting to discuss further.",
+                "timestamp": "2024-02-14 08:30"
+            },
+            {
+                "email_id": "M047",
+                "sender": "ravi@company.com",
+                "receiver": [
+                    "hr@company.com"
+                ],
+                "subject": "Project Deadline Reminder",
+                "body": "Please ensure compliance with the updated policy.",
+                "timestamp": "2024-02-14 09:30"
+            },
+            {
+                "email_id": "M048",
+                "sender": "suman@company.com",
+                "receiver": [
+                    "manager@company.com"
+                ],
+                "subject": "HR Policy Discussion",
+                "body": "Please review the attached document and share your feedback.",
+                "timestamp": "2024-02-14 10:30"
+            },
+            {
+                "email_id": "M049",
+                "sender": "arjun@company.com",
+                "receiver": [
+                    "admin@company.com"
+                ],
+                "subject": "AI Knowledge Graph Project",
+                "body": "We should link HR policies with employee data for better insights.",
+                "timestamp": "2024-02-14 11:30"
+            },
+            {
+                "email_id": "M050",
+                "sender": "amit@company.com",
+                "receiver": [
+                    "neha@company.com"
+                ],
+                "subject": "Policy Compliance",
+                "body": "Kindly confirm the current status at the earliest.",
+                "timestamp": "2024-02-14 12:30"
+            }
+        ]
+    },
+    {
+        "doc_id": "SEMI_2",
+        "timestamp": "2026-01-27T22:31:09.308542",
+        "file_name": "meeting_data.json",
+        "source_type": "SEMI",
+        "data": [
+            {
+                "meeting_id": "MT001",
+                "topic": "HR Policy Review",
+                "participants": [
+                    "E007",
+                    "E033",
+                    "E048"
+                ],
+                "date": "2024-03-02",
+                "summary": "Review of updated HR and leave policies."
+            },
+            {
+                "meeting_id": "MT002",
+                "topic": "Cloud Migration Plan",
+                "participants": [
+                    "E018",
+                    "E034",
+                    "E045"
+                ],
+                "date": "2024-03-03",
+                "summary": "Planning the migration of services to the cloud."
+            },
+            {
+                "meeting_id": "MT003",
+                "topic": "Data Governance Meeting",
+                "participants": [
+                    "E018",
+                    "E033",
+                    "E053"
+                ],
+                "date": "2024-03-04",
+                "summary": "Discussion on data quality and governance standards."
+            },
+            {
+                "meeting_id": "MT004",
+                "topic": "Security Compliance Update",
+                "participants": [
+                    "E019",
+                    "E034",
+                    "E055"
+                ],
+                "date": "2024-03-05",
+                "summary": "Update on security audits and compliance status."
+            },
+            {
+                "meeting_id": "MT005",
+                "topic": "Product Roadmap Discussion",
+                "participants": [
+                    "E019",
+                    "E031",
+                    "E055"
+                ],
+                "date": "2024-03-06",
+                "summary": "Alignment on upcoming product features and timelines."
+            },
+            {
+                "meeting_id": "MT006",
+                "topic": "AI Knowledge Graph Integration",
+                "participants": [
+                    "E009",
+                    "E035",
+                    "E060"
+                ],
+                "date": "2024-03-07",
+                "summary": "Exploring AI-driven insights across enterprise data."
+            },
+            {
+                "meeting_id": "MT007",
+                "topic": "System Architecture Review",
+                "participants": [
+                    "E003",
+                    "E026",
+                    "E053"
+                ],
+                "date": "2024-03-08",
+                "summary": "Review of current system architecture and improvements."
+            },
+            {
+                "meeting_id": "MT008",
+                "topic": "Enterprise AI Strategy",
+                "participants": [
+                    "E013",
+                    "E033",
+                    "E056"
+                ],
+                "date": "2024-03-09",
+                "summary": "Discussion on integrating RAG with knowledge graphs."
+            },
+            {
+                "meeting_id": "MT009",
+                "topic": "HR Policy Review",
+                "participants": [
+                    "E003",
+                    "E024",
+                    "E049"
+                ],
+                "date": "2024-03-10",
+                "summary": "Review of updated HR and leave policies."
+            },
+            {
+                "meeting_id": "MT010",
+                "topic": "Cloud Migration Plan",
+                "participants": [
+                    "E005",
+                    "E026",
+                    "E054"
+                ],
+                "date": "2024-03-11",
+                "summary": "Planning the migration of services to the cloud."
+            },
+            {
+                "meeting_id": "MT011",
+                "topic": "Data Governance Meeting",
+                "participants": [
+                    "E010",
+                    "E031",
+                    "E046"
+                ],
+                "date": "2024-03-12",
+                "summary": "Discussion on data quality and governance standards."
+            },
+            {
+                "meeting_id": "MT012",
+                "topic": "Security Compliance Update",
+                "participants": [
+                    "E010",
+                    "E026",
+                    "E056"
+                ],
+                "date": "2024-03-13",
+                "summary": "Update on security audits and compliance status."
+            },
+            {
+                "meeting_id": "MT013",
+                "topic": "Product Roadmap Discussion",
+                "participants": [
+                    "E012",
+                    "E039",
+                    "E059"
+                ],
+                "date": "2024-03-14",
+                "summary": "Alignment on upcoming product features and timelines."
+            },
+            {
+                "meeting_id": "MT014",
+                "topic": "AI Knowledge Graph Integration",
+                "participants": [
+                    "E006",
+                    "E029",
+                    "E046"
+                ],
+                "date": "2024-03-15",
+                "summary": "Exploring AI-driven insights across enterprise data."
+            },
+            {
+                "meeting_id": "MT015",
+                "topic": "System Architecture Review",
+                "participants": [
+                    "E001",
+                    "E034",
+                    "E042"
+                ],
+                "date": "2024-03-16",
+                "summary": "Review of current system architecture and improvements."
+            },
+            {
+                "meeting_id": "MT016",
+                "topic": "Enterprise AI Strategy",
+                "participants": [
+                    "E006",
+                    "E035",
+                    "E045"
+                ],
+                "date": "2024-03-17",
+                "summary": "Discussion on integrating RAG with knowledge graphs."
+            },
+            {
+                "meeting_id": "MT017",
+                "topic": "HR Policy Review",
+                "participants": [
+                    "E014",
+                    "E024",
+                    "E047"
+                ],
+                "date": "2024-03-18",
+                "summary": "Review of updated HR and leave policies."
+            },
+            {
+                "meeting_id": "MT018",
+                "topic": "Cloud Migration Plan",
+                "participants": [
+                    "E009",
+                    "E028",
+                    "E057"
+                ],
+                "date": "2024-03-19",
+                "summary": "Planning the migration of services to the cloud."
+            },
+            {
+                "meeting_id": "MT019",
+                "topic": "Data Governance Meeting",
+                "participants": [
+                    "E008",
+                    "E030",
+                    "E045"
+                ],
+                "date": "2024-03-20",
+                "summary": "Discussion on data quality and governance standards."
+            },
+            {
+                "meeting_id": "MT020",
+                "topic": "Security Compliance Update",
+                "participants": [
+                    "E001",
+                    "E026",
+                    "E055"
+                ],
+                "date": "2024-03-21",
+                "summary": "Update on security audits and compliance status."
+            },
+            {
+                "meeting_id": "MT021",
+                "topic": "Product Roadmap Discussion",
+                "participants": [
+                    "E016",
+                    "E026",
+                    "E058"
+                ],
+                "date": "2024-03-22",
+                "summary": "Alignment on upcoming product features and timelines."
+            },
+            {
+                "meeting_id": "MT022",
+                "topic": "AI Knowledge Graph Integration",
+                "participants": [
+                    "E015",
+                    "E033",
+                    "E047"
+                ],
+                "date": "2024-03-23",
+                "summary": "Exploring AI-driven insights across enterprise data."
+            },
+            {
+                "meeting_id": "MT023",
+                "topic": "System Architecture Review",
+                "participants": [
+                    "E014",
+                    "E037",
+                    "E058"
+                ],
+                "date": "2024-03-24",
+                "summary": "Review of current system architecture and improvements."
+            },
+            {
+                "meeting_id": "MT024",
+                "topic": "Enterprise AI Strategy",
+                "participants": [
+                    "E019",
+                    "E036",
+                    "E050"
+                ],
+                "date": "2024-03-25",
+                "summary": "Discussion on integrating RAG with knowledge graphs."
+            },
+            {
+                "meeting_id": "MT025",
+                "topic": "HR Policy Review",
+                "participants": [
+                    "E005",
+                    "E040",
+                    "E046"
+                ],
+                "date": "2024-03-26",
+                "summary": "Review of updated HR and leave policies."
+            },
+            {
+                "meeting_id": "MT026",
+                "topic": "Cloud Migration Plan",
+                "participants": [
+                    "E009",
+                    "E029",
+                    "E052"
+                ],
+                "date": "2024-03-27",
+                "summary": "Planning the migration of services to the cloud."
+            },
+            {
+                "meeting_id": "MT027",
+                "topic": "Data Governance Meeting",
+                "participants": [
+                    "E018",
+                    "E037",
+                    "E046"
+                ],
+                "date": "2024-03-28",
+                "summary": "Discussion on data quality and governance standards."
+            },
+            {
+                "meeting_id": "MT028",
+                "topic": "Security Compliance Update",
+                "participants": [
+                    "E011",
+                    "E029",
+                    "E045"
+                ],
+                "date": "2024-03-29",
+                "summary": "Update on security audits and compliance status."
+            },
+            {
+                "meeting_id": "MT029",
+                "topic": "Product Roadmap Discussion",
+                "participants": [
+                    "E003",
+                    "E026",
+                    "E059"
+                ],
+                "date": "2024-03-30",
+                "summary": "Alignment on upcoming product features and timelines."
+            },
+            {
+                "meeting_id": "MT030",
+                "topic": "AI Knowledge Graph Integration",
+                "participants": [
+                    "E010",
+                    "E037",
+                    "E059"
+                ],
+                "date": "2024-03-31",
+                "summary": "Exploring AI-driven insights across enterprise data."
+            },
+            {
+                "meeting_id": "MT031",
+                "topic": "System Architecture Review",
+                "participants": [
+                    "E002",
+                    "E028",
+                    "E048"
+                ],
+                "date": "2024-04-01",
+                "summary": "Review of current system architecture and improvements."
+            },
+            {
+                "meeting_id": "MT032",
+                "topic": "Enterprise AI Strategy",
+                "participants": [
+                    "E011",
+                    "E035",
+                    "E044"
+                ],
+                "date": "2024-04-02",
+                "summary": "Discussion on integrating RAG with knowledge graphs."
+            },
+            {
+                "meeting_id": "MT033",
+                "topic": "HR Policy Review",
+                "participants": [
+                    "E013",
+                    "E038",
+                    "E047"
+                ],
+                "date": "2024-04-03",
+                "summary": "Review of updated HR and leave policies."
+            },
+            {
+                "meeting_id": "MT034",
+                "topic": "Cloud Migration Plan",
+                "participants": [
+                    "E001",
+                    "E027",
+                    "E048"
+                ],
+                "date": "2024-04-04",
+                "summary": "Planning the migration of services to the cloud."
+            },
+            {
+                "meeting_id": "MT035",
+                "topic": "Data Governance Meeting",
+                "participants": [
+                    "E011",
+                    "E035",
+                    "E047"
+                ],
+                "date": "2024-04-05",
+                "summary": "Discussion on data quality and governance standards."
+            },
+            {
+                "meeting_id": "MT036",
+                "topic": "Security Compliance Update",
+                "participants": [
+                    "E009",
+                    "E025",
+                    "E055"
+                ],
+                "date": "2024-04-06",
+                "summary": "Update on security audits and compliance status."
+            },
+            {
+                "meeting_id": "MT037",
+                "topic": "Product Roadmap Discussion",
+                "participants": [
+                    "E011",
+                    "E025",
+                    "E052"
+                ],
+                "date": "2024-04-07",
+                "summary": "Alignment on upcoming product features and timelines."
+            },
+            {
+                "meeting_id": "MT038",
+                "topic": "AI Knowledge Graph Integration",
+                "participants": [
+                    "E009",
+                    "E026",
+                    "E050"
+                ],
+                "date": "2024-04-08",
+                "summary": "Exploring AI-driven insights across enterprise data."
+            },
+            {
+                "meeting_id": "MT039",
+                "topic": "System Architecture Review",
+                "participants": [
+                    "E014",
+                    "E022",
+                    "E048"
+                ],
+                "date": "2024-04-09",
+                "summary": "Review of current system architecture and improvements."
+            },
+            {
+                "meeting_id": "MT040",
+                "topic": "Enterprise AI Strategy",
+                "participants": [
+                    "E011",
+                    "E037",
+                    "E047"
+                ],
+                "date": "2024-04-10",
+                "summary": "Discussion on integrating RAG with knowledge graphs."
+            },
+            {
+                "meeting_id": "MT041",
+                "topic": "HR Policy Review",
+                "participants": [
+                    "E010",
+                    "E030",
+                    "E052"
+                ],
+                "date": "2024-04-11",
+                "summary": "Review of updated HR and leave policies."
+            },
+            {
+                "meeting_id": "MT042",
+                "topic": "Cloud Migration Plan",
+                "participants": [
+                    "E006",
+                    "E038",
+                    "E044"
+                ],
+                "date": "2024-04-12",
+                "summary": "Planning the migration of services to the cloud."
+            },
+            {
+                "meeting_id": "MT043",
+                "topic": "Data Governance Meeting",
+                "participants": [
+                    "E003",
+                    "E032",
+                    "E041"
+                ],
+                "date": "2024-04-13",
+                "summary": "Discussion on data quality and governance standards."
+            },
+            {
+                "meeting_id": "MT044",
+                "topic": "Security Compliance Update",
+                "participants": [
+                    "E007",
+                    "E031",
+                    "E059"
+                ],
+                "date": "2024-04-14",
+                "summary": "Update on security audits and compliance status."
+            },
+            {
+                "meeting_id": "MT045",
+                "topic": "Product Roadmap Discussion",
+                "participants": [
+                    "E019",
+                    "E039",
+                    "E043"
+                ],
+                "date": "2024-04-15",
+                "summary": "Alignment on upcoming product features and timelines."
+            },
+            {
+                "meeting_id": "MT046",
+                "topic": "AI Knowledge Graph Integration",
+                "participants": [
+                    "E013",
+                    "E038",
+                    "E048"
+                ],
+                "date": "2024-04-16",
+                "summary": "Exploring AI-driven insights across enterprise data."
+            },
+            {
+                "meeting_id": "MT047",
+                "topic": "System Architecture Review",
+                "participants": [
+                    "E016",
+                    "E030",
+                    "E060"
+                ],
+                "date": "2024-04-17",
+                "summary": "Review of current system architecture and improvements."
+            },
+            {
+                "meeting_id": "MT048",
+                "topic": "Enterprise AI Strategy",
+                "participants": [
+                    "E004",
+                    "E025",
+                    "E042"
+                ],
+                "date": "2024-04-18",
+                "summary": "Discussion on integrating RAG with knowledge graphs."
+            },
+            {
+                "meeting_id": "MT049",
+                "topic": "HR Policy Review",
+                "participants": [
+                    "E003",
+                    "E027",
+                    "E048"
+                ],
+                "date": "2024-04-19",
+                "summary": "Review of updated HR and leave policies."
+            },
+            {
+                "meeting_id": "MT050",
+                "topic": "Cloud Migration Plan",
+                "participants": [
+                    "E015",
+                    "E022",
+                    "E043"
+                ],
+                "date": "2024-04-20",
+                "summary": "Planning the migration of services to the cloud."
+            }
+        ]
+    },
+    {
+        "doc_id": "SEMI_3",
+        "timestamp": "2026-01-27T22:31:09.308542",
+        "file_name": "performance.json",
+        "source_type": "SEMI",
+        "data": [
+            {
+                "performance_id": "PF001",
+                "employee_id": "E002",
+                "year": 2024,
+                "rating": "Good"
+            },
+            {
+                "performance_id": "PF002",
+                "employee_id": "E003",
+                "year": 2024,
+                "rating": "Average"
+            },
+            {
+                "performance_id": "PF003",
+                "employee_id": "E004",
+                "year": 2024,
+                "rating": "Needs Improvement"
+            },
+            {
+                "performance_id": "PF004",
+                "employee_id": "E005",
+                "year": 2024,
+                "rating": "Excellent"
+            },
+            {
+                "performance_id": "PF005",
+                "employee_id": "E006",
+                "year": 2024,
+                "rating": "Good"
+            },
+            {
+                "performance_id": "PF006",
+                "employee_id": "E007",
+                "year": 2024,
+                "rating": "Average"
+            },
+            {
+                "performance_id": "PF007",
+                "employee_id": "E008",
+                "year": 2024,
+                "rating": "Needs Improvement"
+            },
+            {
+                "performance_id": "PF008",
+                "employee_id": "E009",
+                "year": 2024,
+                "rating": "Excellent"
+            },
+            {
+                "performance_id": "PF009",
+                "employee_id": "E010",
+                "year": 2024,
+                "rating": "Good"
+            },
+            {
+                "performance_id": "PF010",
+                "employee_id": "E011",
+                "year": 2024,
+                "rating": "Average"
+            },
+            {
+                "performance_id": "PF011",
+                "employee_id": "E012",
+                "year": 2024,
+                "rating": "Needs Improvement"
+            },
+            {
+                "performance_id": "PF012",
+                "employee_id": "E013",
+                "year": 2024,
+                "rating": "Excellent"
+            },
+            {
+                "performance_id": "PF013",
+                "employee_id": "E014",
+                "year": 2024,
+                "rating": "Good"
+            },
+            {
+                "performance_id": "PF014",
+                "employee_id": "E015",
+                "year": 2024,
+                "rating": "Average"
+            },
+            {
+                "performance_id": "PF015",
+                "employee_id": "E016",
+                "year": 2024,
+                "rating": "Needs Improvement"
+            },
+            {
+                "performance_id": "PF016",
+                "employee_id": "E017",
+                "year": 2024,
+                "rating": "Excellent"
+            },
+            {
+                "performance_id": "PF017",
+                "employee_id": "E018",
+                "year": 2024,
+                "rating": "Good"
+            },
+            {
+                "performance_id": "PF018",
+                "employee_id": "E019",
+                "year": 2024,
+                "rating": "Average"
+            },
+            {
+                "performance_id": "PF019",
+                "employee_id": "E020",
+                "year": 2024,
+                "rating": "Needs Improvement"
+            },
+            {
+                "performance_id": "PF020",
+                "employee_id": "E021",
+                "year": 2024,
+                "rating": "Excellent"
+            },
+            {
+                "performance_id": "PF021",
+                "employee_id": "E022",
+                "year": 2024,
+                "rating": "Good"
+            },
+            {
+                "performance_id": "PF022",
+                "employee_id": "E023",
+                "year": 2024,
+                "rating": "Average"
+            },
+            {
+                "performance_id": "PF023",
+                "employee_id": "E024",
+                "year": 2024,
+                "rating": "Needs Improvement"
+            },
+            {
+                "performance_id": "PF024",
+                "employee_id": "E025",
+                "year": 2024,
+                "rating": "Excellent"
+            },
+            {
+                "performance_id": "PF025",
+                "employee_id": "E026",
+                "year": 2024,
+                "rating": "Good"
+            },
+            {
+                "performance_id": "PF026",
+                "employee_id": "E027",
+                "year": 2024,
+                "rating": "Average"
+            },
+            {
+                "performance_id": "PF027",
+                "employee_id": "E028",
+                "year": 2024,
+                "rating": "Needs Improvement"
+            },
+            {
+                "performance_id": "PF028",
+                "employee_id": "E029",
+                "year": 2024,
+                "rating": "Excellent"
+            },
+            {
+                "performance_id": "PF029",
+                "employee_id": "E030",
+                "year": 2024,
+                "rating": "Good"
+            },
+            {
+                "performance_id": "PF030",
+                "employee_id": "E031",
+                "year": 2024,
+                "rating": "Average"
+            },
+            {
+                "performance_id": "PF031",
+                "employee_id": "E032",
+                "year": 2024,
+                "rating": "Needs Improvement"
+            },
+            {
+                "performance_id": "PF032",
+                "employee_id": "E033",
+                "year": 2024,
+                "rating": "Excellent"
+            },
+            {
+                "performance_id": "PF033",
+                "employee_id": "E034",
+                "year": 2024,
+                "rating": "Good"
+            },
+            {
+                "performance_id": "PF034",
+                "employee_id": "E035",
+                "year": 2024,
+                "rating": "Average"
+            },
+            {
+                "performance_id": "PF035",
+                "employee_id": "E036",
+                "year": 2024,
+                "rating": "Needs Improvement"
+            },
+            {
+                "performance_id": "PF036",
+                "employee_id": "E037",
+                "year": 2024,
+                "rating": "Excellent"
+            },
+            {
+                "performance_id": "PF037",
+                "employee_id": "E038",
+                "year": 2024,
+                "rating": "Good"
+            },
+            {
+                "performance_id": "PF038",
+                "employee_id": "E039",
+                "year": 2024,
+                "rating": "Average"
+            },
+            {
+                "performance_id": "PF039",
+                "employee_id": "E040",
+                "year": 2024,
+                "rating": "Needs Improvement"
+            },
+            {
+                "performance_id": "PF040",
+                "employee_id": "E041",
+                "year": 2024,
+                "rating": "Excellent"
+            },
+            {
+                "performance_id": "PF041",
+                "employee_id": "E042",
+                "year": 2024,
+                "rating": "Good"
+            },
+            {
+                "performance_id": "PF042",
+                "employee_id": "E043",
+                "year": 2024,
+                "rating": "Average"
+            },
+            {
+                "performance_id": "PF043",
+                "employee_id": "E044",
+                "year": 2024,
+                "rating": "Needs Improvement"
+            },
+            {
+                "performance_id": "PF044",
+                "employee_id": "E045",
+                "year": 2024,
+                "rating": "Excellent"
+            },
+            {
+                "performance_id": "PF045",
+                "employee_id": "E046",
+                "year": 2024,
+                "rating": "Good"
+            },
+            {
+                "performance_id": "PF046",
+                "employee_id": "E047",
+                "year": 2024,
+                "rating": "Average"
+            },
+            {
+                "performance_id": "PF047",
+                "employee_id": "E048",
+                "year": 2024,
+                "rating": "Needs Improvement"
+            },
+            {
+                "performance_id": "PF048",
+                "employee_id": "E049",
+                "year": 2024,
+                "rating": "Excellent"
+            },
+            {
+                "performance_id": "PF049",
+                "employee_id": "E050",
+                "year": 2024,
+                "rating": "Good"
+            },
+            {
+                "performance_id": "PF050",
+                "employee_id": "E051",
+                "year": 2024,
+                "rating": "Average"
+            }
+        ]
+    },
+    {
+        "doc_id": "SEMI_4",
+        "timestamp": "2026-01-27T22:31:09.308542",
+        "file_name": "project_data.json",
+        "source_type": "SEMI",
+        "data": [
+            {
+                "project_id": "P001",
+                "project_name": "Employee Analytics System",
+                "department": "IT",
+                "technologies": [
+                    "Machine Learning",
+                    "Python",
+                    "Flask"
+                ],
+                "team_members": [
+                    "E028",
+                    "E057"
+                ]
+            },
+            {
+                "project_id": "P002",
+                "project_name": "Smart HR Portal",
+                "department": "HR",
+                "technologies": [
+                    "React",
+                    "Node.js",
+                    "MongoDB"
+                ],
+                "team_members": [
+                    "E026",
+                    "E031"
+                ]
+            },
+            {
+                "project_id": "P003",
+                "project_name": "Financial Risk Analyzer",
+                "department": "Finance",
+                "technologies": [
+                    "TensorFlow",
+                    "Keras",
+                    "Deep Learning"
+                ],
+                "team_members": [
+                    "E009",
+                    "E031"
+                ]
+            },
+            {
+                "project_id": "P004",
+                "project_name": "Customer Insight Platform",
+                "department": "Consulting",
+                "technologies": [
+                    "AWS",
+                    "Docker",
+                    "Kubernetes"
+                ],
+                "team_members": [
+                    "E008",
+                    "E040"
+                ]
+            },
+            {
+                "project_id": "P005",
+                "project_name": "Cloud Migration Tool",
+                "department": "Data Science",
+                "technologies": [
+                    "Power BI",
+                    "SQL",
+                    "Data Warehousing"
+                ],
+                "team_members": [
+                    "E017",
+                    "E058"
+                ]
+            },
+            {
+                "project_id": "P006",
+                "project_name": "Fraud Detection Engine",
+                "department": "AI",
+                "technologies": [
+                    "Cyber Security",
+                    "SIEM",
+                    "SOC"
+                ],
+                "team_members": [
+                    "E026",
+                    "E037"
+                ]
+            },
+            {
+                "project_id": "P007",
+                "project_name": "Recommendation System",
+                "department": "IT",
+                "technologies": [
+                    "Blockchain",
+                    "Solidity",
+                    "Ethereum"
+                ],
+                "team_members": [
+                    "E018",
+                    "E037"
+                ]
+            },
+            {
+                "project_id": "P008",
+                "project_name": "Supply Chain Optimizer",
+                "department": "HR",
+                "technologies": [
+                    "IoT",
+                    "MQTT",
+                    "Edge Computing"
+                ],
+                "team_members": [
+                    "E009",
+                    "E054"
+                ]
+            },
+            {
+                "project_id": "P009",
+                "project_name": "Automation Dashboard",
+                "department": "Finance",
+                "technologies": [
+                    "Java",
+                    "Spring Boot",
+                    "Microservices"
+                ],
+                "team_members": [
+                    "E022",
+                    "E034"
+                ]
+            },
+            {
+                "project_id": "P010",
+                "project_name": "Enterprise Knowledge Graph",
+                "department": "Consulting",
+                "technologies": [
+                    "NLP",
+                    "Neo4j",
+                    "RAG"
+                ],
+                "team_members": [
+                    "E008",
+                    "E043"
+                ]
+            },
+            {
+                "project_id": "P011",
+                "project_name": "Employee Analytics System",
+                "department": "Data Science",
+                "technologies": [
+                    "Machine Learning",
+                    "Python",
+                    "Flask"
+                ],
+                "team_members": [
+                    "E001",
+                    "E035"
+                ]
+            },
+            {
+                "project_id": "P012",
+                "project_name": "Smart HR Portal",
+                "department": "AI",
+                "technologies": [
+                    "React",
+                    "Node.js",
+                    "MongoDB"
+                ],
+                "team_members": [
+                    "E006",
+                    "E051"
+                ]
+            },
+            {
+                "project_id": "P013",
+                "project_name": "Financial Risk Analyzer",
+                "department": "IT",
+                "technologies": [
+                    "TensorFlow",
+                    "Keras",
+                    "Deep Learning"
+                ],
+                "team_members": [
+                    "E005",
+                    "E040"
+                ]
+            },
+            {
+                "project_id": "P014",
+                "project_name": "Customer Insight Platform",
+                "department": "HR",
+                "technologies": [
+                    "AWS",
+                    "Docker",
+                    "Kubernetes"
+                ],
+                "team_members": [
+                    "E016",
+                    "E055"
+                ]
+            },
+            {
+                "project_id": "P015",
+                "project_name": "Cloud Migration Tool",
+                "department": "Finance",
+                "technologies": [
+                    "Power BI",
+                    "SQL",
+                    "Data Warehousing"
+                ],
+                "team_members": [
+                    "E014",
+                    "E041"
+                ]
+            },
+            {
+                "project_id": "P016",
+                "project_name": "Fraud Detection Engine",
+                "department": "Consulting",
+                "technologies": [
+                    "Cyber Security",
+                    "SIEM",
+                    "SOC"
+                ],
+                "team_members": [
+                    "E010",
+                    "E047"
+                ]
+            },
+            {
+                "project_id": "P017",
+                "project_name": "Recommendation System",
+                "department": "Data Science",
+                "technologies": [
+                    "Blockchain",
+                    "Solidity",
+                    "Ethereum"
+                ],
+                "team_members": [
+                    "E028",
+                    "E050"
+                ]
+            },
+            {
+                "project_id": "P018",
+                "project_name": "Supply Chain Optimizer",
+                "department": "AI",
+                "technologies": [
+                    "IoT",
+                    "MQTT",
+                    "Edge Computing"
+                ],
+                "team_members": [
+                    "E022",
+                    "E038"
+                ]
+            },
+            {
+                "project_id": "P019",
+                "project_name": "Automation Dashboard",
+                "department": "IT",
+                "technologies": [
+                    "Java",
+                    "Spring Boot",
+                    "Microservices"
+                ],
+                "team_members": [
+                    "E021",
+                    "E060"
+                ]
+            },
+            {
+                "project_id": "P020",
+                "project_name": "Enterprise Knowledge Graph",
+                "department": "HR",
+                "technologies": [
+                    "NLP",
+                    "Neo4j",
+                    "RAG"
+                ],
+                "team_members": [
+                    "E022",
+                    "E038"
+                ]
+            },
+            {
+                "project_id": "P021",
+                "project_name": "Employee Analytics System",
+                "department": "Finance",
+                "technologies": [
+                    "Machine Learning",
+                    "Python",
+                    "Flask"
+                ],
+                "team_members": [
+                    "E026",
+                    "E035"
+                ]
+            },
+            {
+                "project_id": "P022",
+                "project_name": "Smart HR Portal",
+                "department": "Consulting",
+                "technologies": [
+                    "React",
+                    "Node.js",
+                    "MongoDB"
+                ],
+                "team_members": [
+                    "E019",
+                    "E049"
+                ]
+            },
+            {
+                "project_id": "P023",
+                "project_name": "Financial Risk Analyzer",
+                "department": "Data Science",
+                "technologies": [
+                    "TensorFlow",
+                    "Keras",
+                    "Deep Learning"
+                ],
+                "team_members": [
+                    "E006",
+                    "E043"
+                ]
+            },
+            {
+                "project_id": "P024",
+                "project_name": "Customer Insight Platform",
+                "department": "AI",
+                "technologies": [
+                    "AWS",
+                    "Docker",
+                    "Kubernetes"
+                ],
+                "team_members": [
+                    "E019",
+                    "E050"
+                ]
+            },
+            {
+                "project_id": "P025",
+                "project_name": "Cloud Migration Tool",
+                "department": "IT",
+                "technologies": [
+                    "Power BI",
+                    "SQL",
+                    "Data Warehousing"
+                ],
+                "team_members": [
+                    "E016",
+                    "E054"
+                ]
+            },
+            {
+                "project_id": "P026",
+                "project_name": "Fraud Detection Engine",
+                "department": "HR",
+                "technologies": [
+                    "Cyber Security",
+                    "SIEM",
+                    "SOC"
+                ],
+                "team_members": [
+                    "E005",
+                    "E032"
+                ]
+            },
+            {
+                "project_id": "P027",
+                "project_name": "Recommendation System",
+                "department": "Finance",
+                "technologies": [
+                    "Blockchain",
+                    "Solidity",
+                    "Ethereum"
+                ],
+                "team_members": [
+                    "E002",
+                    "E044"
+                ]
+            },
+            {
+                "project_id": "P028",
+                "project_name": "Supply Chain Optimizer",
+                "department": "Consulting",
+                "technologies": [
+                    "IoT",
+                    "MQTT",
+                    "Edge Computing"
+                ],
+                "team_members": [
+                    "E029",
+                    "E060"
+                ]
+            },
+            {
+                "project_id": "P029",
+                "project_name": "Automation Dashboard",
+                "department": "Data Science",
+                "technologies": [
+                    "Java",
+                    "Spring Boot",
+                    "Microservices"
+                ],
+                "team_members": [
+                    "E014",
+                    "E042"
+                ]
+            },
+            {
+                "project_id": "P030",
+                "project_name": "Enterprise Knowledge Graph",
+                "department": "AI",
+                "technologies": [
+                    "NLP",
+                    "Neo4j",
+                    "RAG"
+                ],
+                "team_members": [
+                    "E026",
+                    "E058"
+                ]
+            },
+            {
+                "project_id": "P031",
+                "project_name": "Employee Analytics System",
+                "department": "IT",
+                "technologies": [
+                    "Machine Learning",
+                    "Python",
+                    "Flask"
+                ],
+                "team_members": [
+                    "E018",
+                    "E052"
+                ]
+            },
+            {
+                "project_id": "P032",
+                "project_name": "Smart HR Portal",
+                "department": "HR",
+                "technologies": [
+                    "React",
+                    "Node.js",
+                    "MongoDB"
+                ],
+                "team_members": [
+                    "E014",
+                    "E047"
+                ]
+            },
+            {
+                "project_id": "P033",
+                "project_name": "Financial Risk Analyzer",
+                "department": "Finance",
+                "technologies": [
+                    "TensorFlow",
+                    "Keras",
+                    "Deep Learning"
+                ],
+                "team_members": [
+                    "E026",
+                    "E046"
+                ]
+            },
+            {
+                "project_id": "P034",
+                "project_name": "Customer Insight Platform",
+                "department": "Consulting",
+                "technologies": [
+                    "AWS",
+                    "Docker",
+                    "Kubernetes"
+                ],
+                "team_members": [
+                    "E029",
+                    "E058"
+                ]
+            },
+            {
+                "project_id": "P035",
+                "project_name": "Cloud Migration Tool",
+                "department": "Data Science",
+                "technologies": [
+                    "Power BI",
+                    "SQL",
+                    "Data Warehousing"
+                ],
+                "team_members": [
+                    "E025",
+                    "E034"
+                ]
+            },
+            {
+                "project_id": "P036",
+                "project_name": "Fraud Detection Engine",
+                "department": "AI",
+                "technologies": [
+                    "Cyber Security",
+                    "SIEM",
+                    "SOC"
+                ],
+                "team_members": [
+                    "E013",
+                    "E045"
+                ]
+            },
+            {
+                "project_id": "P037",
+                "project_name": "Recommendation System",
+                "department": "IT",
+                "technologies": [
+                    "Blockchain",
+                    "Solidity",
+                    "Ethereum"
+                ],
+                "team_members": [
+                    "E001",
+                    "E045"
+                ]
+            },
+            {
+                "project_id": "P038",
+                "project_name": "Supply Chain Optimizer",
+                "department": "HR",
+                "technologies": [
+                    "IoT",
+                    "MQTT",
+                    "Edge Computing"
+                ],
+                "team_members": [
+                    "E026",
+                    "E037"
+                ]
+            },
+            {
+                "project_id": "P039",
+                "project_name": "Automation Dashboard",
+                "department": "Finance",
+                "technologies": [
+                    "Java",
+                    "Spring Boot",
+                    "Microservices"
+                ],
+                "team_members": [
+                    "E030",
+                    "E059"
+                ]
+            },
+            {
+                "project_id": "P040",
+                "project_name": "Enterprise Knowledge Graph",
+                "department": "Consulting",
+                "technologies": [
+                    "NLP",
+                    "Neo4j",
+                    "RAG"
+                ],
+                "team_members": [
+                    "E001",
+                    "E031"
+                ]
+            },
+            {
+                "project_id": "P041",
+                "project_name": "Employee Analytics System",
+                "department": "Data Science",
+                "technologies": [
+                    "Machine Learning",
+                    "Python",
+                    "Flask"
+                ],
+                "team_members": [
+                    "E002",
+                    "E032"
+                ]
+            },
+            {
+                "project_id": "P042",
+                "project_name": "Smart HR Portal",
+                "department": "AI",
+                "technologies": [
+                    "React",
+                    "Node.js",
+                    "MongoDB"
+                ],
+                "team_members": [
+                    "E003",
+                    "E044"
+                ]
+            },
+            {
+                "project_id": "P043",
+                "project_name": "Financial Risk Analyzer",
+                "department": "IT",
+                "technologies": [
+                    "TensorFlow",
+                    "Keras",
+                    "Deep Learning"
+                ],
+                "team_members": [
+                    "E021",
+                    "E037"
+                ]
+            },
+            {
+                "project_id": "P044",
+                "project_name": "Customer Insight Platform",
+                "department": "HR",
+                "technologies": [
+                    "AWS",
+                    "Docker",
+                    "Kubernetes"
+                ],
+                "team_members": [
+                    "E026",
+                    "E041"
+                ]
+            },
+            {
+                "project_id": "P045",
+                "project_name": "Cloud Migration Tool",
+                "department": "Finance",
+                "technologies": [
+                    "Power BI",
+                    "SQL",
+                    "Data Warehousing"
+                ],
+                "team_members": [
+                    "E012",
+                    "E046"
+                ]
+            },
+            {
+                "project_id": "P046",
+                "project_name": "Fraud Detection Engine",
+                "department": "Consulting",
+                "technologies": [
+                    "Cyber Security",
+                    "SIEM",
+                    "SOC"
+                ],
+                "team_members": [
+                    "E016",
+                    "E045"
+                ]
+            },
+            {
+                "project_id": "P047",
+                "project_name": "Recommendation System",
+                "department": "Data Science",
+                "technologies": [
+                    "Blockchain",
+                    "Solidity",
+                    "Ethereum"
+                ],
+                "team_members": [
+                    "E001",
+                    "E034"
+                ]
+            },
+            {
+                "project_id": "P048",
+                "project_name": "Supply Chain Optimizer",
+                "department": "AI",
+                "technologies": [
+                    "IoT",
+                    "MQTT",
+                    "Edge Computing"
+                ],
+                "team_members": [
+                    "E001",
+                    "E035"
+                ]
+            },
+            {
+                "project_id": "P049",
+                "project_name": "Automation Dashboard",
+                "department": "IT",
+                "technologies": [
+                    "Java",
+                    "Spring Boot",
+                    "Microservices"
+                ],
+                "team_members": [
+                    "E027",
+                    "E052"
+                ]
+            },
+            {
+                "project_id": "P050",
+                "project_name": "Enterprise Knowledge Graph",
+                "department": "HR",
+                "technologies": [
+                    "NLP",
+                    "Neo4j",
+                    "RAG"
+                ],
+                "team_members": [
+                    "E002",
+                    "E037"
+                ]
+            }
+        ]
+    },
+    {
+        "doc_id": "SEMI_5",
+        "timestamp": "2026-01-27T22:31:09.308542",
+        "file_name": "salary.json",
+        "source_type": "SEMI",
+        "data": [
+            {
+                "salary_id": "SAL001",
+                "employee_id": "E002",
+                "base_salary": 1004972,
+                "bonus": 86085,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL002",
+                "employee_id": "E003",
+                "base_salary": 803708,
+                "bonus": 90562,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL003",
+                "employee_id": "E004",
+                "base_salary": 781919,
+                "bonus": 20045,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL004",
+                "employee_id": "E005",
+                "base_salary": 602847,
+                "bonus": 55364,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL005",
+                "employee_id": "E006",
+                "base_salary": 566156,
+                "bonus": 103693,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL006",
+                "employee_id": "E007",
+                "base_salary": 413060,
+                "bonus": 31977,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL007",
+                "employee_id": "E008",
+                "base_salary": 749358,
+                "bonus": 56130,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL008",
+                "employee_id": "E009",
+                "base_salary": 908319,
+                "bonus": 111770,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL009",
+                "employee_id": "E010",
+                "base_salary": 1026318,
+                "bonus": 118215,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL010",
+                "employee_id": "E011",
+                "base_salary": 510336,
+                "bonus": 62642,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL011",
+                "employee_id": "E012",
+                "base_salary": 738463,
+                "bonus": 109860,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL012",
+                "employee_id": "E013",
+                "base_salary": 682736,
+                "bonus": 96470,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL013",
+                "employee_id": "E014",
+                "base_salary": 382323,
+                "bonus": 65102,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL014",
+                "employee_id": "E015",
+                "base_salary": 466187,
+                "bonus": 91460,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL015",
+                "employee_id": "E016",
+                "base_salary": 1060720,
+                "bonus": 102439,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL016",
+                "employee_id": "E017",
+                "base_salary": 634120,
+                "bonus": 49624,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL017",
+                "employee_id": "E018",
+                "base_salary": 900141,
+                "bonus": 90939,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL018",
+                "employee_id": "E019",
+                "base_salary": 1012252,
+                "bonus": 114683,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL019",
+                "employee_id": "E020",
+                "base_salary": 457033,
+                "bonus": 87384,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL020",
+                "employee_id": "E021",
+                "base_salary": 1017215,
+                "bonus": 113086,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL021",
+                "employee_id": "E022",
+                "base_salary": 1065036,
+                "bonus": 142012,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL022",
+                "employee_id": "E023",
+                "base_salary": 552041,
+                "bonus": 122517,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL023",
+                "employee_id": "E024",
+                "base_salary": 557749,
+                "bonus": 104664,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL024",
+                "employee_id": "E025",
+                "base_salary": 681757,
+                "bonus": 128806,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL025",
+                "employee_id": "E026",
+                "base_salary": 844942,
+                "bonus": 65902,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL026",
+                "employee_id": "E027",
+                "base_salary": 1067040,
+                "bonus": 85265,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL027",
+                "employee_id": "E028",
+                "base_salary": 416619,
+                "bonus": 98607,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL028",
+                "employee_id": "E029",
+                "base_salary": 408299,
+                "bonus": 135680,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL029",
+                "employee_id": "E030",
+                "base_salary": 973814,
+                "bonus": 139736,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL030",
+                "employee_id": "E031",
+                "base_salary": 510430,
+                "bonus": 134258,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL031",
+                "employee_id": "E032",
+                "base_salary": 891863,
+                "bonus": 94973,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL032",
+                "employee_id": "E033",
+                "base_salary": 1065354,
+                "bonus": 147265,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL033",
+                "employee_id": "E034",
+                "base_salary": 900113,
+                "bonus": 48847,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL034",
+                "employee_id": "E035",
+                "base_salary": 485264,
+                "bonus": 36185,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL035",
+                "employee_id": "E036",
+                "base_salary": 607508,
+                "bonus": 127645,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL036",
+                "employee_id": "E037",
+                "base_salary": 1030473,
+                "bonus": 78431,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL037",
+                "employee_id": "E038",
+                "base_salary": 1046907,
+                "bonus": 76848,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL038",
+                "employee_id": "E039",
+                "base_salary": 371502,
+                "bonus": 131160,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL039",
+                "employee_id": "E040",
+                "base_salary": 565176,
+                "bonus": 110295,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL040",
+                "employee_id": "E041",
+                "base_salary": 788615,
+                "bonus": 50068,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL041",
+                "employee_id": "E042",
+                "base_salary": 923418,
+                "bonus": 20397,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL042",
+                "employee_id": "E043",
+                "base_salary": 984564,
+                "bonus": 21078,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL043",
+                "employee_id": "E044",
+                "base_salary": 1026389,
+                "bonus": 72223,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL044",
+                "employee_id": "E045",
+                "base_salary": 1198223,
+                "bonus": 60237,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL045",
+                "employee_id": "E046",
+                "base_salary": 1154993,
+                "bonus": 78342,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL046",
+                "employee_id": "E047",
+                "base_salary": 1170447,
+                "bonus": 72763,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL047",
+                "employee_id": "E048",
+                "base_salary": 471062,
+                "bonus": 67361,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL048",
+                "employee_id": "E049",
+                "base_salary": 572548,
+                "bonus": 138823,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL049",
+                "employee_id": "E050",
+                "base_salary": 504050,
+                "bonus": 50384,
+                "year": 2024
+            },
+            {
+                "salary_id": "SAL050",
+                "employee_id": "E051",
+                "base_salary": 476927,
+                "bonus": 131924,
+                "year": 2024
+            }
+        ]
+    },
+    {
+        "doc_id": "SEMI_6",
+        "timestamp": "2026-01-27T22:31:09.308542",
+        "file_name": "ticket_data.json",
+        "source_type": "SEMI",
+        "data": [
+            {
+                "ticket_id": "T001",
+                "raised_by": "E012",
+                "category": "System Issue",
+                "description": "Unable to access the internal portal.",
+                "status": "In Progress"
+            },
+            {
+                "ticket_id": "T002",
+                "raised_by": "E002",
+                "category": "Access Request",
+                "description": "Requesting access to the finance dashboard.",
+                "status": "Resolved"
+            },
+            {
+                "ticket_id": "T003",
+                "raised_by": "E033",
+                "category": "Payroll Issue",
+                "description": "Salary discrepancy noticed for this month.",
+                "status": "Closed"
+            },
+            {
+                "ticket_id": "T004",
+                "raised_by": "E003",
+                "category": "Leave Management",
+                "description": "Leave balance is not updated correctly.",
+                "status": "Open"
+            },
+            {
+                "ticket_id": "T005",
+                "raised_by": "E042",
+                "category": "Hardware Issue",
+                "description": "Laptop is overheating frequently.",
+                "status": "In Progress"
+            },
+            {
+                "ticket_id": "T006",
+                "raised_by": "E042",
+                "category": "Software Installation",
+                "description": "Need approval for installing required software.",
+                "status": "Resolved"
+            },
+            {
+                "ticket_id": "T007",
+                "raised_by": "E002",
+                "category": "Compliance Query",
+                "description": "Query regarding compliance guidelines.",
+                "status": "Closed"
+            },
+            {
+                "ticket_id": "T008",
+                "raised_by": "E023",
+                "category": "Policy Clarification",
+                "description": "Clarification needed on leave carry-forward rules.",
+                "status": "Open"
+            },
+            {
+                "ticket_id": "T009",
+                "raised_by": "E045",
+                "category": "System Issue",
+                "description": "Unable to access the internal portal.",
+                "status": "In Progress"
+            },
+            {
+                "ticket_id": "T010",
+                "raised_by": "E053",
+                "category": "Access Request",
+                "description": "Requesting access to the finance dashboard.",
+                "status": "Resolved"
+            },
+            {
+                "ticket_id": "T011",
+                "raised_by": "E042",
+                "category": "Payroll Issue",
+                "description": "Salary discrepancy noticed for this month.",
+                "status": "Closed"
+            },
+            {
+                "ticket_id": "T012",
+                "raised_by": "E009",
+                "category": "Leave Management",
+                "description": "Leave balance is not updated correctly.",
+                "status": "Open"
+            },
+            {
+                "ticket_id": "T013",
+                "raised_by": "E043",
+                "category": "Hardware Issue",
+                "description": "Laptop is overheating frequently.",
+                "status": "In Progress"
+            },
+            {
+                "ticket_id": "T014",
+                "raised_by": "E054",
+                "category": "Software Installation",
+                "description": "Need approval for installing required software.",
+                "status": "Resolved"
+            },
+            {
+                "ticket_id": "T015",
+                "raised_by": "E040",
+                "category": "Compliance Query",
+                "description": "Query regarding compliance guidelines.",
+                "status": "Closed"
+            },
+            {
+                "ticket_id": "T016",
+                "raised_by": "E004",
+                "category": "Policy Clarification",
+                "description": "Clarification needed on leave carry-forward rules.",
+                "status": "Open"
+            },
+            {
+                "ticket_id": "T017",
+                "raised_by": "E001",
+                "category": "System Issue",
+                "description": "Unable to access the internal portal.",
+                "status": "In Progress"
+            },
+            {
+                "ticket_id": "T018",
+                "raised_by": "E059",
+                "category": "Access Request",
+                "description": "Requesting access to the finance dashboard.",
+                "status": "Resolved"
+            },
+            {
+                "ticket_id": "T019",
+                "raised_by": "E010",
+                "category": "Payroll Issue",
+                "description": "Salary discrepancy noticed for this month.",
+                "status": "Closed"
+            },
+            {
+                "ticket_id": "T020",
+                "raised_by": "E052",
+                "category": "Leave Management",
+                "description": "Leave balance is not updated correctly.",
+                "status": "Open"
+            },
+            {
+                "ticket_id": "T021",
+                "raised_by": "E003",
+                "category": "Hardware Issue",
+                "description": "Laptop is overheating frequently.",
+                "status": "In Progress"
+            },
+            {
+                "ticket_id": "T022",
+                "raised_by": "E034",
+                "category": "Software Installation",
+                "description": "Need approval for installing required software.",
+                "status": "Resolved"
+            },
+            {
+                "ticket_id": "T023",
+                "raised_by": "E045",
+                "category": "Compliance Query",
+                "description": "Query regarding compliance guidelines.",
+                "status": "Closed"
+            },
+            {
+                "ticket_id": "T024",
+                "raised_by": "E047",
+                "category": "Policy Clarification",
+                "description": "Clarification needed on leave carry-forward rules.",
+                "status": "Open"
+            },
+            {
+                "ticket_id": "T025",
+                "raised_by": "E038",
+                "category": "System Issue",
+                "description": "Unable to access the internal portal.",
+                "status": "In Progress"
+            },
+            {
+                "ticket_id": "T026",
+                "raised_by": "E006",
+                "category": "Access Request",
+                "description": "Requesting access to the finance dashboard.",
+                "status": "Resolved"
+            },
+            {
+                "ticket_id": "T027",
+                "raised_by": "E034",
+                "category": "Payroll Issue",
+                "description": "Salary discrepancy noticed for this month.",
+                "status": "Closed"
+            },
+            {
+                "ticket_id": "T028",
+                "raised_by": "E020",
+                "category": "Leave Management",
+                "description": "Leave balance is not updated correctly.",
+                "status": "Open"
+            },
+            {
+                "ticket_id": "T029",
+                "raised_by": "E025",
+                "category": "Hardware Issue",
+                "description": "Laptop is overheating frequently.",
+                "status": "In Progress"
+            },
+            {
+                "ticket_id": "T030",
+                "raised_by": "E022",
+                "category": "Software Installation",
+                "description": "Need approval for installing required software.",
+                "status": "Resolved"
+            },
+            {
+                "ticket_id": "T031",
+                "raised_by": "E031",
+                "category": "Compliance Query",
+                "description": "Query regarding compliance guidelines.",
+                "status": "Closed"
+            },
+            {
+                "ticket_id": "T032",
+                "raised_by": "E043",
+                "category": "Policy Clarification",
+                "description": "Clarification needed on leave carry-forward rules.",
+                "status": "Open"
+            },
+            {
+                "ticket_id": "T033",
+                "raised_by": "E020",
+                "category": "System Issue",
+                "description": "Unable to access the internal portal.",
+                "status": "In Progress"
+            },
+            {
+                "ticket_id": "T034",
+                "raised_by": "E006",
+                "category": "Access Request",
+                "description": "Requesting access to the finance dashboard.",
+                "status": "Resolved"
+            },
+            {
+                "ticket_id": "T035",
+                "raised_by": "E034",
+                "category": "Payroll Issue",
+                "description": "Salary discrepancy noticed for this month.",
+                "status": "Closed"
+            },
+            {
+                "ticket_id": "T036",
+                "raised_by": "E050",
+                "category": "Leave Management",
+                "description": "Leave balance is not updated correctly.",
+                "status": "Open"
+            },
+            {
+                "ticket_id": "T037",
+                "raised_by": "E051",
+                "category": "Hardware Issue",
+                "description": "Laptop is overheating frequently.",
+                "status": "In Progress"
+            },
+            {
+                "ticket_id": "T038",
+                "raised_by": "E049",
+                "category": "Software Installation",
+                "description": "Need approval for installing required software.",
+                "status": "Resolved"
+            },
+            {
+                "ticket_id": "T039",
+                "raised_by": "E026",
+                "category": "Compliance Query",
+                "description": "Query regarding compliance guidelines.",
+                "status": "Closed"
+            },
+            {
+                "ticket_id": "T040",
+                "raised_by": "E021",
+                "category": "Policy Clarification",
+                "description": "Clarification needed on leave carry-forward rules.",
+                "status": "Open"
+            },
+            {
+                "ticket_id": "T041",
+                "raised_by": "E032",
+                "category": "System Issue",
+                "description": "Unable to access the internal portal.",
+                "status": "In Progress"
+            },
+            {
+                "ticket_id": "T042",
+                "raised_by": "E055",
+                "category": "Access Request",
+                "description": "Requesting access to the finance dashboard.",
+                "status": "Resolved"
+            },
+            {
+                "ticket_id": "T043",
+                "raised_by": "E052",
+                "category": "Payroll Issue",
+                "description": "Salary discrepancy noticed for this month.",
+                "status": "Closed"
+            },
+            {
+                "ticket_id": "T044",
+                "raised_by": "E018",
+                "category": "Leave Management",
+                "description": "Leave balance is not updated correctly.",
+                "status": "Open"
+            },
+            {
+                "ticket_id": "T045",
+                "raised_by": "E054",
+                "category": "Hardware Issue",
+                "description": "Laptop is overheating frequently.",
+                "status": "In Progress"
+            },
+            {
+                "ticket_id": "T046",
+                "raised_by": "E041",
+                "category": "Software Installation",
+                "description": "Need approval for installing required software.",
+                "status": "Resolved"
+            },
+            {
+                "ticket_id": "T047",
+                "raised_by": "E036",
+                "category": "Compliance Query",
+                "description": "Query regarding compliance guidelines.",
+                "status": "Closed"
+            },
+            {
+                "ticket_id": "T048",
+                "raised_by": "E032",
+                "category": "Policy Clarification",
+                "description": "Clarification needed on leave carry-forward rules.",
+                "status": "Open"
+            },
+            {
+                "ticket_id": "T049",
+                "raised_by": "E040",
+                "category": "System Issue",
+                "description": "Unable to access the internal portal.",
+                "status": "In Progress"
+            },
+            {
+                "ticket_id": "T050",
+                "raised_by": "E056",
+                "category": "Access Request",
+                "description": "Requesting access to the finance dashboard.",
+                "status": "Resolved"
+            }
+        ]
+    }
+]

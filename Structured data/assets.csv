@@ -1,0 +1,51 @@
+asset_id,asset_type,assigned_to,status,purchase_date
+A001,Desktop,E002,Available,02-02-2023
+A002,Server,E003,Under Maintenance,03-03-2023
+A003,Router,E004,Retired,04-04-2023
+A004,Printer,E005,In Use,05-05-2023
+A005,Laptop,E006,Available,06-06-2023
+A006,Desktop,E007,Under Maintenance,07-07-2023
+A007,Server,E008,Retired,08-08-2023
+A008,Router,E009,In Use,09-09-2023
+A009,Printer,E010,Available,10-10-2023
+A010,Laptop,E011,Under Maintenance,11-11-2023
+A011,Desktop,E012,Retired,12-12-2023
+A012,Server,E013,In Use,13-01-2023
+A013,Router,E014,Available,14-02-2023
+A014,Printer,E015,Under Maintenance,15-03-2023
+A015,Laptop,E016,Retired,16-04-2023
+A016,Desktop,E017,In Use,17-05-2023
+A017,Server,E018,Available,18-06-2023
+A018,Router,E019,Under Maintenance,19-07-2023
+A019,Printer,E020,Retired,20-08-2023
+A020,Laptop,E021,In Use,21-09-2023
+A021,Desktop,E022,Available,22-10-2023
+A022,Server,E023,Under Maintenance,23-11-2023
+A023,Router,E024,Retired,24-12-2023
+A024,Printer,E025,In Use,25-01-2023
+A025,Laptop,E026,Available,26-02-2023
+A026,Desktop,E027,Under Maintenance,27-03-2023
+A027,Server,E028,Retired,28-04-2023
+A028,Router,E029,In Use,01-05-2023
+A029,Printer,E030,Available,02-06-2023
+A030,Laptop,E031,Under Maintenance,03-07-2023
+A031,Desktop,E032,Retired,04-08-2023
+A032,Server,E033,In Use,05-09-2023
+A033,Router,E034,Available,06-10-2023
+A034,Printer,E035,Under Maintenance,07-11-2023
+A035,Laptop,E036,Retired,08-12-2023
+A036,Desktop,E037,In Use,09-01-2023
+A037,Server,E038,Available,10-02-2023
+A038,Router,E039,Under Maintenance,11-03-2023
+A039,Printer,E040,Retired,12-04-2023
+A040,Laptop,E041,In Use,13-05-2023
+A041,Desktop,E042,Available,14-06-2023
+A042,Server,E043,Under Maintenance,15-07-2023
+A043,Router,E044,Retired,16-08-2023
+A044,Printer,E045,In Use,17-09-2023
+A045,Laptop,E046,Available,18-10-2023
+A046,Desktop,E047,Under Maintenance,19-11-2023
+A047,Server,E048,Retired,20-12-2023
+A048,Router,E049,In Use,21-01-2023
+A049,Printer,E050,Available,22-02-2023
+A050,Laptop,E051,Under Maintenance,23-03-2023

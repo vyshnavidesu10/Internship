@@ -1,0 +1,54 @@
+employee_id,employee_name,role,department,manager_id
+E001,Amit Sharma,Data Scientist,AI,E010
+E002,Neha Verma,Business Analyst,Consulting,E011
+E003,Ravi Kumar,HR Manager,HR,E012
+E004,Employee4,Software Engineer,Consulting,E104
+E005,Employee5,Data Analyst,IT,E105
+E006,Employee6,System Admin,AI,E106
+E007,Employee7,Project Manager,HR,E107
+E008,Employee8,Software Engineer,Finance,E108
+E009,Employee9,Data Analyst,Consulting,E109
+E010,Employee10,System Admin,IT,E100
+E011,Employee11,Project Manager,AI,E101
+E012,Employee12,Software Engineer,HR,E102
+E013,Employee13,Data Analyst,Finance,E103
+E014,Employee14,System Admin,Consulting,E104
+E015,Employee15,Project Manager,IT,E105
+E016,Employee16,Software Engineer,AI,E106
+E017,Employee17,Data Analyst,HR,E107
+E018,Employee18,System Admin,Finance,E108
+E019,Employee19,Project Manager,Consulting,E109
+E020,Employee20,Software Engineer,IT,E100
+E021,Employee21,Data Analyst,AI,E101
+E022,Employee22,System Admin,HR,E102
+E023,Employee23,Project Manager,Finance,E103
+E024,Employee24,Software Engineer,Consulting,E104
+E025,Employee25,Data Analyst,IT,E105
+E026,Employee26,System Admin,AI,E106
+E027,Employee27,Project Manager,HR,E107
+E028,Employee28,Software Engineer,Finance,E108
+E029,Employee29,Data Analyst,Consulting,E109
+E030,Employee30,System Admin,IT,E100
+E031,Employee31,Project Manager,AI,E101
+E032,Employee32,Software Engineer,HR,E102
+E033,Employee33,Data Analyst,Finance,E103
+E034,Employee34,System Admin,Consulting,E104
+E035,Employee35,Project Manager,IT,E105
+E036,Employee36,Software Engineer,AI,E106
+E037,Employee37,Data Analyst,HR,E107
+E038,Employee38,System Admin,Finance,E108
+E039,Employee39,Project Manager,Consulting,E109
+E040,Employee40,Software Engineer,IT,E100
+E041,Employee41,Data Analyst,AI,E101
+E042,Employee42,System Admin,HR,E102
+E043,Employee43,Project Manager,Finance,E103
+E044,Employee44,Software Engineer,Consulting,E104
+E045,Employee45,Data Analyst,IT,E105
+E046,Employee46,System Admin,AI,E106
+E047,Employee47,Project Manager,HR,E107
+E048,Employee48,Software Engineer,Finance,E108
+E049,Employee49,Data Analyst,Consulting,E109
+E050,Employee50,System Admin,IT,E100
+E051,Employee51,Project Manager,AI,E101
+E052,Employee52,Software Engineer,HR,E102
+E053,Employee53,Data Analyst,Finance,E103

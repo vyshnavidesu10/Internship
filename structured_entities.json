@@ -1,0 +1,6977 @@
+[
+    {
+        "entity": "A001",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Desktop",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E002",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Available",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "02-02-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A002",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Server",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E003",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Under Maintenance",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "03-03-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A003",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Router",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E004",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Retired",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "04-04-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A004",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Printer",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E005",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "In Use",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "05-05-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A005",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Laptop",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E006",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Available",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "06-06-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A006",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Desktop",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E007",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Under Maintenance",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "07-07-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A007",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Server",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E008",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Retired",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "08-08-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A008",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Router",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E009",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "In Use",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "09-09-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A009",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Printer",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E010",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Available",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "10-10-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A010",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Laptop",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E011",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Under Maintenance",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "11-11-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A011",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Desktop",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E012",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Retired",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "12-12-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A012",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Server",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E013",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "In Use",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "13-01-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A013",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Router",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E014",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Available",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "14-02-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A014",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Printer",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E015",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Under Maintenance",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "15-03-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A015",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Laptop",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E016",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Retired",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "16-04-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A016",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Desktop",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E017",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "In Use",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "17-05-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A017",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Server",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E018",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Available",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "18-06-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A018",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Router",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E019",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Under Maintenance",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "19-07-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A019",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Printer",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E020",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Retired",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "20-08-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A020",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Laptop",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E021",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "In Use",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "21-09-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A021",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Desktop",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E022",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Available",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "22-10-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A022",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Server",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E023",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Under Maintenance",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "23-11-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A023",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Router",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E024",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Retired",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "24-12-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A024",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Printer",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E025",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "In Use",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "25-01-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A025",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Laptop",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E026",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Available",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "26-02-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A026",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Desktop",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E027",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Under Maintenance",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "27-03-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A027",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Server",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E028",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Retired",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "28-04-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A028",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Router",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E029",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "In Use",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "01-05-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A029",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Printer",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E030",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Available",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "02-06-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A030",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Laptop",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E031",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Under Maintenance",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "03-07-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A031",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Desktop",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E032",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Retired",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "04-08-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A032",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Server",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E033",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "In Use",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "05-09-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A033",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Router",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E034",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Available",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "06-10-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A034",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Printer",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E035",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Under Maintenance",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "07-11-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A035",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Laptop",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E036",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Retired",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "08-12-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A036",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Desktop",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E037",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "In Use",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "09-01-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A037",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Server",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E038",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Available",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "10-02-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A038",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Router",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E039",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Under Maintenance",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "11-03-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A039",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Printer",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E040",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Retired",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "12-04-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A040",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Laptop",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E041",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "In Use",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "13-05-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A041",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Desktop",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E042",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Available",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "14-06-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A042",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Server",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E043",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Under Maintenance",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "15-07-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A043",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Router",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E044",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Retired",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "16-08-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A044",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Printer",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E045",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "In Use",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "17-09-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A045",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Laptop",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E046",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Available",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "18-10-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A046",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Desktop",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E047",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Under Maintenance",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "19-11-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A047",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Server",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E048",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Retired",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "20-12-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A048",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Router",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E049",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "In Use",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "21-01-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A049",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Printer",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E050",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Available",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "22-02-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "A050",
+        "type": "ASSET_ID",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Laptop",
+        "type": "ASSET_TYPE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E051",
+        "type": "ASSIGNED_TO",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "Under Maintenance",
+        "type": "STATUS",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "23-03-2023",
+        "type": "PURCHASE_DATE",
+        "source_file": "assets.csv"
+    },
+    {
+        "entity": "E002",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "02-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Absent",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E003",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "03-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Work From Home",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E004",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "04-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "On Leave",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E005",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "05-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Present",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E006",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "06-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Absent",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E007",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "07-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Work From Home",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E008",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "08-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "On Leave",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E009",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "09-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Present",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E010",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "10-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Absent",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E011",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "11-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Work From Home",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E012",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "12-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "On Leave",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E013",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "13-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Present",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E014",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "14-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Absent",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E015",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "15-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Work From Home",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E016",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "16-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "On Leave",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E017",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "17-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Present",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E018",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "18-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Absent",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E019",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "19-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Work From Home",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E020",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "20-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "On Leave",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E021",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "21-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Present",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E022",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "22-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Absent",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E023",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "23-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Work From Home",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E024",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "24-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "On Leave",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E025",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "25-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Present",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E026",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "26-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Absent",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E027",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "27-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Work From Home",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E028",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "28-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "On Leave",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E029",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "29-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Present",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E030",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "30-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Absent",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E031",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "01-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Work From Home",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E032",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "02-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "On Leave",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E033",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "03-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Present",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E034",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "04-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Absent",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E035",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "05-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Work From Home",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E036",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "06-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "On Leave",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E037",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "07-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Present",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E038",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "08-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Absent",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E039",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "09-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Work From Home",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E040",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "10-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "On Leave",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E041",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "11-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Present",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E042",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "12-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Absent",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E043",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "13-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Work From Home",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E044",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "14-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "On Leave",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E045",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "15-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Present",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E046",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "16-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Absent",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E047",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "17-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Work From Home",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E048",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "18-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "On Leave",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E049",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "19-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Present",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E050",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "20-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Absent",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "E051",
+        "type": "EMPLOYEE_ID",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "21-04-2024",
+        "type": "DATE",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "Work From Home",
+        "type": "STATUS",
+        "source_file": "attendance.csv"
+    },
+    {
+        "entity": "C01",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2023,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 12000000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 3200000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C02",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2024,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 15000000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 4100000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C03",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2025,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 18000000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 5000000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C04",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2023,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 9500000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2100000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C05",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2024,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 11000000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2600000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C06",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2025,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 12500000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 3000000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C07",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2023,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 8700000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 1800000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C08",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2024,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 9200000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2300000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C09",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2025,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 10000000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2600000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C10",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2023,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 14000000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 3800000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C11",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2024,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 15500000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 4200000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C12",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2025,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 17000000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 4600000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C13",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2023,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 6200000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 1200000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C14",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2024,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 7000000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 1500000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C15",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2025,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 7800000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 1800000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C16",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2023,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 10200000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2700000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C17",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2024,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 11800000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 3100000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C18",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2025,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 13000000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 3500000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C19",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2023,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 8000000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 1700000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C20",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2024,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 8900000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2000000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C21",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2025,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 9600000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2300000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C22",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2023,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 13500000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 3600000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C23",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2024,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 14800000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 3900000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C24",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2025,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 16000000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 4300000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C25",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2023,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 5600000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 900000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C26",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2024,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 6300000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 1100000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C27",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2025,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 7000000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 1400000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C28",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2023,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 9200000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2400000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C29",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2024,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 10500000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2800000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C30",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2025,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 11800000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 3200000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C31",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2023,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 6700000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 1300000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C32",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2024,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 7500000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 1600000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C33",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2025,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 8300000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 1900000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C34",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2023,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 15000000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 4000000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C35",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2024,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 16500000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 4400000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C36",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2025,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 18000000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 4900000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C37",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2023,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 8800000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 1900000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C38",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2024,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 9500000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2200000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C39",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2025,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 10300000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2500000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C40",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2023,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 7200000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 1400000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C41",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2024,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 8000000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 1700000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C42",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2025,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 8800000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2000000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C43",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2023,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 16000000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 4200000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C44",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2024,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 17500000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 4700000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "C45",
+        "type": "COMPANY_",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 2025,
+        "type": "YEAR",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 19000000,
+        "type": "REVENUE",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": 5200000,
+        "type": "PROFIT",
+        "source_file": "company_financials.csv"
+    },
+    {
+        "entity": "E001",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Amit Sharma",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Data Scientist",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "AI",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E010",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E002",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Neha Verma",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Business Analyst",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Consulting",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E011",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E003",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Ravi Kumar",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "HR Manager",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "HR",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E012",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E004",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee4",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Software Engineer",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Consulting",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E104",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E005",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee5",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Data Analyst",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "IT",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E105",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E006",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee6",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "System Admin",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "AI",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E106",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E007",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee7",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Project Manager",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "HR",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E107",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E008",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee8",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Software Engineer",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Finance",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E108",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E009",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee9",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Data Analyst",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Consulting",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E109",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E010",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee10",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "System Admin",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "IT",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E100",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E011",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee11",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Project Manager",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "AI",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E101",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E012",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee12",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Software Engineer",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "HR",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E102",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E013",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee13",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Data Analyst",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Finance",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E103",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E014",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee14",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "System Admin",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Consulting",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E104",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E015",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee15",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Project Manager",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "IT",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E105",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E016",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee16",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Software Engineer",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "AI",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E106",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E017",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee17",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Data Analyst",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "HR",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E107",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E018",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee18",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "System Admin",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Finance",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E108",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E019",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee19",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Project Manager",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Consulting",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E109",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E020",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee20",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Software Engineer",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "IT",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E100",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E021",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee21",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Data Analyst",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "AI",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E101",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E022",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee22",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "System Admin",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "HR",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E102",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E023",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee23",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Project Manager",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Finance",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E103",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E024",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee24",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Software Engineer",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Consulting",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E104",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E025",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee25",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Data Analyst",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "IT",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E105",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E026",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee26",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "System Admin",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "AI",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E106",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E027",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee27",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Project Manager",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "HR",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E107",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E028",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee28",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Software Engineer",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Finance",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E108",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E029",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee29",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Data Analyst",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Consulting",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E109",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E030",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee30",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "System Admin",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "IT",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E100",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E031",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee31",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Project Manager",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "AI",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E101",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E032",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee32",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Software Engineer",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "HR",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E102",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E033",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee33",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Data Analyst",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Finance",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E103",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E034",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee34",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "System Admin",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Consulting",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E104",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E035",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee35",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Project Manager",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "IT",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E105",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E036",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee36",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Software Engineer",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "AI",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E106",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E037",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee37",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Data Analyst",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "HR",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E107",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E038",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee38",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "System Admin",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Finance",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E108",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E039",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee39",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Project Manager",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Consulting",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E109",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E040",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee40",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Software Engineer",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "IT",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E100",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E041",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee41",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Data Analyst",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "AI",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E101",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E042",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee42",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "System Admin",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "HR",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E102",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E043",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee43",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Project Manager",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Finance",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E103",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E044",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee44",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Software Engineer",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Consulting",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E104",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E045",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee45",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Data Analyst",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "IT",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E105",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E046",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee46",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "System Admin",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "AI",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E106",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E047",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee47",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Project Manager",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "HR",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E107",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E048",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee48",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Software Engineer",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Finance",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E108",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E049",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee49",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Data Analyst",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Consulting",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E109",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E050",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee50",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "System Admin",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "IT",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E100",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E051",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee51",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Project Manager",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "AI",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E101",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E052",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee52",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Software Engineer",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "HR",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E102",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E053",
+        "type": "EMPLOYEE_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Employee53",
+        "type": "EMPLOYEE_NAME",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Data Analyst",
+        "type": "ROLE",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "Finance",
+        "type": "DEPARTMENT",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "E103",
+        "type": "MANAGER_ID",
+        "source_file": "employee.csv"
+    },
+    {
+        "entity": "POL001",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 1",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "R&D",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2021,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL002",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 2",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Finance",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2022,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL003",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 3",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "IT",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2023,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL004",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 4",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Marketing",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2024,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL005",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 5",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Operations",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2025,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL006",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 6",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "HR",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2020,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL007",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 7",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "R&D",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2021,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL008",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 8",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Finance",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2022,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL009",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 9",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "IT",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2023,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL010",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 10",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Marketing",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2024,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL011",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 11",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Operations",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2025,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL012",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 12",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "HR",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2020,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL013",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 13",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "R&D",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2021,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL014",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 14",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Finance",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2022,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL015",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 15",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "IT",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2023,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL016",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 16",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Marketing",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2024,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL017",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 17",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Operations",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2025,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL018",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 18",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "HR",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2020,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL019",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 19",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "R&D",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2021,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL020",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 20",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Finance",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2022,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL021",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 21",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "IT",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2023,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL022",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 22",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Marketing",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2024,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL023",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 23",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Operations",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2025,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL024",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 24",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "HR",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2020,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL025",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 25",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "R&D",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2021,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL026",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 26",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Finance",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2022,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL027",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 27",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "IT",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2023,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL028",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 28",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Marketing",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2024,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL029",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 29",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Operations",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2025,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL030",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 30",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "HR",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2020,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL031",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 31",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "R&D",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2021,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL032",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 32",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Finance",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2022,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL033",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 33",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "IT",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2023,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL034",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 34",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Marketing",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2024,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL035",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 35",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Operations",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2025,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL036",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 36",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "HR",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2020,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL037",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 37",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "R&D",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2021,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL038",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 38",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Finance",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2022,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL039",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 39",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "IT",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2023,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL040",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 40",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Marketing",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2024,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL041",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 41",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Operations",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2025,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL042",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 42",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "HR",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2020,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL043",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 43",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "R&D",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2021,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL044",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 44",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Finance",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2022,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL045",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 45",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "IT",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2023,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL046",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 46",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Marketing",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2024,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL047",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 47",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Operations",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2025,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL048",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 48",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "HR",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2020,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL049",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 49",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "R&D",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2021,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "POL050",
+        "type": "POLICY_ID",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Policy Description 50",
+        "type": "POLICY_NAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "Finance",
+        "type": "DEPARTMER",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": 2022,
+        "type": "EFFECTIVE_YEAR",
+        "source_file": "policies.csv"
+    },
+    {
+        "entity": "S001",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E002",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Java",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Intermediate",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S002",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E003",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "SQL",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Advanced",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S003",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E004",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "React",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Beginner",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S004",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E005",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Node.js",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Intermediate",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S005",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E006",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "AWS",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Advanced",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S006",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E007",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Docker",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Beginner",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S007",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E008",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "ML",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Intermediate",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S008",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E009",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "NLP",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Advanced",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S009",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E010",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Neo4j",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Beginner",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S010",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E011",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Python",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Intermediate",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S011",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E012",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Java",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Advanced",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S012",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E013",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "SQL",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Beginner",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S013",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E014",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "React",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Intermediate",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S014",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E015",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Node.js",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Advanced",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S015",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E016",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "AWS",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Beginner",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S016",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E017",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Docker",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Intermediate",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S017",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E018",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "ML",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Advanced",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S018",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E019",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "NLP",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Beginner",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S019",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E020",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Neo4j",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Intermediate",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S020",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E021",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Python",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Advanced",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S021",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E022",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Java",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Beginner",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S022",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E023",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "SQL",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Intermediate",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S023",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E024",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "React",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Advanced",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S024",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E025",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Node.js",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Beginner",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S025",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E026",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "AWS",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Intermediate",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S026",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E027",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Docker",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Advanced",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S027",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E028",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "ML",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Beginner",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S028",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E029",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "NLP",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Intermediate",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S029",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E030",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Neo4j",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Advanced",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S030",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E031",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Python",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Beginner",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S031",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E032",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Java",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Intermediate",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S032",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E033",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "SQL",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Advanced",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S033",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E034",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "React",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Beginner",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S034",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E035",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Node.js",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Intermediate",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S035",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E036",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "AWS",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Advanced",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S036",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E037",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Docker",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Beginner",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S037",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E038",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "ML",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Intermediate",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S038",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E039",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "NLP",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Advanced",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S039",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E040",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Neo4j",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Beginner",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S040",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E041",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Python",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Intermediate",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S041",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E042",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Java",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Advanced",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S042",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E043",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "SQL",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Beginner",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S043",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E044",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "React",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Intermediate",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S044",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E045",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Node.js",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Advanced",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S045",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E046",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "AWS",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Beginner",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S046",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E047",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Docker",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Intermediate",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S047",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E048",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "ML",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Advanced",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S048",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E049",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "NLP",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Beginner",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S049",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E050",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Neo4j",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Intermediate",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "S050",
+        "type": "SKILL_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "E051",
+        "type": "EMPLOYEE_ID",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Python",
+        "type": "SKILL_NAME",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "Advanced",
+        "type": "PROFICIENCY_LEVEL",
+        "source_file": "skills.csv"
+    },
+    {
+        "entity": "V001",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor1",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "AI Consulting",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V002",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor2",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Cybersecurity",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V003",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor3",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Data Analytics",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V004",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor4",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "DevOps",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V005",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor5",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "ERP Solutions",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V006",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor6",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Cloud Infrastructure",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V007",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor7",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "AI Consulting",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V008",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor8",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Cybersecurity",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V009",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor9",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Data Analytics",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V010",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor10",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "DevOps",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V011",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor11",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "ERP Solutions",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V012",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor12",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Cloud Infrastructure",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V013",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor13",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "AI Consulting",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V014",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor14",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Cybersecurity",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V015",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor15",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Data Analytics",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V016",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor16",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "DevOps",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V017",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor17",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "ERP Solutions",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V018",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor18",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Cloud Infrastructure",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V019",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor19",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "AI Consulting",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V020",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor20",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Cybersecurity",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V021",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor21",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Data Analytics",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V022",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor22",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "DevOps",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V023",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor23",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "ERP Solutions",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V024",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor24",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Cloud Infrastructure",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V025",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor25",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "AI Consulting",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V026",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor26",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Cybersecurity",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V027",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor27",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Data Analytics",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V028",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor28",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "DevOps",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V029",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor29",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "ERP Solutions",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V030",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor30",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Cloud Infrastructure",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V031",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor31",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "AI Consulting",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V032",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor32",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Cybersecurity",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V033",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor33",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Data Analytics",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V034",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor34",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "DevOps",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V035",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor35",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "ERP Solutions",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V036",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor36",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Cloud Infrastructure",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V037",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor37",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "AI Consulting",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V038",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor38",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Cybersecurity",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V039",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor39",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Data Analytics",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V040",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor40",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "DevOps",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V041",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor41",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "ERP Solutions",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V042",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor42",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Cloud Infrastructure",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V043",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor43",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "AI Consulting",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V044",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor44",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Cybersecurity",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V045",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor45",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Data Analytics",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V046",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor46",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "DevOps",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V047",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor47",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "ERP Solutions",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V048",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor48",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Cloud Infrastructure",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V049",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor49",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "AI Consulting",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "V050",
+        "type": "VENDOR_ID",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Vendor50",
+        "type": "VENDOR_NA",
+        "source_file": "vendors.csv"
+    },
+    {
+        "entity": "Cybersecurity",
+        "type": "SERVICE",
+        "source_file": "vendors.csv"
+    }
+]

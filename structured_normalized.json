@@ -1,0 +1,2149 @@
+[
+    {
+        "doc_id": "STRUCT_1",
+        "timestamp": "2026-01-27T22:31:09.300856",
+        "file_name": "assets.csv",
+        "source_type": "STRUCT",
+        "data": [
+            {
+                "asset_id": "A001",
+                "asset_type": "Desktop",
+                "assigned_to": "E002",
+                "status": "Available",
+                "purchase_date": "02-02-2023"
+            },
+            {
+                "asset_id": "A002",
+                "asset_type": "Server",
+                "assigned_to": "E003",
+                "status": "Under Maintenance",
+                "purchase_date": "03-03-2023"
+            },
+            {
+                "asset_id": "A003",
+                "asset_type": "Router",
+                "assigned_to": "E004",
+                "status": "Retired",
+                "purchase_date": "04-04-2023"
+            },
+            {
+                "asset_id": "A004",
+                "asset_type": "Printer",
+                "assigned_to": "E005",
+                "status": "In Use",
+                "purchase_date": "05-05-2023"
+            },
+            {
+                "asset_id": "A005",
+                "asset_type": "Laptop",
+                "assigned_to": "E006",
+                "status": "Available",
+                "purchase_date": "06-06-2023"
+            },
+            {
+                "asset_id": "A006",
+                "asset_type": "Desktop",
+                "assigned_to": "E007",
+                "status": "Under Maintenance",
+                "purchase_date": "07-07-2023"
+            },
+            {
+                "asset_id": "A007",
+                "asset_type": "Server",
+                "assigned_to": "E008",
+                "status": "Retired",
+                "purchase_date": "08-08-2023"
+            },
+            {
+                "asset_id": "A008",
+                "asset_type": "Router",
+                "assigned_to": "E009",
+                "status": "In Use",
+                "purchase_date": "09-09-2023"
+            },
+            {
+                "asset_id": "A009",
+                "asset_type": "Printer",
+                "assigned_to": "E010",
+                "status": "Available",
+                "purchase_date": "10-10-2023"
+            },
+            {
+                "asset_id": "A010",
+                "asset_type": "Laptop",
+                "assigned_to": "E011",
+                "status": "Under Maintenance",
+                "purchase_date": "11-11-2023"
+            },
+            {
+                "asset_id": "A011",
+                "asset_type": "Desktop",
+                "assigned_to": "E012",
+                "status": "Retired",
+                "purchase_date": "12-12-2023"
+            },
+            {
+                "asset_id": "A012",
+                "asset_type": "Server",
+                "assigned_to": "E013",
+                "status": "In Use",
+                "purchase_date": "13-01-2023"
+            },
+            {
+                "asset_id": "A013",
+                "asset_type": "Router",
+                "assigned_to": "E014",
+                "status": "Available",
+                "purchase_date": "14-02-2023"
+            },
+            {
+                "asset_id": "A014",
+                "asset_type": "Printer",
+                "assigned_to": "E015",
+                "status": "Under Maintenance",
+                "purchase_date": "15-03-2023"
+            },
+            {
+                "asset_id": "A015",
+                "asset_type": "Laptop",
+                "assigned_to": "E016",
+                "status": "Retired",
+                "purchase_date": "16-04-2023"
+            },
+            {
+                "asset_id": "A016",
+                "asset_type": "Desktop",
+                "assigned_to": "E017",
+                "status": "In Use",
+                "purchase_date": "17-05-2023"
+            },
+            {
+                "asset_id": "A017",
+                "asset_type": "Server",
+                "assigned_to": "E018",
+                "status": "Available",
+                "purchase_date": "18-06-2023"
+            },
+            {
+                "asset_id": "A018",
+                "asset_type": "Router",
+                "assigned_to": "E019",
+                "status": "Under Maintenance",
+                "purchase_date": "19-07-2023"
+            },
+            {
+                "asset_id": "A019",
+                "asset_type": "Printer",
+                "assigned_to": "E020",
+                "status": "Retired",
+                "purchase_date": "20-08-2023"
+            },
+            {
+                "asset_id": "A020",
+                "asset_type": "Laptop",
+                "assigned_to": "E021",
+                "status": "In Use",
+                "purchase_date": "21-09-2023"
+            },
+            {
+                "asset_id": "A021",
+                "asset_type": "Desktop",
+                "assigned_to": "E022",
+                "status": "Available",
+                "purchase_date": "22-10-2023"
+            },
+            {
+                "asset_id": "A022",
+                "asset_type": "Server",
+                "assigned_to": "E023",
+                "status": "Under Maintenance",
+                "purchase_date": "23-11-2023"
+            },
+            {
+                "asset_id": "A023",
+                "asset_type": "Router",
+                "assigned_to": "E024",
+                "status": "Retired",
+                "purchase_date": "24-12-2023"
+            },
+            {
+                "asset_id": "A024",
+                "asset_type": "Printer",
+                "assigned_to": "E025",
+                "status": "In Use",
+                "purchase_date": "25-01-2023"
+            },
+            {
+                "asset_id": "A025",
+                "asset_type": "Laptop",
+                "assigned_to": "E026",
+                "status": "Available",
+                "purchase_date": "26-02-2023"
+            },
+            {
+                "asset_id": "A026",
+                "asset_type": "Desktop",
+                "assigned_to": "E027",
+                "status": "Under Maintenance",
+                "purchase_date": "27-03-2023"
+            },
+            {
+                "asset_id": "A027",
+                "asset_type": "Server",
+                "assigned_to": "E028",
+                "status": "Retired",
+                "purchase_date": "28-04-2023"
+            },
+            {
+                "asset_id": "A028",
+                "asset_type": "Router",
+                "assigned_to": "E029",
+                "status": "In Use",
+                "purchase_date": "01-05-2023"
+            },
+            {
+                "asset_id": "A029",
+                "asset_type": "Printer",
+                "assigned_to": "E030",
+                "status": "Available",
+                "purchase_date": "02-06-2023"
+            },
+            {
+                "asset_id": "A030",
+                "asset_type": "Laptop",
+                "assigned_to": "E031",
+                "status": "Under Maintenance",
+                "purchase_date": "03-07-2023"
+            },
+            {
+                "asset_id": "A031",
+                "asset_type": "Desktop",
+                "assigned_to": "E032",
+                "status": "Retired",
+                "purchase_date": "04-08-2023"
+            },
+            {
+                "asset_id": "A032",
+                "asset_type": "Server",
+                "assigned_to": "E033",
+                "status": "In Use",
+                "purchase_date": "05-09-2023"
+            },
+            {
+                "asset_id": "A033",
+                "asset_type": "Router",
+                "assigned_to": "E034",
+                "status": "Available",
+                "purchase_date": "06-10-2023"
+            },
+            {
+                "asset_id": "A034",
+                "asset_type": "Printer",
+                "assigned_to": "E035",
+                "status": "Under Maintenance",
+                "purchase_date": "07-11-2023"
+            },
+            {
+                "asset_id": "A035",
+                "asset_type": "Laptop",
+                "assigned_to": "E036",
+                "status": "Retired",
+                "purchase_date": "08-12-2023"
+            },
+            {
+                "asset_id": "A036",
+                "asset_type": "Desktop",
+                "assigned_to": "E037",
+                "status": "In Use",
+                "purchase_date": "09-01-2023"
+            },
+            {
+                "asset_id": "A037",
+                "asset_type": "Server",
+                "assigned_to": "E038",
+                "status": "Available",
+                "purchase_date": "10-02-2023"
+            },
+            {
+                "asset_id": "A038",
+                "asset_type": "Router",
+                "assigned_to": "E039",
+                "status": "Under Maintenance",
+                "purchase_date": "11-03-2023"
+            },
+            {
+                "asset_id": "A039",
+                "asset_type": "Printer",
+                "assigned_to": "E040",
+                "status": "Retired",
+                "purchase_date": "12-04-2023"
+            },
+            {
+                "asset_id": "A040",
+                "asset_type": "Laptop",
+                "assigned_to": "E041",
+                "status": "In Use",
+                "purchase_date": "13-05-2023"
+            },
+            {
+                "asset_id": "A041",
+                "asset_type": "Desktop",
+                "assigned_to": "E042",
+                "status": "Available",
+                "purchase_date": "14-06-2023"
+            },
+            {
+                "asset_id": "A042",
+                "asset_type": "Server",
+                "assigned_to": "E043",
+                "status": "Under Maintenance",
+                "purchase_date": "15-07-2023"
+            },
+            {
+                "asset_id": "A043",
+                "asset_type": "Router",
+                "assigned_to": "E044",
+                "status": "Retired",
+                "purchase_date": "16-08-2023"
+            },
+            {
+                "asset_id": "A044",
+                "asset_type": "Printer",
+                "assigned_to": "E045",
+                "status": "In Use",
+                "purchase_date": "17-09-2023"
+            },
+            {
+                "asset_id": "A045",
+                "asset_type": "Laptop",
+                "assigned_to": "E046",
+                "status": "Available",
+                "purchase_date": "18-10-2023"
+            },
+            {
+                "asset_id": "A046",
+                "asset_type": "Desktop",
+                "assigned_to": "E047",
+                "status": "Under Maintenance",
+                "purchase_date": "19-11-2023"
+            },
+            {
+                "asset_id": "A047",
+                "asset_type": "Server",
+                "assigned_to": "E048",
+                "status": "Retired",
+                "purchase_date": "20-12-2023"
+            },
+            {
+                "asset_id": "A048",
+                "asset_type": "Router",
+                "assigned_to": "E049",
+                "status": "In Use",
+                "purchase_date": "21-01-2023"
+            },
+            {
+                "asset_id": "A049",
+                "asset_type": "Printer",
+                "assigned_to": "E050",
+                "status": "Available",
+                "purchase_date": "22-02-2023"
+            },
+            {
+                "asset_id": "A050",
+                "asset_type": "Laptop",
+                "assigned_to": "E051",
+                "status": "Under Maintenance",
+                "purchase_date": "23-03-2023"
+            }
+        ]
+    },
+    {
+        "doc_id": "STRUCT_2",
+        "timestamp": "2026-01-27T22:31:09.300856",
+        "file_name": "attendance.csv",
+        "source_type": "STRUCT",
+        "data": [
+            {
+                "employee_id": "E002",
+                "date": "02-04-2024",
+                "status": "Absent"
+            },
+            {
+                "employee_id": "E003",
+                "date": "03-04-2024",
+                "status": "Work From Home"
+            },
+            {
+                "employee_id": "E004",
+                "date": "04-04-2024",
+                "status": "On Leave"
+            },
+            {
+                "employee_id": "E005",
+                "date": "05-04-2024",
+                "status": "Present"
+            },
+            {
+                "employee_id": "E006",
+                "date": "06-04-2024",
+                "status": "Absent"
+            },
+            {
+                "employee_id": "E007",
+                "date": "07-04-2024",
+                "status": "Work From Home"
+            },
+            {
+                "employee_id": "E008",
+                "date": "08-04-2024",
+                "status": "On Leave"
+            },
+            {
+                "employee_id": "E009",
+                "date": "09-04-2024",
+                "status": "Present"
+            },
+            {
+                "employee_id": "E010",
+                "date": "10-04-2024",
+                "status": "Absent"
+            },
+            {
+                "employee_id": "E011",
+                "date": "11-04-2024",
+                "status": "Work From Home"
+            },
+            {
+                "employee_id": "E012",
+                "date": "12-04-2024",
+                "status": "On Leave"
+            },
+            {
+                "employee_id": "E013",
+                "date": "13-04-2024",
+                "status": "Present"
+            },
+            {
+                "employee_id": "E014",
+                "date": "14-04-2024",
+                "status": "Absent"
+            },
+            {
+                "employee_id": "E015",
+                "date": "15-04-2024",
+                "status": "Work From Home"
+            },
+            {
+                "employee_id": "E016",
+                "date": "16-04-2024",
+                "status": "On Leave"
+            },
+            {
+                "employee_id": "E017",
+                "date": "17-04-2024",
+                "status": "Present"
+            },
+            {
+                "employee_id": "E018",
+                "date": "18-04-2024",
+                "status": "Absent"
+            },
+            {
+                "employee_id": "E019",
+                "date": "19-04-2024",
+                "status": "Work From Home"
+            },
+            {
+                "employee_id": "E020",
+                "date": "20-04-2024",
+                "status": "On Leave"
+            },
+            {
+                "employee_id": "E021",
+                "date": "21-04-2024",
+                "status": "Present"
+            },
+            {
+                "employee_id": "E022",
+                "date": "22-04-2024",
+                "status": "Absent"
+            },
+            {
+                "employee_id": "E023",
+                "date": "23-04-2024",
+                "status": "Work From Home"
+            },
+            {
+                "employee_id": "E024",
+                "date": "24-04-2024",
+                "status": "On Leave"
+            },
+            {
+                "employee_id": "E025",
+                "date": "25-04-2024",
+                "status": "Present"
+            },
+            {
+                "employee_id": "E026",
+                "date": "26-04-2024",
+                "status": "Absent"
+            },
+            {
+                "employee_id": "E027",
+                "date": "27-04-2024",
+                "status": "Work From Home"
+            },
+            {
+                "employee_id": "E028",
+                "date": "28-04-2024",
+                "status": "On Leave"
+            },
+            {
+                "employee_id": "E029",
+                "date": "29-04-2024",
+                "status": "Present"
+            },
+            {
+                "employee_id": "E030",
+                "date": "30-04-2024",
+                "status": "Absent"
+            },
+            {
+                "employee_id": "E031",
+                "date": "01-04-2024",
+                "status": "Work From Home"
+            },
+            {
+                "employee_id": "E032",
+                "date": "02-04-2024",
+                "status": "On Leave"
+            },
+            {
+                "employee_id": "E033",
+                "date": "03-04-2024",
+                "status": "Present"
+            },
+            {
+                "employee_id": "E034",
+                "date": "04-04-2024",
+                "status": "Absent"
+            },
+            {
+                "employee_id": "E035",
+                "date": "05-04-2024",
+                "status": "Work From Home"
+            },
+            {
+                "employee_id": "E036",
+                "date": "06-04-2024",
+                "status": "On Leave"
+            },
+            {
+                "employee_id": "E037",
+                "date": "07-04-2024",
+                "status": "Present"
+            },
+            {
+                "employee_id": "E038",
+                "date": "08-04-2024",
+                "status": "Absent"
+            },
+            {
+                "employee_id": "E039",
+                "date": "09-04-2024",
+                "status": "Work From Home"
+            },
+            {
+                "employee_id": "E040",
+                "date": "10-04-2024",
+                "status": "On Leave"
+            },
+            {
+                "employee_id": "E041",
+                "date": "11-04-2024",
+                "status": "Present"
+            },
+            {
+                "employee_id": "E042",
+                "date": "12-04-2024",
+                "status": "Absent"
+            },
+            {
+                "employee_id": "E043",
+                "date": "13-04-2024",
+                "status": "Work From Home"
+            },
+            {
+                "employee_id": "E044",
+                "date": "14-04-2024",
+                "status": "On Leave"
+            },
+            {
+                "employee_id": "E045",
+                "date": "15-04-2024",
+                "status": "Present"
+            },
+            {
+                "employee_id": "E046",
+                "date": "16-04-2024",
+                "status": "Absent"
+            },
+            {
+                "employee_id": "E047",
+                "date": "17-04-2024",
+                "status": "Work From Home"
+            },
+            {
+                "employee_id": "E048",
+                "date": "18-04-2024",
+                "status": "On Leave"
+            },
+            {
+                "employee_id": "E049",
+                "date": "19-04-2024",
+                "status": "Present"
+            },
+            {
+                "employee_id": "E050",
+                "date": "20-04-2024",
+                "status": "Absent"
+            },
+            {
+                "employee_id": "E051",
+                "date": "21-04-2024",
+                "status": "Work From Home"
+            }
+        ]
+    },
+    {
+        "doc_id": "STRUCT_3",
+        "timestamp": "2026-01-27T22:31:09.300856",
+        "file_name": "company_financials.csv",
+        "source_type": "STRUCT",
+        "data": [
+            {
+                "company_": "C01",
+                "year": 2023,
+                "revenue": 12000000,
+                "profit": 3200000
+            },
+            {
+                "company_": "C02",
+                "year": 2024,
+                "revenue": 15000000,
+                "profit": 4100000
+            },
+            {
+                "company_": "C03",
+                "year": 2025,
+                "revenue": 18000000,
+                "profit": 5000000
+            },
+            {
+                "company_": "C04",
+                "year": 2023,
+                "revenue": 9500000,
+                "profit": 2100000
+            },
+            {
+                "company_": "C05",
+                "year": 2024,
+                "revenue": 11000000,
+                "profit": 2600000
+            },
+            {
+                "company_": "C06",
+                "year": 2025,
+                "revenue": 12500000,
+                "profit": 3000000
+            },
+            {
+                "company_": "C07",
+                "year": 2023,
+                "revenue": 8700000,
+                "profit": 1800000
+            },
+            {
+                "company_": "C08",
+                "year": 2024,
+                "revenue": 9200000,
+                "profit": 2300000
+            },
+            {
+                "company_": "C09",
+                "year": 2025,
+                "revenue": 10000000,
+                "profit": 2600000
+            },
+            {
+                "company_": "C10",
+                "year": 2023,
+                "revenue": 14000000,
+                "profit": 3800000
+            },
+            {
+                "company_": "C11",
+                "year": 2024,
+                "revenue": 15500000,
+                "profit": 4200000
+            },
+            {
+                "company_": "C12",
+                "year": 2025,
+                "revenue": 17000000,
+                "profit": 4600000
+            },
+            {
+                "company_": "C13",
+                "year": 2023,
+                "revenue": 6200000,
+                "profit": 1200000
+            },
+            {
+                "company_": "C14",
+                "year": 2024,
+                "revenue": 7000000,
+                "profit": 1500000
+            },
+            {
+                "company_": "C15",
+                "year": 2025,
+                "revenue": 7800000,
+                "profit": 1800000
+            },
+            {
+                "company_": "C16",
+                "year": 2023,
+                "revenue": 10200000,
+                "profit": 2700000
+            },
+            {
+                "company_": "C17",
+                "year": 2024,
+                "revenue": 11800000,
+                "profit": 3100000
+            },
+            {
+                "company_": "C18",
+                "year": 2025,
+                "revenue": 13000000,
+                "profit": 3500000
+            },
+            {
+                "company_": "C19",
+                "year": 2023,
+                "revenue": 8000000,
+                "profit": 1700000
+            },
+            {
+                "company_": "C20",
+                "year": 2024,
+                "revenue": 8900000,
+                "profit": 2000000
+            },
+            {
+                "company_": "C21",
+                "year": 2025,
+                "revenue": 9600000,
+                "profit": 2300000
+            },
+            {
+                "company_": "C22",
+                "year": 2023,
+                "revenue": 13500000,
+                "profit": 3600000
+            },
+            {
+                "company_": "C23",
+                "year": 2024,
+                "revenue": 14800000,
+                "profit": 3900000
+            },
+            {
+                "company_": "C24",
+                "year": 2025,
+                "revenue": 16000000,
+                "profit": 4300000
+            },
+            {
+                "company_": "C25",
+                "year": 2023,
+                "revenue": 5600000,
+                "profit": 900000
+            },
+            {
+                "company_": "C26",
+                "year": 2024,
+                "revenue": 6300000,
+                "profit": 1100000
+            },
+            {
+                "company_": "C27",
+                "year": 2025,
+                "revenue": 7000000,
+                "profit": 1400000
+            },
+            {
+                "company_": "C28",
+                "year": 2023,
+                "revenue": 9200000,
+                "profit": 2400000
+            },
+            {
+                "company_": "C29",
+                "year": 2024,
+                "revenue": 10500000,
+                "profit": 2800000
+            },
+            {
+                "company_": "C30",
+                "year": 2025,
+                "revenue": 11800000,
+                "profit": 3200000
+            },
+            {
+                "company_": "C31",
+                "year": 2023,
+                "revenue": 6700000,
+                "profit": 1300000
+            },
+            {
+                "company_": "C32",
+                "year": 2024,
+                "revenue": 7500000,
+                "profit": 1600000
+            },
+            {
+                "company_": "C33",
+                "year": 2025,
+                "revenue": 8300000,
+                "profit": 1900000
+            },
+            {
+                "company_": "C34",
+                "year": 2023,
+                "revenue": 15000000,
+                "profit": 4000000
+            },
+            {
+                "company_": "C35",
+                "year": 2024,
+                "revenue": 16500000,
+                "profit": 4400000
+            },
+            {
+                "company_": "C36",
+                "year": 2025,
+                "revenue": 18000000,
+                "profit": 4900000
+            },
+            {
+                "company_": "C37",
+                "year": 2023,
+                "revenue": 8800000,
+                "profit": 1900000
+            },
+            {
+                "company_": "C38",
+                "year": 2024,
+                "revenue": 9500000,
+                "profit": 2200000
+            },
+            {
+                "company_": "C39",
+                "year": 2025,
+                "revenue": 10300000,
+                "profit": 2500000
+            },
+            {
+                "company_": "C40",
+                "year": 2023,
+                "revenue": 7200000,
+                "profit": 1400000
+            },
+            {
+                "company_": "C41",
+                "year": 2024,
+                "revenue": 8000000,
+                "profit": 1700000
+            },
+            {
+                "company_": "C42",
+                "year": 2025,
+                "revenue": 8800000,
+                "profit": 2000000
+            },
+            {
+                "company_": "C43",
+                "year": 2023,
+                "revenue": 16000000,
+                "profit": 4200000
+            },
+            {
+                "company_": "C44",
+                "year": 2024,
+                "revenue": 17500000,
+                "profit": 4700000
+            },
+            {
+                "company_": "C45",
+                "year": 2025,
+                "revenue": 19000000,
+                "profit": 5200000
+            }
+        ]
+    },
+    {
+        "doc_id": "STRUCT_4",
+        "timestamp": "2026-01-27T22:31:09.300856",
+        "file_name": "employee.csv",
+        "source_type": "STRUCT",
+        "data": [
+            {
+                "employee_id": "E001",
+                "employee_name": "Amit Sharma",
+                "role": "Data Scientist",
+                "department": "AI",
+                "manager_id": "E010"
+            },
+            {
+                "employee_id": "E002",
+                "employee_name": "Neha Verma",
+                "role": "Business Analyst",
+                "department": "Consulting",
+                "manager_id": "E011"
+            },
+            {
+                "employee_id": "E003",
+                "employee_name": "Ravi Kumar",
+                "role": "HR Manager",
+                "department": "HR",
+                "manager_id": "E012"
+            },
+            {
+                "employee_id": "E004",
+                "employee_name": "Employee4",
+                "role": "Software Engineer",
+                "department": "Consulting",
+                "manager_id": "E104"
+            },
+            {
+                "employee_id": "E005",
+                "employee_name": "Employee5",
+                "role": "Data Analyst",
+                "department": "IT",
+                "manager_id": "E105"
+            },
+            {
+                "employee_id": "E006",
+                "employee_name": "Employee6",
+                "role": "System Admin",
+                "department": "AI",
+                "manager_id": "E106"
+            },
+            {
+                "employee_id": "E007",
+                "employee_name": "Employee7",
+                "role": "Project Manager",
+                "department": "HR",
+                "manager_id": "E107"
+            },
+            {
+                "employee_id": "E008",
+                "employee_name": "Employee8",
+                "role": "Software Engineer",
+                "department": "Finance",
+                "manager_id": "E108"
+            },
+            {
+                "employee_id": "E009",
+                "employee_name": "Employee9",
+                "role": "Data Analyst",
+                "department": "Consulting",
+                "manager_id": "E109"
+            },
+            {
+                "employee_id": "E010",
+                "employee_name": "Employee10",
+                "role": "System Admin",
+                "department": "IT",
+                "manager_id": "E100"
+            },
+            {
+                "employee_id": "E011",
+                "employee_name": "Employee11",
+                "role": "Project Manager",
+                "department": "AI",
+                "manager_id": "E101"
+            },
+            {
+                "employee_id": "E012",
+                "employee_name": "Employee12",
+                "role": "Software Engineer",
+                "department": "HR",
+                "manager_id": "E102"
+            },
+            {
+                "employee_id": "E013",
+                "employee_name": "Employee13",
+                "role": "Data Analyst",
+                "department": "Finance",
+                "manager_id": "E103"
+            },
+            {
+                "employee_id": "E014",
+                "employee_name": "Employee14",
+                "role": "System Admin",
+                "department": "Consulting",
+                "manager_id": "E104"
+            },
+            {
+                "employee_id": "E015",
+                "employee_name": "Employee15",
+                "role": "Project Manager",
+                "department": "IT",
+                "manager_id": "E105"
+            },
+            {
+                "employee_id": "E016",
+                "employee_name": "Employee16",
+                "role": "Software Engineer",
+                "department": "AI",
+                "manager_id": "E106"
+            },
+            {
+                "employee_id": "E017",
+                "employee_name": "Employee17",
+                "role": "Data Analyst",
+                "department": "HR",
+                "manager_id": "E107"
+            },
+            {
+                "employee_id": "E018",
+                "employee_name": "Employee18",
+                "role": "System Admin",
+                "department": "Finance",
+                "manager_id": "E108"
+            },
+            {
+                "employee_id": "E019",
+                "employee_name": "Employee19",
+                "role": "Project Manager",
+                "department": "Consulting",
+                "manager_id": "E109"
+            },
+            {
+                "employee_id": "E020",
+                "employee_name": "Employee20",
+                "role": "Software Engineer",
+                "department": "IT",
+                "manager_id": "E100"
+            },
+            {
+                "employee_id": "E021",
+                "employee_name": "Employee21",
+                "role": "Data Analyst",
+                "department": "AI",
+                "manager_id": "E101"
+            },
+            {
+                "employee_id": "E022",
+                "employee_name": "Employee22",
+                "role": "System Admin",
+                "department": "HR",
+                "manager_id": "E102"
+            },
+            {
+                "employee_id": "E023",
+                "employee_name": "Employee23",
+                "role": "Project Manager",
+                "department": "Finance",
+                "manager_id": "E103"
+            },
+            {
+                "employee_id": "E024",
+                "employee_name": "Employee24",
+                "role": "Software Engineer",
+                "department": "Consulting",
+                "manager_id": "E104"
+            },
+            {
+                "employee_id": "E025",
+                "employee_name": "Employee25",
+                "role": "Data Analyst",
+                "department": "IT",
+                "manager_id": "E105"
+            },
+            {
+                "employee_id": "E026",
+                "employee_name": "Employee26",
+                "role": "System Admin",
+                "department": "AI",
+                "manager_id": "E106"
+            },
+            {
+                "employee_id": "E027",
+                "employee_name": "Employee27",
+                "role": "Project Manager",
+                "department": "HR",
+                "manager_id": "E107"
+            },
+            {
+                "employee_id": "E028",
+                "employee_name": "Employee28",
+                "role": "Software Engineer",
+                "department": "Finance",
+                "manager_id": "E108"
+            },
+            {
+                "employee_id": "E029",
+                "employee_name": "Employee29",
+                "role": "Data Analyst",
+                "department": "Consulting",
+                "manager_id": "E109"
+            },
+            {
+                "employee_id": "E030",
+                "employee_name": "Employee30",
+                "role": "System Admin",
+                "department": "IT",
+                "manager_id": "E100"
+            },
+            {
+                "employee_id": "E031",
+                "employee_name": "Employee31",
+                "role": "Project Manager",
+                "department": "AI",
+                "manager_id": "E101"
+            },
+            {
+                "employee_id": "E032",
+                "employee_name": "Employee32",
+                "role": "Software Engineer",
+                "department": "HR",
+                "manager_id": "E102"
+            },
+            {
+                "employee_id": "E033",
+                "employee_name": "Employee33",
+                "role": "Data Analyst",
+                "department": "Finance",
+                "manager_id": "E103"
+            },
+            {
+                "employee_id": "E034",
+                "employee_name": "Employee34",
+                "role": "System Admin",
+                "department": "Consulting",
+                "manager_id": "E104"
+            },
+            {
+                "employee_id": "E035",
+                "employee_name": "Employee35",
+                "role": "Project Manager",
+                "department": "IT",
+                "manager_id": "E105"
+            },
+            {
+                "employee_id": "E036",
+                "employee_name": "Employee36",
+                "role": "Software Engineer",
+                "department": "AI",
+                "manager_id": "E106"
+            },
+            {
+                "employee_id": "E037",
+                "employee_name": "Employee37",
+                "role": "Data Analyst",
+                "department": "HR",
+                "manager_id": "E107"
+            },
+            {
+                "employee_id": "E038",
+                "employee_name": "Employee38",
+                "role": "System Admin",
+                "department": "Finance",
+                "manager_id": "E108"
+            },
+            {
+                "employee_id": "E039",
+                "employee_name": "Employee39",
+                "role": "Project Manager",
+                "department": "Consulting",
+                "manager_id": "E109"
+            },
+            {
+                "employee_id": "E040",
+                "employee_name": "Employee40",
+                "role": "Software Engineer",
+                "department": "IT",
+                "manager_id": "E100"
+            },
+            {
+                "employee_id": "E041",
+                "employee_name": "Employee41",
+                "role": "Data Analyst",
+                "department": "AI",
+                "manager_id": "E101"
+            },
+            {
+                "employee_id": "E042",
+                "employee_name": "Employee42",
+                "role": "System Admin",
+                "department": "HR",
+                "manager_id": "E102"
+            },
+            {
+                "employee_id": "E043",
+                "employee_name": "Employee43",
+                "role": "Project Manager",
+                "department": "Finance",
+                "manager_id": "E103"
+            },
+            {
+                "employee_id": "E044",
+                "employee_name": "Employee44",
+                "role": "Software Engineer",
+                "department": "Consulting",
+                "manager_id": "E104"
+            },
+            {
+                "employee_id": "E045",
+                "employee_name": "Employee45",
+                "role": "Data Analyst",
+                "department": "IT",
+                "manager_id": "E105"
+            },
+            {
+                "employee_id": "E046",
+                "employee_name": "Employee46",
+                "role": "System Admin",
+                "department": "AI",
+                "manager_id": "E106"
+            },
+            {
+                "employee_id": "E047",
+                "employee_name": "Employee47",
+                "role": "Project Manager",
+                "department": "HR",
+                "manager_id": "E107"
+            },
+            {
+                "employee_id": "E048",
+                "employee_name": "Employee48",
+                "role": "Software Engineer",
+                "department": "Finance",
+                "manager_id": "E108"
+            },
+            {
+                "employee_id": "E049",
+                "employee_name": "Employee49",
+                "role": "Data Analyst",
+                "department": "Consulting",
+                "manager_id": "E109"
+            },
+            {
+                "employee_id": "E050",
+                "employee_name": "Employee50",
+                "role": "System Admin",
+                "department": "IT",
+                "manager_id": "E100"
+            },
+            {
+                "employee_id": "E051",
+                "employee_name": "Employee51",
+                "role": "Project Manager",
+                "department": "AI",
+                "manager_id": "E101"
+            },
+            {
+                "employee_id": "E052",
+                "employee_name": "Employee52",
+                "role": "Software Engineer",
+                "department": "HR",
+                "manager_id": "E102"
+            },
+            {
+                "employee_id": "E053",
+                "employee_name": "Employee53",
+                "role": "Data Analyst",
+                "department": "Finance",
+                "manager_id": "E103"
+            }
+        ]
+    },
+    {
+        "doc_id": "STRUCT_5",
+        "timestamp": "2026-01-27T22:31:09.300856",
+        "file_name": "policies.csv",
+        "source_type": "STRUCT",
+        "data": [
+            {
+                "policy_id": "POL001",
+                "policy_nar": "Policy Description 1",
+                "departmer": "R&D",
+                "effective_year": 2021
+            },
+            {
+                "policy_id": "POL002",
+                "policy_nar": "Policy Description 2",
+                "departmer": "Finance",
+                "effective_year": 2022
+            },
+            {
+                "policy_id": "POL003",
+                "policy_nar": "Policy Description 3",
+                "departmer": "IT",
+                "effective_year": 2023
+            },
+            {
+                "policy_id": "POL004",
+                "policy_nar": "Policy Description 4",
+                "departmer": "Marketing",
+                "effective_year": 2024
+            },
+            {
+                "policy_id": "POL005",
+                "policy_nar": "Policy Description 5",
+                "departmer": "Operations",
+                "effective_year": 2025
+            },
+            {
+                "policy_id": "POL006",
+                "policy_nar": "Policy Description 6",
+                "departmer": "HR",
+                "effective_year": 2020
+            },
+            {
+                "policy_id": "POL007",
+                "policy_nar": "Policy Description 7",
+                "departmer": "R&D",
+                "effective_year": 2021
+            },
+            {
+                "policy_id": "POL008",
+                "policy_nar": "Policy Description 8",
+                "departmer": "Finance",
+                "effective_year": 2022
+            },
+            {
+                "policy_id": "POL009",
+                "policy_nar": "Policy Description 9",
+                "departmer": "IT",
+                "effective_year": 2023
+            },
+            {
+                "policy_id": "POL010",
+                "policy_nar": "Policy Description 10",
+                "departmer": "Marketing",
+                "effective_year": 2024
+            },
+            {
+                "policy_id": "POL011",
+                "policy_nar": "Policy Description 11",
+                "departmer": "Operations",
+                "effective_year": 2025
+            },
+            {
+                "policy_id": "POL012",
+                "policy_nar": "Policy Description 12",
+                "departmer": "HR",
+                "effective_year": 2020
+            },
+            {
+                "policy_id": "POL013",
+                "policy_nar": "Policy Description 13",
+                "departmer": "R&D",
+                "effective_year": 2021
+            },
+            {
+                "policy_id": "POL014",
+                "policy_nar": "Policy Description 14",
+                "departmer": "Finance",
+                "effective_year": 2022
+            },
+            {
+                "policy_id": "POL015",
+                "policy_nar": "Policy Description 15",
+                "departmer": "IT",
+                "effective_year": 2023
+            },
+            {
+                "policy_id": "POL016",
+                "policy_nar": "Policy Description 16",
+                "departmer": "Marketing",
+                "effective_year": 2024
+            },
+            {
+                "policy_id": "POL017",
+                "policy_nar": "Policy Description 17",
+                "departmer": "Operations",
+                "effective_year": 2025
+            },
+            {
+                "policy_id": "POL018",
+                "policy_nar": "Policy Description 18",
+                "departmer": "HR",
+                "effective_year": 2020
+            },
+            {
+                "policy_id": "POL019",
+                "policy_nar": "Policy Description 19",
+                "departmer": "R&D",
+                "effective_year": 2021
+            },
+            {
+                "policy_id": "POL020",
+                "policy_nar": "Policy Description 20",
+                "departmer": "Finance",
+                "effective_year": 2022
+            },
+            {
+                "policy_id": "POL021",
+                "policy_nar": "Policy Description 21",
+                "departmer": "IT",
+                "effective_year": 2023
+            },
+            {
+                "policy_id": "POL022",
+                "policy_nar": "Policy Description 22",
+                "departmer": "Marketing",
+                "effective_year": 2024
+            },
+            {
+                "policy_id": "POL023",
+                "policy_nar": "Policy Description 23",
+                "departmer": "Operations",
+                "effective_year": 2025
+            },
+            {
+                "policy_id": "POL024",
+                "policy_nar": "Policy Description 24",
+                "departmer": "HR",
+                "effective_year": 2020
+            },
+            {
+                "policy_id": "POL025",
+                "policy_nar": "Policy Description 25",
+                "departmer": "R&D",
+                "effective_year": 2021
+            },
+            {
+                "policy_id": "POL026",
+                "policy_nar": "Policy Description 26",
+                "departmer": "Finance",
+                "effective_year": 2022
+            },
+            {
+                "policy_id": "POL027",
+                "policy_nar": "Policy Description 27",
+                "departmer": "IT",
+                "effective_year": 2023
+            },
+            {
+                "policy_id": "POL028",
+                "policy_nar": "Policy Description 28",
+                "departmer": "Marketing",
+                "effective_year": 2024
+            },
+            {
+                "policy_id": "POL029",
+                "policy_nar": "Policy Description 29",
+                "departmer": "Operations",
+                "effective_year": 2025
+            },
+            {
+                "policy_id": "POL030",
+                "policy_nar": "Policy Description 30",
+                "departmer": "HR",
+                "effective_year": 2020
+            },
+            {
+                "policy_id": "POL031",
+                "policy_nar": "Policy Description 31",
+                "departmer": "R&D",
+                "effective_year": 2021
+            },
+            {
+                "policy_id": "POL032",
+                "policy_nar": "Policy Description 32",
+                "departmer": "Finance",
+                "effective_year": 2022
+            },
+            {
+                "policy_id": "POL033",
+                "policy_nar": "Policy Description 33",
+                "departmer": "IT",
+                "effective_year": 2023
+            },
+            {
+                "policy_id": "POL034",
+                "policy_nar": "Policy Description 34",
+                "departmer": "Marketing",
+                "effective_year": 2024
+            },
+            {
+                "policy_id": "POL035",
+                "policy_nar": "Policy Description 35",
+                "departmer": "Operations",
+                "effective_year": 2025
+            },
+            {
+                "policy_id": "POL036",
+                "policy_nar": "Policy Description 36",
+                "departmer": "HR",
+                "effective_year": 2020
+            },
+            {
+                "policy_id": "POL037",
+                "policy_nar": "Policy Description 37",
+                "departmer": "R&D",
+                "effective_year": 2021
+            },
+            {
+                "policy_id": "POL038",
+                "policy_nar": "Policy Description 38",
+                "departmer": "Finance",
+                "effective_year": 2022
+            },
+            {
+                "policy_id": "POL039",
+                "policy_nar": "Policy Description 39",
+                "departmer": "IT",
+                "effective_year": 2023
+            },
+            {
+                "policy_id": "POL040",
+                "policy_nar": "Policy Description 40",
+                "departmer": "Marketing",
+                "effective_year": 2024
+            },
+            {
+                "policy_id": "POL041",
+                "policy_nar": "Policy Description 41",
+                "departmer": "Operations",
+                "effective_year": 2025
+            },
+            {
+                "policy_id": "POL042",
+                "policy_nar": "Policy Description 42",
+                "departmer": "HR",
+                "effective_year": 2020
+            },
+            {
+                "policy_id": "POL043",
+                "policy_nar": "Policy Description 43",
+                "departmer": "R&D",
+                "effective_year": 2021
+            },
+            {
+                "policy_id": "POL044",
+                "policy_nar": "Policy Description 44",
+                "departmer": "Finance",
+                "effective_year": 2022
+            },
+            {
+                "policy_id": "POL045",
+                "policy_nar": "Policy Description 45",
+                "departmer": "IT",
+                "effective_year": 2023
+            },
+            {
+                "policy_id": "POL046",
+                "policy_nar": "Policy Description 46",
+                "departmer": "Marketing",
+                "effective_year": 2024
+            },
+            {
+                "policy_id": "POL047",
+                "policy_nar": "Policy Description 47",
+                "departmer": "Operations",
+                "effective_year": 2025
+            },
+            {
+                "policy_id": "POL048",
+                "policy_nar": "Policy Description 48",
+                "departmer": "HR",
+                "effective_year": 2020
+            },
+            {
+                "policy_id": "POL049",
+                "policy_nar": "Policy Description 49",
+                "departmer": "R&D",
+                "effective_year": 2021
+            },
+            {
+                "policy_id": "POL050",
+                "policy_nar": "Policy Description 50",
+                "departmer": "Finance",
+                "effective_year": 2022
+            }
+        ]
+    },
+    {
+        "doc_id": "STRUCT_6",
+        "timestamp": "2026-01-27T22:31:09.300856",
+        "file_name": "skills.csv",
+        "source_type": "STRUCT",
+        "data": [
+            {
+                "skill_id": "S001",
+                "employee_id": "E002",
+                "skill_name": "Java",
+                "proficiency_level": "Intermediate"
+            },
+            {
+                "skill_id": "S002",
+                "employee_id": "E003",
+                "skill_name": "SQL",
+                "proficiency_level": "Advanced"
+            },
+            {
+                "skill_id": "S003",
+                "employee_id": "E004",
+                "skill_name": "React",
+                "proficiency_level": "Beginner"
+            },
+            {
+                "skill_id": "S004",
+                "employee_id": "E005",
+                "skill_name": "Node.js",
+                "proficiency_level": "Intermediate"
+            },
+            {
+                "skill_id": "S005",
+                "employee_id": "E006",
+                "skill_name": "AWS",
+                "proficiency_level": "Advanced"
+            },
+            {
+                "skill_id": "S006",
+                "employee_id": "E007",
+                "skill_name": "Docker",
+                "proficiency_level": "Beginner"
+            },
+            {
+                "skill_id": "S007",
+                "employee_id": "E008",
+                "skill_name": "ML",
+                "proficiency_level": "Intermediate"
+            },
+            {
+                "skill_id": "S008",
+                "employee_id": "E009",
+                "skill_name": "NLP",
+                "proficiency_level": "Advanced"
+            },
+            {
+                "skill_id": "S009",
+                "employee_id": "E010",
+                "skill_name": "Neo4j",
+                "proficiency_level": "Beginner"
+            },
+            {
+                "skill_id": "S010",
+                "employee_id": "E011",
+                "skill_name": "Python",
+                "proficiency_level": "Intermediate"
+            },
+            {
+                "skill_id": "S011",
+                "employee_id": "E012",
+                "skill_name": "Java",
+                "proficiency_level": "Advanced"
+            },
+            {
+                "skill_id": "S012",
+                "employee_id": "E013",
+                "skill_name": "SQL",
+                "proficiency_level": "Beginner"
+            },
+            {
+                "skill_id": "S013",
+                "employee_id": "E014",
+                "skill_name": "React",
+                "proficiency_level": "Intermediate"
+            },
+            {
+                "skill_id": "S014",
+                "employee_id": "E015",
+                "skill_name": "Node.js",
+                "proficiency_level": "Advanced"
+            },
+            {
+                "skill_id": "S015",
+                "employee_id": "E016",
+                "skill_name": "AWS",
+                "proficiency_level": "Beginner"
+            },
+            {
+                "skill_id": "S016",
+                "employee_id": "E017",
+                "skill_name": "Docker",
+                "proficiency_level": "Intermediate"
+            },
+            {
+                "skill_id": "S017",
+                "employee_id": "E018",
+                "skill_name": "ML",
+                "proficiency_level": "Advanced"
+            },
+            {
+                "skill_id": "S018",
+                "employee_id": "E019",
+                "skill_name": "NLP",
+                "proficiency_level": "Beginner"
+            },
+            {
+                "skill_id": "S019",
+                "employee_id": "E020",
+                "skill_name": "Neo4j",
+                "proficiency_level": "Intermediate"
+            },
+            {
+                "skill_id": "S020",
+                "employee_id": "E021",
+                "skill_name": "Python",
+                "proficiency_level": "Advanced"
+            },
+            {
+                "skill_id": "S021",
+                "employee_id": "E022",
+                "skill_name": "Java",
+                "proficiency_level": "Beginner"
+            },
+            {
+                "skill_id": "S022",
+                "employee_id": "E023",
+                "skill_name": "SQL",
+                "proficiency_level": "Intermediate"
+            },
+            {
+                "skill_id": "S023",
+                "employee_id": "E024",
+                "skill_name": "React",
+                "proficiency_level": "Advanced"
+            },
+            {
+                "skill_id": "S024",
+                "employee_id": "E025",
+                "skill_name": "Node.js",
+                "proficiency_level": "Beginner"
+            },
+            {
+                "skill_id": "S025",
+                "employee_id": "E026",
+                "skill_name": "AWS",
+                "proficiency_level": "Intermediate"
+            },
+            {
+                "skill_id": "S026",
+                "employee_id": "E027",
+                "skill_name": "Docker",
+                "proficiency_level": "Advanced"
+            },
+            {
+                "skill_id": "S027",
+                "employee_id": "E028",
+                "skill_name": "ML",
+                "proficiency_level": "Beginner"
+            },
+            {
+                "skill_id": "S028",
+                "employee_id": "E029",
+                "skill_name": "NLP",
+                "proficiency_level": "Intermediate"
+            },
+            {
+                "skill_id": "S029",
+                "employee_id": "E030",
+                "skill_name": "Neo4j",
+                "proficiency_level": "Advanced"
+            },
+            {
+                "skill_id": "S030",
+                "employee_id": "E031",
+                "skill_name": "Python",
+                "proficiency_level": "Beginner"
+            },
+            {
+                "skill_id": "S031",
+                "employee_id": "E032",
+                "skill_name": "Java",
+                "proficiency_level": "Intermediate"
+            },
+            {
+                "skill_id": "S032",
+                "employee_id": "E033",
+                "skill_name": "SQL",
+                "proficiency_level": "Advanced"
+            },
+            {
+                "skill_id": "S033",
+                "employee_id": "E034",
+                "skill_name": "React",
+                "proficiency_level": "Beginner"
+            },
+            {
+                "skill_id": "S034",
+                "employee_id": "E035",
+                "skill_name": "Node.js",
+                "proficiency_level": "Intermediate"
+            },
+            {
+                "skill_id": "S035",
+                "employee_id": "E036",
+                "skill_name": "AWS",
+                "proficiency_level": "Advanced"
+            },
+            {
+                "skill_id": "S036",
+                "employee_id": "E037",
+                "skill_name": "Docker",
+                "proficiency_level": "Beginner"
+            },
+            {
+                "skill_id": "S037",
+                "employee_id": "E038",
+                "skill_name": "ML",
+                "proficiency_level": "Intermediate"
+            },
+            {
+                "skill_id": "S038",
+                "employee_id": "E039",
+                "skill_name": "NLP",
+                "proficiency_level": "Advanced"
+            },
+            {
+                "skill_id": "S039",
+                "employee_id": "E040",
+                "skill_name": "Neo4j",
+                "proficiency_level": "Beginner"
+            },
+            {
+                "skill_id": "S040",
+                "employee_id": "E041",
+                "skill_name": "Python",
+                "proficiency_level": "Intermediate"
+            },
+            {
+                "skill_id": "S041",
+                "employee_id": "E042",
+                "skill_name": "Java",
+                "proficiency_level": "Advanced"
+            },
+            {
+                "skill_id": "S042",
+                "employee_id": "E043",
+                "skill_name": "SQL",
+                "proficiency_level": "Beginner"
+            },
+            {
+                "skill_id": "S043",
+                "employee_id": "E044",
+                "skill_name": "React",
+                "proficiency_level": "Intermediate"
+            },
+            {
+                "skill_id": "S044",
+                "employee_id": "E045",
+                "skill_name": "Node.js",
+                "proficiency_level": "Advanced"
+            },
+            {
+                "skill_id": "S045",
+                "employee_id": "E046",
+                "skill_name": "AWS",
+                "proficiency_level": "Beginner"
+            },
+            {
+                "skill_id": "S046",
+                "employee_id": "E047",
+                "skill_name": "Docker",
+                "proficiency_level": "Intermediate"
+            },
+            {
+                "skill_id": "S047",
+                "employee_id": "E048",
+                "skill_name": "ML",
+                "proficiency_level": "Advanced"
+            },
+            {
+                "skill_id": "S048",
+                "employee_id": "E049",
+                "skill_name": "NLP",
+                "proficiency_level": "Beginner"
+            },
+            {
+                "skill_id": "S049",
+                "employee_id": "E050",
+                "skill_name": "Neo4j",
+                "proficiency_level": "Intermediate"
+            },
+            {
+                "skill_id": "S050",
+                "employee_id": "E051",
+                "skill_name": "Python",
+                "proficiency_level": "Advanced"
+            }
+        ]
+    },
+    {
+        "doc_id": "STRUCT_7",
+        "timestamp": "2026-01-27T22:31:09.300856",
+        "file_name": "vendors.csv",
+        "source_type": "STRUCT",
+        "data": [
+            {
+                "vendor_id": "V001",
+                "vendor_na": "Vendor1",
+                "service": "AI Consulting"
+            },
+            {
+                "vendor_id": "V002",
+                "vendor_na": "Vendor2",
+                "service": "Cybersecurity"
+            },
+            {
+                "vendor_id": "V003",
+                "vendor_na": "Vendor3",
+                "service": "Data Analytics"
+            },
+            {
+                "vendor_id": "V004",
+                "vendor_na": "Vendor4",
+                "service": "DevOps"
+            },
+            {
+                "vendor_id": "V005",
+                "vendor_na": "Vendor5",
+                "service": "ERP Solutions"
+            },
+            {
+                "vendor_id": "V006",
+                "vendor_na": "Vendor6",
+                "service": "Cloud Infrastructure"
+            },
+            {
+                "vendor_id": "V007",
+                "vendor_na": "Vendor7",
+                "service": "AI Consulting"
+            },
+            {
+                "vendor_id": "V008",
+                "vendor_na": "Vendor8",
+                "service": "Cybersecurity"
+            },
+            {
+                "vendor_id": "V009",
+                "vendor_na": "Vendor9",
+                "service": "Data Analytics"
+            },
+            {
+                "vendor_id": "V010",
+                "vendor_na": "Vendor10",
+                "service": "DevOps"
+            },
+            {
+                "vendor_id": "V011",
+                "vendor_na": "Vendor11",
+                "service": "ERP Solutions"
+            },
+            {
+                "vendor_id": "V012",
+                "vendor_na": "Vendor12",
+                "service": "Cloud Infrastructure"
+            },
+            {
+                "vendor_id": "V013",
+                "vendor_na": "Vendor13",
+                "service": "AI Consulting"
+            },
+            {
+                "vendor_id": "V014",
+                "vendor_na": "Vendor14",
+                "service": "Cybersecurity"
+            },
+            {
+                "vendor_id": "V015",
+                "vendor_na": "Vendor15",
+                "service": "Data Analytics"
+            },
+            {
+                "vendor_id": "V016",
+                "vendor_na": "Vendor16",
+                "service": "DevOps"
+            },
+            {
+                "vendor_id": "V017",
+                "vendor_na": "Vendor17",
+                "service": "ERP Solutions"
+            },
+            {
+                "vendor_id": "V018",
+                "vendor_na": "Vendor18",
+                "service": "Cloud Infrastructure"
+            },
+            {
+                "vendor_id": "V019",
+                "vendor_na": "Vendor19",
+                "service": "AI Consulting"
+            },
+            {
+                "vendor_id": "V020",
+                "vendor_na": "Vendor20",
+                "service": "Cybersecurity"
+            },
+            {
+                "vendor_id": "V021",
+                "vendor_na": "Vendor21",
+                "service": "Data Analytics"
+            },
+            {
+                "vendor_id": "V022",
+                "vendor_na": "Vendor22",
+                "service": "DevOps"
+            },
+            {
+                "vendor_id": "V023",
+                "vendor_na": "Vendor23",
+                "service": "ERP Solutions"
+            },
+            {
+                "vendor_id": "V024",
+                "vendor_na": "Vendor24",
+                "service": "Cloud Infrastructure"
+            },
+            {
+                "vendor_id": "V025",
+                "vendor_na": "Vendor25",
+                "service": "AI Consulting"
+            },
+            {
+                "vendor_id": "V026",
+                "vendor_na": "Vendor26",
+                "service": "Cybersecurity"
+            },
+            {
+                "vendor_id": "V027",
+                "vendor_na": "Vendor27",
+                "service": "Data Analytics"
+            },
+            {
+                "vendor_id": "V028",
+                "vendor_na": "Vendor28",
+                "service": "DevOps"
+            },
+            {
+                "vendor_id": "V029",
+                "vendor_na": "Vendor29",
+                "service": "ERP Solutions"
+            },
+            {
+                "vendor_id": "V030",
+                "vendor_na": "Vendor30",
+                "service": "Cloud Infrastructure"
+            },
+            {
+                "vendor_id": "V031",
+                "vendor_na": "Vendor31",
+                "service": "AI Consulting"
+            },
+            {
+                "vendor_id": "V032",
+                "vendor_na": "Vendor32",
+                "service": "Cybersecurity"
+            },
+            {
+                "vendor_id": "V033",
+                "vendor_na": "Vendor33",
+                "service": "Data Analytics"
+            },
+            {
+                "vendor_id": "V034",
+                "vendor_na": "Vendor34",
+                "service": "DevOps"
+            },
+            {
+                "vendor_id": "V035",
+                "vendor_na": "Vendor35",
+                "service": "ERP Solutions"
+            },
+            {
+                "vendor_id": "V036",
+                "vendor_na": "Vendor36",
+                "service": "Cloud Infrastructure"
+            },
+            {
+                "vendor_id": "V037",
+                "vendor_na": "Vendor37",
+                "service": "AI Consulting"
+            },
+            {
+                "vendor_id": "V038",
+                "vendor_na": "Vendor38",
+                "service": "Cybersecurity"
+            },
+            {
+                "vendor_id": "V039",
+                "vendor_na": "Vendor39",
+                "service": "Data Analytics"
+            },
+            {
+                "vendor_id": "V040",
+                "vendor_na": "Vendor40",
+                "service": "DevOps"
+            },
+            {
+                "vendor_id": "V041",
+                "vendor_na": "Vendor41",
+                "service": "ERP Solutions"
+            },
+            {
+                "vendor_id": "V042",
+                "vendor_na": "Vendor42",
+                "service": "Cloud Infrastructure"
+            },
+            {
+                "vendor_id": "V043",
+                "vendor_na": "Vendor43",
+                "service": "AI Consulting"
+            },
+            {
+                "vendor_id": "V044",
+                "vendor_na": "Vendor44",
+                "service": "Cybersecurity"
+            },
+            {
+                "vendor_id": "V045",
+                "vendor_na": "Vendor45",
+                "service": "Data Analytics"
+            },
+            {
+                "vendor_id": "V046",
+                "vendor_na": "Vendor46",
+                "service": "DevOps"
+            },
+            {
+                "vendor_id": "V047",
+                "vendor_na": "Vendor47",
+                "service": "ERP Solutions"
+            },
+            {
+                "vendor_id": "V048",
+                "vendor_na": "Vendor48",
+                "service": "Cloud Infrastructure"
+            },
+            {
+                "vendor_id": "V049",
+                "vendor_na": "Vendor49",
+                "service": "AI Consulting"
+            },
+            {
+                "vendor_id": "V050",
+                "vendor_na": "Vendor50",
+                "service": "Cybersecurity"
+            }
+        ]
+    }
+]

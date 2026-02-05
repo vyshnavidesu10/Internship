@@ -1,0 +1,352 @@
+[
+  {
+    "ticket_id": "T001",
+    "raised_by": "E012",
+    "category": "System Issue",
+    "description": "Unable to access the internal portal.",
+    "status": "In Progress"
+  },
+  {
+    "ticket_id": "T002",
+    "raised_by": "E002",
+    "category": "Access Request",
+    "description": "Requesting access to the finance dashboard.",
+    "status": "Resolved"
+  },
+  {
+    "ticket_id": "T003",
+    "raised_by": "E033",
+    "category": "Payroll Issue",
+    "description": "Salary discrepancy noticed for this month.",
+    "status": "Closed"
+  },
+  {
+    "ticket_id": "T004",
+    "raised_by": "E003",
+    "category": "Leave Management",
+    "description": "Leave balance is not updated correctly.",
+    "status": "Open"
+  },
+  {
+    "ticket_id": "T005",
+    "raised_by": "E042",
+    "category": "Hardware Issue",
+    "description": "Laptop is overheating frequently.",
+    "status": "In Progress"
+  },
+  {
+    "ticket_id": "T006",
+    "raised_by": "E042",
+    "category": "Software Installation",
+    "description": "Need approval for installing required software.",
+    "status": "Resolved"
+  },
+  {
+    "ticket_id": "T007",
+    "raised_by": "E002",
+    "category": "Compliance Query",
+    "description": "Query regarding compliance guidelines.",
+    "status": "Closed"
+  },
+  {
+    "ticket_id": "T008",
+    "raised_by": "E023",
+    "category": "Policy Clarification",
+    "description": "Clarification needed on leave carry-forward rules.",
+    "status": "Open"
+  },
+  {
+    "ticket_id": "T009",
+    "raised_by": "E045",
+    "category": "System Issue",
+    "description": "Unable to access the internal portal.",
+    "status": "In Progress"
+  },
+  {
+    "ticket_id": "T010",
+    "raised_by": "E053",
+    "category": "Access Request",
+    "description": "Requesting access to the finance dashboard.",
+    "status": "Resolved"
+  },
+  {
+    "ticket_id": "T011",
+    "raised_by": "E042",
+    "category": "Payroll Issue",
+    "description": "Salary discrepancy noticed for this month.",
+    "status": "Closed"
+  },
+  {
+    "ticket_id": "T012",
+    "raised_by": "E009",
+    "category": "Leave Management",
+    "description": "Leave balance is not updated correctly.",
+    "status": "Open"
+  },
+  {
+    "ticket_id": "T013",
+    "raised_by": "E043",
+    "category": "Hardware Issue",
+    "description": "Laptop is overheating frequently.",
+    "status": "In Progress"
+  },
+  {
+    "ticket_id": "T014",
+    "raised_by": "E054",
+    "category": "Software Installation",
+    "description": "Need approval for installing required software.",
+    "status": "Resolved"
+  },
+  {
+    "ticket_id": "T015",
+    "raised_by": "E040",
+    "category": "Compliance Query",
+    "description": "Query regarding compliance guidelines.",
+    "status": "Closed"
+  },
+  {
+    "ticket_id": "T016",
+    "raised_by": "E004",
+    "category": "Policy Clarification",
+    "description": "Clarification needed on leave carry-forward rules.",
+    "status": "Open"
+  },
+  {
+    "ticket_id": "T017",
+    "raised_by": "E001",
+    "category": "System Issue",
+    "description": "Unable to access the internal portal.",
+    "status": "In Progress"
+  },
+  {
+    "ticket_id": "T018",
+    "raised_by": "E059",
+    "category": "Access Request",
+    "description": "Requesting access to the finance dashboard.",
+    "status": "Resolved"
+  },
+  {
+    "ticket_id": "T019",
+    "raised_by": "E010",
+    "category": "Payroll Issue",
+    "description": "Salary discrepancy noticed for this month.",
+    "status": "Closed"
+  },
+  {
+    "ticket_id": "T020",
+    "raised_by": "E052",
+    "category": "Leave Management",
+    "description": "Leave balance is not updated correctly.",
+    "status": "Open"
+  },
+  {
+    "ticket_id": "T021",
+    "raised_by": "E003",
+    "category": "Hardware Issue",
+    "description": "Laptop is overheating frequently.",
+    "status": "In Progress"
+  },
+  {
+    "ticket_id": "T022",
+    "raised_by": "E034",
+    "category": "Software Installation",
+    "description": "Need approval for installing required software.",
+    "status": "Resolved"
+  },
+  {
+    "ticket_id": "T023",
+    "raised_by": "E045",
+    "category": "Compliance Query",
+    "description": "Query regarding compliance guidelines.",
+    "status": "Closed"
+  },
+  {
+    "ticket_id": "T024",
+    "raised_by": "E047",
+    "category": "Policy Clarification",
+    "description": "Clarification needed on leave carry-forward rules.",
+    "status": "Open"
+  },
+  {
+    "ticket_id": "T025",
+    "raised_by": "E038",
+    "category": "System Issue",
+    "description": "Unable to access the internal portal.",
+    "status": "In Progress"
+  },
+  {
+    "ticket_id": "T026",
+    "raised_by": "E006",
+    "category": "Access Request",
+    "description": "Requesting access to the finance dashboard.",
+    "status": "Resolved"
+  },
+  {
+    "ticket_id": "T027",
+    "raised_by": "E034",
+    "category": "Payroll Issue",
+    "description": "Salary discrepancy noticed for this month.",
+    "status": "Closed"
+  },
+  {
+    "ticket_id": "T028",
+    "raised_by": "E020",
+    "category": "Leave Management",
+    "description": "Leave balance is not updated correctly.",
+    "status": "Open"
+  },
+  {
+    "ticket_id": "T029",
+    "raised_by": "E025",
+    "category": "Hardware Issue",
+    "description": "Laptop is overheating frequently.",
+    "status": "In Progress"
+  },
+  {
+    "ticket_id": "T030",
+    "raised_by": "E022",
+    "category": "Software Installation",
+    "description": "Need approval for installing required software.",
+    "status": "Resolved"
+  },
+  {
+    "ticket_id": "T031",
+    "raised_by": "E031",
+    "category": "Compliance Query",
+    "description": "Query regarding compliance guidelines.",
+    "status": "Closed"
+  },
+  {
+    "ticket_id": "T032",
+    "raised_by": "E043",
+    "category": "Policy Clarification",
+    "description": "Clarification needed on leave carry-forward rules.",
+    "status": "Open"
+  },
+  {
+    "ticket_id": "T033",
+    "raised_by": "E020",
+    "category": "System Issue",
+    "description": "Unable to access the internal portal.",
+    "status": "In Progress"
+  },
+  {
+    "ticket_id": "T034",
+    "raised_by": "E006",
+    "category": "Access Request",
+    "description": "Requesting access to the finance dashboard.",
+    "status": "Resolved"
+  },
+  {
+    "ticket_id": "T035",
+    "raised_by": "E034",
+    "category": "Payroll Issue",
+    "description": "Salary discrepancy noticed for this month.",
+    "status": "Closed"
+  },
+  {
+    "ticket_id": "T036",
+    "raised_by": "E050",
+    "category": "Leave Management",
+    "description": "Leave balance is not updated correctly.",
+    "status": "Open"
+  },
+  {
+    "ticket_id": "T037",
+    "raised_by": "E051",
+    "category": "Hardware Issue",
+    "description": "Laptop is overheating frequently.",
+    "status": "In Progress"
+  },
+  {
+    "ticket_id": "T038",
+    "raised_by": "E049",
+    "category": "Software Installation",
+    "description": "Need approval for installing required software.",
+    "status": "Resolved"
+  },
+  {
+    "ticket_id": "T039",
+    "raised_by": "E026",
+    "category": "Compliance Query",
+    "description": "Query regarding compliance guidelines.",
+    "status": "Closed"
+  },
+  {
+    "ticket_id": "T040",
+    "raised_by": "E021",
+    "category": "Policy Clarification",
+    "description": "Clarification needed on leave carry-forward rules.",
+    "status": "Open"
+  },
+  {
+    "ticket_id": "T041",
+    "raised_by": "E032",
+    "category": "System Issue",
+    "description": "Unable to access the internal portal.",
+    "status": "In Progress"
+  },
+  {
+    "ticket_id": "T042",
+    "raised_by": "E055",
+    "category": "Access Request",
+    "description": "Requesting access to the finance dashboard.",
+    "status": "Resolved"
+  },
+  {
+    "ticket_id": "T043",
+    "raised_by": "E052",
+    "category": "Payroll Issue",
+    "description": "Salary discrepancy noticed for this month.",
+    "status": "Closed"
+  },
+  {
+    "ticket_id": "T044",
+    "raised_by": "E018",
+    "category": "Leave Management",
+    "description": "Leave balance is not updated correctly.",
+    "status": "Open"
+  },
+  {
+    "ticket_id": "T045",
+    "raised_by": "E054",
+    "category": "Hardware Issue",
+    "description": "Laptop is overheating frequently.",
+    "status": "In Progress"
+  },
+  {
+    "ticket_id": "T046",
+    "raised_by": "E041",
+    "category": "Software Installation",
+    "description": "Need approval for installing required software.",
+    "status": "Resolved"
+  },
+  {
+    "ticket_id": "T047",
+    "raised_by": "E036",
+    "category": "Compliance Query",
+    "description": "Query regarding compliance guidelines.",
+    "status": "Closed"
+  },
+  {
+    "ticket_id": "T048",
+    "raised_by": "E032",
+    "category": "Policy Clarification",
+    "description": "Clarification needed on leave carry-forward rules.",
+    "status": "Open"
+  },
+  {
+    "ticket_id": "T049",
+    "raised_by": "E040",
+    "category": "System Issue",
+    "description": "Unable to access the internal portal.",
+    "status": "In Progress"
+  },
+  {
+    "ticket_id": "T050",
+    "raised_by": "E056",
+    "category": "Access Request",
+    "description": "Requesting access to the finance dashboard.",
+    "status": "Resolved"
+  }
+]

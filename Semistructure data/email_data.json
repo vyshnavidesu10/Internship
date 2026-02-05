@@ -1,0 +1,502 @@
+[
+  {
+    "email_id": "M001",
+    "sender": "neha@company.com",
+    "receiver": [
+      "ravi@company.com"
+    ],
+    "subject": "Policy Compliance",
+    "body": "We should link HR policies with employee data for better insights.",
+    "timestamp": "2024-02-12 11:30"
+  },
+  {
+    "email_id": "M002",
+    "sender": "ravi@company.com",
+    "receiver": [
+      "hr@company.com"
+    ],
+    "subject": "Employee Performance Review",
+    "body": "Kindly confirm the current status at the earliest.",
+    "timestamp": "2024-02-12 12:30"
+  },
+  {
+    "email_id": "M003",
+    "sender": "suman@company.com",
+    "receiver": [
+      "manager@company.com"
+    ],
+    "subject": "Leave Policy Update",
+    "body": "This is a reminder regarding the pending action.",
+    "timestamp": "2024-02-12 13:30"
+  },
+  {
+    "email_id": "M004",
+    "sender": "arjun@company.com",
+    "receiver": [
+      "admin@company.com"
+    ],
+    "subject": "System Access Request",
+    "body": "Let us schedule a meeting to discuss further.",
+    "timestamp": "2024-02-12 14:30"
+  },
+  {
+    "email_id": "M005",
+    "sender": "amit@company.com",
+    "receiver": [
+      "neha@company.com"
+    ],
+    "subject": "Project Deadline Reminder",
+    "body": "Please ensure compliance with the updated policy.",
+    "timestamp": "2024-02-12 15:30"
+  },
+  {
+    "email_id": "M006",
+    "sender": "neha@company.com",
+    "receiver": [
+      "ravi@company.com"
+    ],
+    "subject": "HR Policy Discussion",
+    "body": "Please review the attached document and share your feedback.",
+    "timestamp": "2024-02-12 16:30"
+  },
+  {
+    "email_id": "M007",
+    "sender": "ravi@company.com",
+    "receiver": [
+      "hr@company.com"
+    ],
+    "subject": "AI Knowledge Graph Project",
+    "body": "We should link HR policies with employee data for better insights.",
+    "timestamp": "2024-02-12 17:30"
+  },
+  {
+    "email_id": "M008",
+    "sender": "suman@company.com",
+    "receiver": [
+      "manager@company.com"
+    ],
+    "subject": "Policy Compliance",
+    "body": "Kindly confirm the current status at the earliest.",
+    "timestamp": "2024-02-12 18:30"
+  },
+  {
+    "email_id": "M009",
+    "sender": "arjun@company.com",
+    "receiver": [
+      "admin@company.com"
+    ],
+    "subject": "Employee Performance Review",
+    "body": "This is a reminder regarding the pending action.",
+    "timestamp": "2024-02-12 19:30"
+  },
+  {
+    "email_id": "M010",
+    "sender": "amit@company.com",
+    "receiver": [
+      "neha@company.com"
+    ],
+    "subject": "Leave Policy Update",
+    "body": "Let us schedule a meeting to discuss further.",
+    "timestamp": "2024-02-12 20:30"
+  },
+  {
+    "email_id": "M011",
+    "sender": "neha@company.com",
+    "receiver": [
+      "ravi@company.com"
+    ],
+    "subject": "System Access Request",
+    "body": "Please ensure compliance with the updated policy.",
+    "timestamp": "2024-02-12 21:30"
+  },
+  {
+    "email_id": "M012",
+    "sender": "ravi@company.com",
+    "receiver": [
+      "hr@company.com"
+    ],
+    "subject": "Project Deadline Reminder",
+    "body": "Please review the attached document and share your feedback.",
+    "timestamp": "2024-02-12 22:30"
+  },
+  {
+    "email_id": "M013",
+    "sender": "suman@company.com",
+    "receiver": [
+      "manager@company.com"
+    ],
+    "subject": "HR Policy Discussion",
+    "body": "We should link HR policies with employee data for better insights.",
+    "timestamp": "2024-02-12 23:30"
+  },
+  {
+    "email_id": "M014",
+    "sender": "arjun@company.com",
+    "receiver": [
+      "admin@company.com"
+    ],
+    "subject": "AI Knowledge Graph Project",
+    "body": "Kindly confirm the current status at the earliest.",
+    "timestamp": "2024-02-13 00:30"
+  },
+  {
+    "email_id": "M015",
+    "sender": "amit@company.com",
+    "receiver": [
+      "neha@company.com"
+    ],
+    "subject": "Policy Compliance",
+    "body": "This is a reminder regarding the pending action.",
+    "timestamp": "2024-02-13 01:30"
+  },
+  {
+    "email_id": "M016",
+    "sender": "neha@company.com",
+    "receiver": [
+      "ravi@company.com"
+    ],
+    "subject": "Employee Performance Review",
+    "body": "Let us schedule a meeting to discuss further.",
+    "timestamp": "2024-02-13 02:30"
+  },
+  {
+    "email_id": "M017",
+    "sender": "ravi@company.com",
+    "receiver": [
+      "hr@company.com"
+    ],
+    "subject": "Leave Policy Update",
+    "body": "Please ensure compliance with the updated policy.",
+    "timestamp": "2024-02-13 03:30"
+  },
+  {
+    "email_id": "M018",
+    "sender": "suman@company.com",
+    "receiver": [
+      "manager@company.com"
+    ],
+    "subject": "System Access Request",
+    "body": "Please review the attached document and share your feedback.",
+    "timestamp": "2024-02-13 04:30"
+  },
+  {
+    "email_id": "M019",
+    "sender": "arjun@company.com",
+    "receiver": [
+      "admin@company.com"
+    ],
+    "subject": "Project Deadline Reminder",
+    "body": "We should link HR policies with employee data for better insights.",
+    "timestamp": "2024-02-13 05:30"
+  },
+  {
+    "email_id": "M020",
+    "sender": "amit@company.com",
+    "receiver": [
+      "neha@company.com"
+    ],
+    "subject": "HR Policy Discussion",
+    "body": "Kindly confirm the current status at the earliest.",
+    "timestamp": "2024-02-13 06:30"
+  },
+  {
+    "email_id": "M021",
+    "sender": "neha@company.com",
+    "receiver": [
+      "ravi@company.com"
+    ],
+    "subject": "AI Knowledge Graph Project",
+    "body": "This is a reminder regarding the pending action.",
+    "timestamp": "2024-02-13 07:30"
+  },
+  {
+    "email_id": "M022",
+    "sender": "ravi@company.com",
+    "receiver": [
+      "hr@company.com"
+    ],
+    "subject": "Policy Compliance",
+    "body": "Let us schedule a meeting to discuss further.",
+    "timestamp": "2024-02-13 08:30"
+  },
+  {
+    "email_id": "M023",
+    "sender": "suman@company.com",
+    "receiver": [
+      "manager@company.com"
+    ],
+    "subject": "Employee Performance Review",
+    "body": "Please ensure compliance with the updated policy.",
+    "timestamp": "2024-02-13 09:30"
+  },
+  {
+    "email_id": "M024",
+    "sender": "arjun@company.com",
+    "receiver": [
+      "admin@company.com"
+    ],
+    "subject": "Leave Policy Update",
+    "body": "Please review the attached document and share your feedback.",
+    "timestamp": "2024-02-13 10:30"
+  },
+  {
+    "email_id": "M025",
+    "sender": "amit@company.com",
+    "receiver": [
+      "neha@company.com"
+    ],
+    "subject": "System Access Request",
+    "body": "We should link HR policies with employee data for better insights.",
+    "timestamp": "2024-02-13 11:30"
+  },
+  {
+    "email_id": "M026",
+    "sender": "neha@company.com",
+    "receiver": [
+      "ravi@company.com"
+    ],
+    "subject": "Project Deadline Reminder",
+    "body": "Kindly confirm the current status at the earliest.",
+    "timestamp": "2024-02-13 12:30"
+  },
+  {
+    "email_id": "M027",
+    "sender": "ravi@company.com",
+    "receiver": [
+      "hr@company.com"
+    ],
+    "subject": "HR Policy Discussion",
+    "body": "This is a reminder regarding the pending action.",
+    "timestamp": "2024-02-13 13:30"
+  },
+  {
+    "email_id": "M028",
+    "sender": "suman@company.com",
+    "receiver": [
+      "manager@company.com"
+    ],
+    "subject": "AI Knowledge Graph Project",
+    "body": "Let us schedule a meeting to discuss further.",
+    "timestamp": "2024-02-13 14:30"
+  },
+  {
+    "email_id": "M029",
+    "sender": "arjun@company.com",
+    "receiver": [
+      "admin@company.com"
+    ],
+    "subject": "Policy Compliance",
+    "body": "Please ensure compliance with the updated policy.",
+    "timestamp": "2024-02-13 15:30"
+  },
+  {
+    "email_id": "M030",
+    "sender": "amit@company.com",
+    "receiver": [
+      "neha@company.com"
+    ],
+    "subject": "Employee Performance Review",
+    "body": "Please review the attached document and share your feedback.",
+    "timestamp": "2024-02-13 16:30"
+  },
+  {
+    "email_id": "M031",
+    "sender": "neha@company.com",
+    "receiver": [
+      "ravi@company.com"
+    ],
+    "subject": "Leave Policy Update",
+    "body": "We should link HR policies with employee data for better insights.",
+    "timestamp": "2024-02-13 17:30"
+  },
+  {
+    "email_id": "M032",
+    "sender": "ravi@company.com",
+    "receiver": [
+      "hr@company.com"
+    ],
+    "subject": "System Access Request",
+    "body": "Kindly confirm the current status at the earliest.",
+    "timestamp": "2024-02-13 18:30"
+  },
+  {
+    "email_id": "M033",
+    "sender": "suman@company.com",
+    "receiver": [
+      "manager@company.com"
+    ],
+    "subject": "Project Deadline Reminder",
+    "body": "This is a reminder regarding the pending action.",
+    "timestamp": "2024-02-13 19:30"
+  },
+  {
+    "email_id": "M034",
+    "sender": "arjun@company.com",
+    "receiver": [
+      "admin@company.com"
+    ],
+    "subject": "HR Policy Discussion",
+    "body": "Let us schedule a meeting to discuss further.",
+    "timestamp": "2024-02-13 20:30"
+  },
+  {
+    "email_id": "M035",
+    "sender": "amit@company.com",
+    "receiver": [
+      "neha@company.com"
+    ],
+    "subject": "AI Knowledge Graph Project",
+    "body": "Please ensure compliance with the updated policy.",
+    "timestamp": "2024-02-13 21:30"
+  },
+  {
+    "email_id": "M036",
+    "sender": "neha@company.com",
+    "receiver": [
+      "ravi@company.com"
+    ],
+    "subject": "Policy Compliance",
+    "body": "Please review the attached document and share your feedback.",
+    "timestamp": "2024-02-13 22:30"
+  },
+  {
+    "email_id": "M037",
+    "sender": "ravi@company.com",
+    "receiver": [
+      "hr@company.com"
+    ],
+    "subject": "Employee Performance Review",
+    "body": "We should link HR policies with employee data for better insights.",
+    "timestamp": "2024-02-13 23:30"
+  },
+  {
+    "email_id": "M038",
+    "sender": "suman@company.com",
+    "receiver": [
+      "manager@company.com"
+    ],
+    "subject": "Leave Policy Update",
+    "body": "Kindly confirm the current status at the earliest.",
+    "timestamp": "2024-02-14 00:30"
+  },
+  {
+    "email_id": "M039",
+    "sender": "arjun@company.com",
+    "receiver": [
+      "admin@company.com"
+    ],
+    "subject": "System Access Request",
+    "body": "This is a reminder regarding the pending action.",
+    "timestamp": "2024-02-14 01:30"
+  },
+  {
+    "email_id": "M040",
+    "sender": "amit@company.com",
+    "receiver": [
+      "neha@company.com"
+    ],
+    "subject": "Project Deadline Reminder",
+    "body": "Let us schedule a meeting to discuss further.",
+    "timestamp": "2024-02-14 02:30"
+  },
+  {
+    "email_id": "M041",
+    "sender": "neha@company.com",
+    "receiver": [
+      "ravi@company.com"
+    ],
+    "subject": "HR Policy Discussion",
+    "body": "Please ensure compliance with the updated policy.",
+    "timestamp": "2024-02-14 03:30"
+  },
+  {
+    "email_id": "M042",
+    "sender": "ravi@company.com",
+    "receiver": [
+      "hr@company.com"
+    ],
+    "subject": "AI Knowledge Graph Project",
+    "body": "Please review the attached document and share your feedback.",
+    "timestamp": "2024-02-14 04:30"
+  },
+  {
+    "email_id": "M043",
+    "sender": "suman@company.com",
+    "receiver": [
+      "manager@company.com"
+    ],
+    "subject": "Policy Compliance",
+    "body": "We should link HR policies with employee data for better insights.",
+    "timestamp": "2024-02-14 05:30"
+  },
+  {
+    "email_id": "M044",
+    "sender": "arjun@company.com",
+    "receiver": [
+      "admin@company.com"
+    ],
+    "subject": "Employee Performance Review",
+    "body": "Kindly confirm the current status at the earliest.",
+    "timestamp": "2024-02-14 06:30"
+  },
+  {
+    "email_id": "M045",
+    "sender": "amit@company.com",
+    "receiver": [
+      "neha@company.com"
+    ],
+    "subject": "Leave Policy Update",
+    "body": "This is a reminder regarding the pending action.",
+    "timestamp": "2024-02-14 07:30"
+  },
+  {
+    "email_id": "M046",
+    "sender": "neha@company.com",
+    "receiver": [
+      "ravi@company.com"
+    ],
+    "subject": "System Access Request",
+    "body": "Let us schedule a meeting to discuss further.",
+    "timestamp": "2024-02-14 08:30"
+  },
+  {
+    "email_id": "M047",
+    "sender": "ravi@company.com",
+    "receiver": [
+      "hr@company.com"
+    ],
+    "subject": "Project Deadline Reminder",
+    "body": "Please ensure compliance with the updated policy.",
+    "timestamp": "2024-02-14 09:30"
+  },
+  {
+    "email_id": "M048",
+    "sender": "suman@company.com",
+    "receiver": [
+      "manager@company.com"
+    ],
+    "subject": "HR Policy Discussion",
+    "body": "Please review the attached document and share your feedback.",
+    "timestamp": "2024-02-14 10:30"
+  },
+  {
+    "email_id": "M049",
+    "sender": "arjun@company.com",
+    "receiver": [
+      "admin@company.com"
+    ],
+    "subject": "AI Knowledge Graph Project",
+    "body": "We should link HR policies with employee data for better insights.",
+    "timestamp": "2024-02-14 11:30"
+  },
+  {
+    "email_id": "M050",
+    "sender": "amit@company.com",
+    "receiver": [
+      "neha@company.com"
+    ],
+    "subject": "Policy Compliance",
+    "body": "Kindly confirm the current status at the earliest.",
+    "timestamp": "2024-02-14 12:30"
+  }
+]

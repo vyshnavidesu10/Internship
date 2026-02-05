@@ -1,0 +1,352 @@
+[
+  {
+    "salary_id": "SAL001",
+    "employee_id": "E002",
+    "base_salary": 1004972,
+    "bonus": 86085,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL002",
+    "employee_id": "E003",
+    "base_salary": 803708,
+    "bonus": 90562,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL003",
+    "employee_id": "E004",
+    "base_salary": 781919,
+    "bonus": 20045,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL004",
+    "employee_id": "E005",
+    "base_salary": 602847,
+    "bonus": 55364,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL005",
+    "employee_id": "E006",
+    "base_salary": 566156,
+    "bonus": 103693,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL006",
+    "employee_id": "E007",
+    "base_salary": 413060,
+    "bonus": 31977,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL007",
+    "employee_id": "E008",
+    "base_salary": 749358,
+    "bonus": 56130,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL008",
+    "employee_id": "E009",
+    "base_salary": 908319,
+    "bonus": 111770,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL009",
+    "employee_id": "E010",
+    "base_salary": 1026318,
+    "bonus": 118215,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL010",
+    "employee_id": "E011",
+    "base_salary": 510336,
+    "bonus": 62642,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL011",
+    "employee_id": "E012",
+    "base_salary": 738463,
+    "bonus": 109860,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL012",
+    "employee_id": "E013",
+    "base_salary": 682736,
+    "bonus": 96470,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL013",
+    "employee_id": "E014",
+    "base_salary": 382323,
+    "bonus": 65102,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL014",
+    "employee_id": "E015",
+    "base_salary": 466187,
+    "bonus": 91460,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL015",
+    "employee_id": "E016",
+    "base_salary": 1060720,
+    "bonus": 102439,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL016",
+    "employee_id": "E017",
+    "base_salary": 634120,
+    "bonus": 49624,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL017",
+    "employee_id": "E018",
+    "base_salary": 900141,
+    "bonus": 90939,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL018",
+    "employee_id": "E019",
+    "base_salary": 1012252,
+    "bonus": 114683,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL019",
+    "employee_id": "E020",
+    "base_salary": 457033,
+    "bonus": 87384,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL020",
+    "employee_id": "E021",
+    "base_salary": 1017215,
+    "bonus": 113086,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL021",
+    "employee_id": "E022",
+    "base_salary": 1065036,
+    "bonus": 142012,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL022",
+    "employee_id": "E023",
+    "base_salary": 552041,
+    "bonus": 122517,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL023",
+    "employee_id": "E024",
+    "base_salary": 557749,
+    "bonus": 104664,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL024",
+    "employee_id": "E025",
+    "base_salary": 681757,
+    "bonus": 128806,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL025",
+    "employee_id": "E026",
+    "base_salary": 844942,
+    "bonus": 65902,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL026",
+    "employee_id": "E027",
+    "base_salary": 1067040,
+    "bonus": 85265,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL027",
+    "employee_id": "E028",
+    "base_salary": 416619,
+    "bonus": 98607,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL028",
+    "employee_id": "E029",
+    "base_salary": 408299,
+    "bonus": 135680,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL029",
+    "employee_id": "E030",
+    "base_salary": 973814,
+    "bonus": 139736,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL030",
+    "employee_id": "E031",
+    "base_salary": 510430,
+    "bonus": 134258,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL031",
+    "employee_id": "E032",
+    "base_salary": 891863,
+    "bonus": 94973,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL032",
+    "employee_id": "E033",
+    "base_salary": 1065354,
+    "bonus": 147265,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL033",
+    "employee_id": "E034",
+    "base_salary": 900113,
+    "bonus": 48847,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL034",
+    "employee_id": "E035",
+    "base_salary": 485264,
+    "bonus": 36185,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL035",
+    "employee_id": "E036",
+    "base_salary": 607508,
+    "bonus": 127645,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL036",
+    "employee_id": "E037",
+    "base_salary": 1030473,
+    "bonus": 78431,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL037",
+    "employee_id": "E038",
+    "base_salary": 1046907,
+    "bonus": 76848,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL038",
+    "employee_id": "E039",
+    "base_salary": 371502,
+    "bonus": 131160,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL039",
+    "employee_id": "E040",
+    "base_salary": 565176,
+    "bonus": 110295,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL040",
+    "employee_id": "E041",
+    "base_salary": 788615,
+    "bonus": 50068,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL041",
+    "employee_id": "E042",
+    "base_salary": 923418,
+    "bonus": 20397,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL042",
+    "employee_id": "E043",
+    "base_salary": 984564,
+    "bonus": 21078,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL043",
+    "employee_id": "E044",
+    "base_salary": 1026389,
+    "bonus": 72223,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL044",
+    "employee_id": "E045",
+    "base_salary": 1198223,
+    "bonus": 60237,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL045",
+    "employee_id": "E046",
+    "base_salary": 1154993,
+    "bonus": 78342,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL046",
+    "employee_id": "E047",
+    "base_salary": 1170447,
+    "bonus": 72763,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL047",
+    "employee_id": "E048",
+    "base_salary": 471062,
+    "bonus": 67361,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL048",
+    "employee_id": "E049",
+    "base_salary": 572548,
+    "bonus": 138823,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL049",
+    "employee_id": "E050",
+    "base_salary": 504050,
+    "bonus": 50384,
+    "year": 2024
+  },
+  {
+    "salary_id": "SAL050",
+    "employee_id": "E051",
+    "base_salary": 476927,
+    "bonus": 131924,
+    "year": 2024
+  }
+]

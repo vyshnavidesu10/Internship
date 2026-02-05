@@ -1,0 +1,702 @@
+[
+  {
+    "project_id": "P001",
+    "project_name": "Employee Analytics System",
+    "department": "IT",
+    "technologies": [
+      "Machine Learning",
+      "Python",
+      "Flask"
+    ],
+    "team_members": [
+      "E028",
+      "E057"
+    ]
+  },
+  {
+    "project_id": "P002",
+    "project_name": "Smart HR Portal",
+    "department": "HR",
+    "technologies": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "team_members": [
+      "E026",
+      "E031"
+    ]
+  },
+  {
+    "project_id": "P003",
+    "project_name": "Financial Risk Analyzer",
+    "department": "Finance",
+    "technologies": [
+      "TensorFlow",
+      "Keras",
+      "Deep Learning"
+    ],
+    "team_members": [
+      "E009",
+      "E031"
+    ]
+  },
+  {
+    "project_id": "P004",
+    "project_name": "Customer Insight Platform",
+    "department": "Consulting",
+    "technologies": [
+      "AWS",
+      "Docker",
+      "Kubernetes"
+    ],
+    "team_members": [
+      "E008",
+      "E040"
+    ]
+  },
+  {
+    "project_id": "P005",
+    "project_name": "Cloud Migration Tool",
+    "department": "Data Science",
+    "technologies": [
+      "Power BI",
+      "SQL",
+      "Data Warehousing"
+    ],
+    "team_members": [
+      "E017",
+      "E058"
+    ]
+  },
+  {
+    "project_id": "P006",
+    "project_name": "Fraud Detection Engine",
+    "department": "AI",
+    "technologies": [
+      "Cyber Security",
+      "SIEM",
+      "SOC"
+    ],
+    "team_members": [
+      "E026",
+      "E037"
+    ]
+  },
+  {
+    "project_id": "P007",
+    "project_name": "Recommendation System",
+    "department": "IT",
+    "technologies": [
+      "Blockchain",
+      "Solidity",
+      "Ethereum"
+    ],
+    "team_members": [
+      "E018",
+      "E037"
+    ]
+  },
+  {
+    "project_id": "P008",
+    "project_name": "Supply Chain Optimizer",
+    "department": "HR",
+    "technologies": [
+      "IoT",
+      "MQTT",
+      "Edge Computing"
+    ],
+    "team_members": [
+      "E009",
+      "E054"
+    ]
+  },
+  {
+    "project_id": "P009",
+    "project_name": "Automation Dashboard",
+    "department": "Finance",
+    "technologies": [
+      "Java",
+      "Spring Boot",
+      "Microservices"
+    ],
+    "team_members": [
+      "E022",
+      "E034"
+    ]
+  },
+  {
+    "project_id": "P010",
+    "project_name": "Enterprise Knowledge Graph",
+    "department": "Consulting",
+    "technologies": [
+      "NLP",
+      "Neo4j",
+      "RAG"
+    ],
+    "team_members": [
+      "E008",
+      "E043"
+    ]
+  },
+  {
+    "project_id": "P011",
+    "project_name": "Employee Analytics System",
+    "department": "Data Science",
+    "technologies": [
+      "Machine Learning",
+      "Python",
+      "Flask"
+    ],
+    "team_members": [
+      "E001",
+      "E035"
+    ]
+  },
+  {
+    "project_id": "P012",
+    "project_name": "Smart HR Portal",
+    "department": "AI",
+    "technologies": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "team_members": [
+      "E006",
+      "E051"
+    ]
+  },
+  {
+    "project_id": "P013",
+    "project_name": "Financial Risk Analyzer",
+    "department": "IT",
+    "technologies": [
+      "TensorFlow",
+      "Keras",
+      "Deep Learning"
+    ],
+    "team_members": [
+      "E005",
+      "E040"
+    ]
+  },
+  {
+    "project_id": "P014",
+    "project_name": "Customer Insight Platform",
+    "department": "HR",
+    "technologies": [
+      "AWS",
+      "Docker",
+      "Kubernetes"
+    ],
+    "team_members": [
+      "E016",
+      "E055"
+    ]
+  },
+  {
+    "project_id": "P015",
+    "project_name": "Cloud Migration Tool",
+    "department": "Finance",
+    "technologies": [
+      "Power BI",
+      "SQL",
+      "Data Warehousing"
+    ],
+    "team_members": [
+      "E014",
+      "E041"
+    ]
+  },
+  {
+    "project_id": "P016",
+    "project_name": "Fraud Detection Engine",
+    "department": "Consulting",
+    "technologies": [
+      "Cyber Security",
+      "SIEM",
+      "SOC"
+    ],
+    "team_members": [
+      "E010",
+      "E047"
+    ]
+  },
+  {
+    "project_id": "P017",
+    "project_name": "Recommendation System",
+    "department": "Data Science",
+    "technologies": [
+      "Blockchain",
+      "Solidity",
+      "Ethereum"
+    ],
+    "team_members": [
+      "E028",
+      "E050"
+    ]
+  },
+  {
+    "project_id": "P018",
+    "project_name": "Supply Chain Optimizer",
+    "department": "AI",
+    "technologies": [
+      "IoT",
+      "MQTT",
+      "Edge Computing"
+    ],
+    "team_members": [
+      "E022",
+      "E038"
+    ]
+  },
+  {
+    "project_id": "P019",
+    "project_name": "Automation Dashboard",
+    "department": "IT",
+    "technologies": [
+      "Java",
+      "Spring Boot",
+      "Microservices"
+    ],
+    "team_members": [
+      "E021",
+      "E060"
+    ]
+  },
+  {
+    "project_id": "P020",
+    "project_name": "Enterprise Knowledge Graph",
+    "department": "HR",
+    "technologies": [
+      "NLP",
+      "Neo4j",
+      "RAG"
+    ],
+    "team_members": [
+      "E022",
+      "E038"
+    ]
+  },
+  {
+    "project_id": "P021",
+    "project_name": "Employee Analytics System",
+    "department": "Finance",
+    "technologies": [
+      "Machine Learning",
+      "Python",
+      "Flask"
+    ],
+    "team_members": [
+      "E026",
+      "E035"
+    ]
+  },
+  {
+    "project_id": "P022",
+    "project_name": "Smart HR Portal",
+    "department": "Consulting",
+    "technologies": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "team_members": [
+      "E019",
+      "E049"
+    ]
+  },
+  {
+    "project_id": "P023",
+    "project_name": "Financial Risk Analyzer",
+    "department": "Data Science",
+    "technologies": [
+      "TensorFlow",
+      "Keras",
+      "Deep Learning"
+    ],
+    "team_members": [
+      "E006",
+      "E043"
+    ]
+  },
+  {
+    "project_id": "P024",
+    "project_name": "Customer Insight Platform",
+    "department": "AI",
+    "technologies": [
+      "AWS",
+      "Docker",
+      "Kubernetes"
+    ],
+    "team_members": [
+      "E019",
+      "E050"
+    ]
+  },
+  {
+    "project_id": "P025",
+    "project_name": "Cloud Migration Tool",
+    "department": "IT",
+    "technologies": [
+      "Power BI",
+      "SQL",
+      "Data Warehousing"
+    ],
+    "team_members": [
+      "E016",
+      "E054"
+    ]
+  },
+  {
+    "project_id": "P026",
+    "project_name": "Fraud Detection Engine",
+    "department": "HR",
+    "technologies": [
+      "Cyber Security",
+      "SIEM",
+      "SOC"
+    ],
+    "team_members": [
+      "E005",
+      "E032"
+    ]
+  },
+  {
+    "project_id": "P027",
+    "project_name": "Recommendation System",
+    "department": "Finance",
+    "technologies": [
+      "Blockchain",
+      "Solidity",
+      "Ethereum"
+    ],
+    "team_members": [
+      "E002",
+      "E044"
+    ]
+  },
+  {
+    "project_id": "P028",
+    "project_name": "Supply Chain Optimizer",
+    "department": "Consulting",
+    "technologies": [
+      "IoT",
+      "MQTT",
+      "Edge Computing"
+    ],
+    "team_members": [
+      "E029",
+      "E060"
+    ]
+  },
+  {
+    "project_id": "P029",
+    "project_name": "Automation Dashboard",
+    "department": "Data Science",
+    "technologies": [
+      "Java",
+      "Spring Boot",
+      "Microservices"
+    ],
+    "team_members": [
+      "E014",
+      "E042"
+    ]
+  },
+  {
+    "project_id": "P030",
+    "project_name": "Enterprise Knowledge Graph",
+    "department": "AI",
+    "technologies": [
+      "NLP",
+      "Neo4j",
+      "RAG"
+    ],
+    "team_members": [
+      "E026",
+      "E058"
+    ]
+  },
+  {
+    "project_id": "P031",
+    "project_name": "Employee Analytics System",
+    "department": "IT",
+    "technologies": [
+      "Machine Learning",
+      "Python",
+      "Flask"
+    ],
+    "team_members": [
+      "E018",
+      "E052"
+    ]
+  },
+  {
+    "project_id": "P032",
+    "project_name": "Smart HR Portal",
+    "department": "HR",
+    "technologies": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "team_members": [
+      "E014",
+      "E047"
+    ]
+  },
+  {
+    "project_id": "P033",
+    "project_name": "Financial Risk Analyzer",
+    "department": "Finance",
+    "technologies": [
+      "TensorFlow",
+      "Keras",
+      "Deep Learning"
+    ],
+    "team_members": [
+      "E026",
+      "E046"
+    ]
+  },
+  {
+    "project_id": "P034",
+    "project_name": "Customer Insight Platform",
+    "department": "Consulting",
+    "technologies": [
+      "AWS",
+      "Docker",
+      "Kubernetes"
+    ],
+    "team_members": [
+      "E029",
+      "E058"
+    ]
+  },
+  {
+    "project_id": "P035",
+    "project_name": "Cloud Migration Tool",
+    "department": "Data Science",
+    "technologies": [
+      "Power BI",
+      "SQL",
+      "Data Warehousing"
+    ],
+    "team_members": [
+      "E025",
+      "E034"
+    ]
+  },
+  {
+    "project_id": "P036",
+    "project_name": "Fraud Detection Engine",
+    "department": "AI",
+    "technologies": [
+      "Cyber Security",
+      "SIEM",
+      "SOC"
+    ],
+    "team_members": [
+      "E013",
+      "E045"
+    ]
+  },
+  {
+    "project_id": "P037",
+    "project_name": "Recommendation System",
+    "department": "IT",
+    "technologies": [
+      "Blockchain",
+      "Solidity",
+      "Ethereum"
+    ],
+    "team_members": [
+      "E001",
+      "E045"
+    ]
+  },
+  {
+    "project_id": "P038",
+    "project_name": "Supply Chain Optimizer",
+    "department": "HR",
+    "technologies": [
+      "IoT",
+      "MQTT",
+      "Edge Computing"
+    ],
+    "team_members": [
+      "E026",
+      "E037"
+    ]
+  },
+  {
+    "project_id": "P039",
+    "project_name": "Automation Dashboard",
+    "department": "Finance",
+    "technologies": [
+      "Java",
+      "Spring Boot",
+      "Microservices"
+    ],
+    "team_members": [
+      "E030",
+      "E059"
+    ]
+  },
+  {
+    "project_id": "P040",
+    "project_name": "Enterprise Knowledge Graph",
+    "department": "Consulting",
+    "technologies": [
+      "NLP",
+      "Neo4j",
+      "RAG"
+    ],
+    "team_members": [
+      "E001",
+      "E031"
+    ]
+  },
+  {
+    "project_id": "P041",
+    "project_name": "Employee Analytics System",
+    "department": "Data Science",
+    "technologies": [
+      "Machine Learning",
+      "Python",
+      "Flask"
+    ],
+    "team_members": [
+      "E002",
+      "E032"
+    ]
+  },
+  {
+    "project_id": "P042",
+    "project_name": "Smart HR Portal",
+    "department": "AI",
+    "technologies": [
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "team_members": [
+      "E003",
+      "E044"
+    ]
+  },
+  {
+    "project_id": "P043",
+    "project_name": "Financial Risk Analyzer",
+    "department": "IT",
+    "technologies": [
+      "TensorFlow",
+      "Keras",
+      "Deep Learning"
+    ],
+    "team_members": [
+      "E021",
+      "E037"
+    ]
+  },
+  {
+    "project_id": "P044",
+    "project_name": "Customer Insight Platform",
+    "department": "HR",
+    "technologies": [
+      "AWS",
+      "Docker",
+      "Kubernetes"
+    ],
+    "team_members": [
+      "E026",
+      "E041"
+    ]
+  },
+  {
+    "project_id": "P045",
+    "project_name": "Cloud Migration Tool",
+    "department": "Finance",
+    "technologies": [
+      "Power BI",
+      "SQL",
+      "Data Warehousing"
+    ],
+    "team_members": [
+      "E012",
+      "E046"
+    ]
+  },
+  {
+    "project_id": "P046",
+    "project_name": "Fraud Detection Engine",
+    "department": "Consulting",
+    "technologies": [
+      "Cyber Security",
+      "SIEM",
+      "SOC"
+    ],
+    "team_members": [
+      "E016",
+      "E045"
+    ]
+  },
+  {
+    "project_id": "P047",
+    "project_name": "Recommendation System",
+    "department": "Data Science",
+    "technologies": [
+      "Blockchain",
+      "Solidity",
+      "Ethereum"
+    ],
+    "team_members": [
+      "E001",
+      "E034"
+    ]
+  },
+  {
+    "project_id": "P048",
+    "project_name": "Supply Chain Optimizer",
+    "department": "AI",
+    "technologies": [
+      "IoT",
+      "MQTT",
+      "Edge Computing"
+    ],
+    "team_members": [
+      "E001",
+      "E035"
+    ]
+  },
+  {
+    "project_id": "P049",
+    "project_name": "Automation Dashboard",
+    "department": "IT",
+    "technologies": [
+      "Java",
+      "Spring Boot",
+      "Microservices"
+    ],
+    "team_members": [
+      "E027",
+      "E052"
+    ]
+  },
+  {
+    "project_id": "P050",
+    "project_name": "Enterprise Knowledge Graph",
+    "department": "HR",
+    "technologies": [
+      "NLP",
+      "Neo4j",
+      "RAG"
+    ],
+    "team_members": [
+      "E002",
+      "E037"
+    ]
+  }
+]

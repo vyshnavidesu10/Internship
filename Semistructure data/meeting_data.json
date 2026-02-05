@@ -1,0 +1,552 @@
+[
+  {
+    "meeting_id": "MT001",
+    "topic": "HR Policy Review",
+    "participants": [
+      "E007",
+      "E033",
+      "E048"
+    ],
+    "date": "2024-03-02",
+    "summary": "Review of updated HR and leave policies."
+  },
+  {
+    "meeting_id": "MT002",
+    "topic": "Cloud Migration Plan",
+    "participants": [
+      "E018",
+      "E034",
+      "E045"
+    ],
+    "date": "2024-03-03",
+    "summary": "Planning the migration of services to the cloud."
+  },
+  {
+    "meeting_id": "MT003",
+    "topic": "Data Governance Meeting",
+    "participants": [
+      "E018",
+      "E033",
+      "E053"
+    ],
+    "date": "2024-03-04",
+    "summary": "Discussion on data quality and governance standards."
+  },
+  {
+    "meeting_id": "MT004",
+    "topic": "Security Compliance Update",
+    "participants": [
+      "E019",
+      "E034",
+      "E055"
+    ],
+    "date": "2024-03-05",
+    "summary": "Update on security audits and compliance status."
+  },
+  {
+    "meeting_id": "MT005",
+    "topic": "Product Roadmap Discussion",
+    "participants": [
+      "E019",
+      "E031",
+      "E055"
+    ],
+    "date": "2024-03-06",
+    "summary": "Alignment on upcoming product features and timelines."
+  },
+  {
+    "meeting_id": "MT006",
+    "topic": "AI Knowledge Graph Integration",
+    "participants": [
+      "E009",
+      "E035",
+      "E060"
+    ],
+    "date": "2024-03-07",
+    "summary": "Exploring AI-driven insights across enterprise data."
+  },
+  {
+    "meeting_id": "MT007",
+    "topic": "System Architecture Review",
+    "participants": [
+      "E003",
+      "E026",
+      "E053"
+    ],
+    "date": "2024-03-08",
+    "summary": "Review of current system architecture and improvements."
+  },
+  {
+    "meeting_id": "MT008",
+    "topic": "Enterprise AI Strategy",
+    "participants": [
+      "E013",
+      "E033",
+      "E056"
+    ],
+    "date": "2024-03-09",
+    "summary": "Discussion on integrating RAG with knowledge graphs."
+  },
+  {
+    "meeting_id": "MT009",
+    "topic": "HR Policy Review",
+    "participants": [
+      "E003",
+      "E024",
+      "E049"
+    ],
+    "date": "2024-03-10",
+    "summary": "Review of updated HR and leave policies."
+  },
+  {
+    "meeting_id": "MT010",
+    "topic": "Cloud Migration Plan",
+    "participants": [
+      "E005",
+      "E026",
+      "E054"
+    ],
+    "date": "2024-03-11",
+    "summary": "Planning the migration of services to the cloud."
+  },
+  {
+    "meeting_id": "MT011",
+    "topic": "Data Governance Meeting",
+    "participants": [
+      "E010",
+      "E031",
+      "E046"
+    ],
+    "date": "2024-03-12",
+    "summary": "Discussion on data quality and governance standards."
+  },
+  {
+    "meeting_id": "MT012",
+    "topic": "Security Compliance Update",
+    "participants": [
+      "E010",
+      "E026",
+      "E056"
+    ],
+    "date": "2024-03-13",
+    "summary": "Update on security audits and compliance status."
+  },
+  {
+    "meeting_id": "MT013",
+    "topic": "Product Roadmap Discussion",
+    "participants": [
+      "E012",
+      "E039",
+      "E059"
+    ],
+    "date": "2024-03-14",
+    "summary": "Alignment on upcoming product features and timelines."
+  },
+  {
+    "meeting_id": "MT014",
+    "topic": "AI Knowledge Graph Integration",
+    "participants": [
+      "E006",
+      "E029",
+      "E046"
+    ],
+    "date": "2024-03-15",
+    "summary": "Exploring AI-driven insights across enterprise data."
+  },
+  {
+    "meeting_id": "MT015",
+    "topic": "System Architecture Review",
+    "participants": [
+      "E001",
+      "E034",
+      "E042"
+    ],
+    "date": "2024-03-16",
+    "summary": "Review of current system architecture and improvements."
+  },
+  {
+    "meeting_id": "MT016",
+    "topic": "Enterprise AI Strategy",
+    "participants": [
+      "E006",
+      "E035",
+      "E045"
+    ],
+    "date": "2024-03-17",
+    "summary": "Discussion on integrating RAG with knowledge graphs."
+  },
+  {
+    "meeting_id": "MT017",
+    "topic": "HR Policy Review",
+    "participants": [
+      "E014",
+      "E024",
+      "E047"
+    ],
+    "date": "2024-03-18",
+    "summary": "Review of updated HR and leave policies."
+  },
+  {
+    "meeting_id": "MT018",
+    "topic": "Cloud Migration Plan",
+    "participants": [
+      "E009",
+      "E028",
+      "E057"
+    ],
+    "date": "2024-03-19",
+    "summary": "Planning the migration of services to the cloud."
+  },
+  {
+    "meeting_id": "MT019",
+    "topic": "Data Governance Meeting",
+    "participants": [
+      "E008",
+      "E030",
+      "E045"
+    ],
+    "date": "2024-03-20",
+    "summary": "Discussion on data quality and governance standards."
+  },
+  {
+    "meeting_id": "MT020",
+    "topic": "Security Compliance Update",
+    "participants": [
+      "E001",
+      "E026",
+      "E055"
+    ],
+    "date": "2024-03-21",
+    "summary": "Update on security audits and compliance status."
+  },
+  {
+    "meeting_id": "MT021",
+    "topic": "Product Roadmap Discussion",
+    "participants": [
+      "E016",
+      "E026",
+      "E058"
+    ],
+    "date": "2024-03-22",
+    "summary": "Alignment on upcoming product features and timelines."
+  },
+  {
+    "meeting_id": "MT022",
+    "topic": "AI Knowledge Graph Integration",
+    "participants": [
+      "E015",
+      "E033",
+      "E047"
+    ],
+    "date": "2024-03-23",
+    "summary": "Exploring AI-driven insights across enterprise data."
+  },
+  {
+    "meeting_id": "MT023",
+    "topic": "System Architecture Review",
+    "participants": [
+      "E014",
+      "E037",
+      "E058"
+    ],
+    "date": "2024-03-24",
+    "summary": "Review of current system architecture and improvements."
+  },
+  {
+    "meeting_id": "MT024",
+    "topic": "Enterprise AI Strategy",
+    "participants": [
+      "E019",
+      "E036",
+      "E050"
+    ],
+    "date": "2024-03-25",
+    "summary": "Discussion on integrating RAG with knowledge graphs."
+  },
+  {
+    "meeting_id": "MT025",
+    "topic": "HR Policy Review",
+    "participants": [
+      "E005",
+      "E040",
+      "E046"
+    ],
+    "date": "2024-03-26",
+    "summary": "Review of updated HR and leave policies."
+  },
+  {
+    "meeting_id": "MT026",
+    "topic": "Cloud Migration Plan",
+    "participants": [
+      "E009",
+      "E029",
+      "E052"
+    ],
+    "date": "2024-03-27",
+    "summary": "Planning the migration of services to the cloud."
+  },
+  {
+    "meeting_id": "MT027",
+    "topic": "Data Governance Meeting",
+    "participants": [
+      "E018",
+      "E037",
+      "E046"
+    ],
+    "date": "2024-03-28",
+    "summary": "Discussion on data quality and governance standards."
+  },
+  {
+    "meeting_id": "MT028",
+    "topic": "Security Compliance Update",
+    "participants": [
+      "E011",
+      "E029",
+      "E045"
+    ],
+    "date": "2024-03-29",
+    "summary": "Update on security audits and compliance status."
+  },
+  {
+    "meeting_id": "MT029",
+    "topic": "Product Roadmap Discussion",
+    "participants": [
+      "E003",
+      "E026",
+      "E059"
+    ],
+    "date": "2024-03-30",
+    "summary": "Alignment on upcoming product features and timelines."
+  },
+  {
+    "meeting_id": "MT030",
+    "topic": "AI Knowledge Graph Integration",
+    "participants": [
+      "E010",
+      "E037",
+      "E059"
+    ],
+    "date": "2024-03-31",
+    "summary": "Exploring AI-driven insights across enterprise data."
+  },
+  {
+    "meeting_id": "MT031",
+    "topic": "System Architecture Review",
+    "participants": [
+      "E002",
+      "E028",
+      "E048"
+    ],
+    "date": "2024-04-01",
+    "summary": "Review of current system architecture and improvements."
+  },
+  {
+    "meeting_id": "MT032",
+    "topic": "Enterprise AI Strategy",
+    "participants": [
+      "E011",
+      "E035",
+      "E044"
+    ],
+    "date": "2024-04-02",
+    "summary": "Discussion on integrating RAG with knowledge graphs."
+  },
+  {
+    "meeting_id": "MT033",
+    "topic": "HR Policy Review",
+    "participants": [
+      "E013",
+      "E038",
+      "E047"
+    ],
+    "date": "2024-04-03",
+    "summary": "Review of updated HR and leave policies."
+  },
+  {
+    "meeting_id": "MT034",
+    "topic": "Cloud Migration Plan",
+    "participants": [
+      "E001",
+      "E027",
+      "E048"
+    ],
+    "date": "2024-04-04",
+    "summary": "Planning the migration of services to the cloud."
+  },
+  {
+    "meeting_id": "MT035",
+    "topic": "Data Governance Meeting",
+    "participants": [
+      "E011",
+      "E035",
+      "E047"
+    ],
+    "date": "2024-04-05",
+    "summary": "Discussion on data quality and governance standards."
+  },
+  {
+    "meeting_id": "MT036",
+    "topic": "Security Compliance Update",
+    "participants": [
+      "E009",
+      "E025",
+      "E055"
+    ],
+    "date": "2024-04-06",
+    "summary": "Update on security audits and compliance status."
+  },
+  {
+    "meeting_id": "MT037",
+    "topic": "Product Roadmap Discussion",
+    "participants": [
+      "E011",
+      "E025",
+      "E052"
+    ],
+    "date": "2024-04-07",
+    "summary": "Alignment on upcoming product features and timelines."
+  },
+  {
+    "meeting_id": "MT038",
+    "topic": "AI Knowledge Graph Integration",
+    "participants": [
+      "E009",
+      "E026",
+      "E050"
+    ],
+    "date": "2024-04-08",
+    "summary": "Exploring AI-driven insights across enterprise data."
+  },
+  {
+    "meeting_id": "MT039",
+    "topic": "System Architecture Review",
+    "participants": [
+      "E014",
+      "E022",
+      "E048"
+    ],
+    "date": "2024-04-09",
+    "summary": "Review of current system architecture and improvements."
+  },
+  {
+    "meeting_id": "MT040",
+    "topic": "Enterprise AI Strategy",
+    "participants": [
+      "E011",
+      "E037",
+      "E047"
+    ],
+    "date": "2024-04-10",
+    "summary": "Discussion on integrating RAG with knowledge graphs."
+  },
+  {
+    "meeting_id": "MT041",
+    "topic": "HR Policy Review",
+    "participants": [
+      "E010",
+      "E030",
+      "E052"
+    ],
+    "date": "2024-04-11",
+    "summary": "Review of updated HR and leave policies."
+  },
+  {
+    "meeting_id": "MT042",
+    "topic": "Cloud Migration Plan",
+    "participants": [
+      "E006",
+      "E038",
+      "E044"
+    ],
+    "date": "2024-04-12",
+    "summary": "Planning the migration of services to the cloud."
+  },
+  {
+    "meeting_id": "MT043",
+    "topic": "Data Governance Meeting",
+    "participants": [
+      "E003",
+      "E032",
+      "E041"
+    ],
+    "date": "2024-04-13",
+    "summary": "Discussion on data quality and governance standards."
+  },
+  {
+    "meeting_id": "MT044",
+    "topic": "Security Compliance Update",
+    "participants": [
+      "E007",
+      "E031",
+      "E059"
+    ],
+    "date": "2024-04-14",
+    "summary": "Update on security audits and compliance status."
+  },
+  {
+    "meeting_id": "MT045",
+    "topic": "Product Roadmap Discussion",
+    "participants": [
+      "E019",
+      "E039",
+      "E043"
+    ],
+    "date": "2024-04-15",
+    "summary": "Alignment on upcoming product features and timelines."
+  },
+  {
+    "meeting_id": "MT046",
+    "topic": "AI Knowledge Graph Integration",
+    "participants": [
+      "E013",
+      "E038",
+      "E048"
+    ],
+    "date": "2024-04-16",
+    "summary": "Exploring AI-driven insights across enterprise data."
+  },
+  {
+    "meeting_id": "MT047",
+    "topic": "System Architecture Review",
+    "participants": [
+      "E016",
+      "E030",
+      "E060"
+    ],
+    "date": "2024-04-17",
+    "summary": "Review of current system architecture and improvements."
+  },
+  {
+    "meeting_id": "MT048",
+    "topic": "Enterprise AI Strategy",
+    "participants": [
+      "E004",
+      "E025",
+      "E042"
+    ],
+    "date": "2024-04-18",
+    "summary": "Discussion on integrating RAG with knowledge graphs."
+  },
+  {
+    "meeting_id": "MT049",
+    "topic": "HR Policy Review",
+    "participants": [
+      "E003",
+      "E027",
+      "E048"
+    ],
+    "date": "2024-04-19",
+    "summary": "Review of updated HR and leave policies."
+  },
+  {
+    "meeting_id": "MT050",
+    "topic": "Cloud Migration Plan",
+    "participants": [
+      "E015",
+      "E022",
+      "E043"
+    ],
+    "date": "2024-04-20",
+    "summary": "Planning the migration of services to the cloud."
+  }
+]
