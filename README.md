@@ -52,4 +52,13 @@ Glassmorphism design
 Dark gradient theme
 Responsive layout
 
+
+Questions may ask
+Which assets are under maintenance?
+Which laptops are available?
+Explain leave policy of TCS?
+What is Infosys company overview?
+
+To run: streamlit run streamlit_app.py
+
 The chatbot is deployed using Streamlit with a modern interactive interface and intelligently routes user queries to the appropriate data source, making it suitable for enterprise use cases such as asset tracking, policy lookup, project management, and report summarization.
